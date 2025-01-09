@@ -1,0 +1,6297 @@
+cell_name	Symbol
+Pericyte	Rgs5
+Neural stem cell	Sox2
+Neuron	Rbfox3
+Pericyte	Abcc9
+Pericyte	Dlk1
+Pericyte	Kcnj8
+Astrocyte	Aldh1l1
+Astrocyte	Camsap1
+NG2-glia cell	F11r
+Endothelial cell	Pecam1
+Neural stem cell	Jam3
+Neural stem cell	Prom1
+Oligodendrocyte	Olig2
+Microglial cell	Lrp8
+Microglial cell	Lpcat3
+Microglial cell	Mcoln3
+Microglial cell	Stab1
+Microglial cell	Mfsd10
+Microglial cell	Slco4a1
+Microglial cell	Slc30a5
+Oligodendrocyte precursor cell	Vcan
+Microglial cell	Iba1
+Pericyte	Mcam
+Pericyte	Vcan
+Early neuroblast	Fgf10
+Early neuroblast	Six1
+Late neuroblast	Isl1
+Early neuroblast	Acvr2a
+Ventral otocyst	Pax2
+Ventral otocyst	Gli1
+Dorsal otocyst	Wnt7a
+Dorsal otocyst	Dlx5
+Dorsal otocyst	Fgfr3
+Ventral otocyst	Hes1
+Late neuroblast	Fzd10
+Ventral otocyst	Otx2
+Ventral otocyst	Sox2
+Ventral otocyst	Hey2
+Early neuroblast	Notch1
+Dorsal otocyst	Gbx2
+Early neuroblast	Fgf8
+Early neuroblast	Hes5
+Ventral otocyst	Ntf3
+Ventral otocyst	Otx1
+Ventral otocyst	Fbxo2
+Late neuroblast	Neurog2
+Dorsal otocyst	Wnt7b
+Dorsal otocyst	Fst
+Ventral otocyst	Fzd8
+Dorsal otocyst	Inhba
+Early neuroblast	Neurog1
+Dorsal otocyst	Oc90
+Late neuroblast	Neurod1
+Ventral otocyst	Lfng
+Dorsal otocyst	Emx2
+Dorsal otocyst	Gata2
+Late neuroblast	Eya2
+Dorsal otocyst	Bmp4
+Ventral otocyst	Trpm3
+Late neuroblast	Jag2
+Early neuroblast	Fgf3
+Ventral otocyst	Otol1
+Dorsal otocyst	Wnt2b
+Glial cell	S100a1
+Rhombic lip cell	Eomes
+Rhombic lip cell	Lmx1a
+Rhombic lip cell	Wls
+Rhombic lip cell	Atoh1
+Rhombic lip cell	Pax6
+Neuron	Nfasc
+Neuron	Iba1
+O cell	Aspa
+Neuroblast	Dlx1
+O cell	Sox10
+Neuroblast	Ccnd2
+O cell	Gal3st1
+O cell	Mag
+Neuroblast	Fxyd6
+Neuroblast	Dlx5
+O cell	Mog
+O cell	Kcna1
+Endothelial cell	Kdr
+Neuroblast	Pfn2
+O cell	Kcna6
+Neuroblast	Dlx2
+Neuroblast	Foxc1
+Neuroblast	Dchs1
+Neuroblast	Sox5
+Neuroblast	Dlx6os1
+Neuroblast	Pou3f3
+Neuroblast	Dbn1
+Endothelial cell	Fn1
+Endothelial cell	Eng
+Endothelial cell	Flt1
+Neuroblast	Olfm1
+Neuroblast	Dlx6
+O cell	Mobp
+O cell	Olig1
+O cell	Cldn11
+Endothelial cell	Tek
+Neuroblast	Crmp1
+Neural stem cell	Slc1a3
+Early intermediate precursor cell	Sox11
+Neural stem cell	Sox9
+Neural stem cell	Gfap
+Neural stem cell	Thrsp
+Neural stem cell	Fabp7
+Early intermediate precursor cell	Eomes
+Neural stem cell	Apoe
+Precursor cell	Neurod1
+Mature olfactory sensory neuron	Omp
+Precursor cell	Neurog1
+Progenitor cell	Ascl1
+Immature olfactory sensory neuron	Gng8
+Immature olfactory sensory neuron	Gap43
+Olfactory sensory neuron	Ncam1
+Olfactory sensory neuron	Omp
+Olfactory sensory neuron	Ano2
+Olfactory sensory neuron	Cngb1
+Olfactory sensory neuron	Neurog1
+Olfactory sensory neuron	Cnga4
+Olfactory sensory neuron	Cnga2
+Olfactory sensory neuron	Adcy3
+Olfactory sensory neuron	Gnal
+Astrocyte	Atp1b2
+Microglial cell	Aif1
+Microglial cell	Cx3cr1
+Microglial cell	Itgam
+Chandelier cell	Ibsp
+Interneuron-selective cell	Tpbg
+Long-projecting GABAergic cell	B2m
+Martinotti cell	Sgcd
+Long-projecting GABAergic cell	Opn3
+Long-projecting GABAergic cell	Prcd
+Martinotti cell	Capn5
+Long-projecting GABAergic cell	Kcnmb4
+Martinotti cell	Atp2b4
+Martinotti cell	Hdac4
+Long-projecting GABAergic cell	Slc5a7
+Basket cell	Eif5a2
+Long-projecting GABAergic cell	Nos1
+Long-projecting GABAergic cell	Prex1
+Long-projecting GABAergic cell	Arhgef15
+Martinotti cell	Lipa
+Chandelier cell	Hs3st4
+Chandelier cell	Unc5b
+Chandelier cell	Errfi1
+CCK basket cell	Sntb1
+Interneuron-selective cell	Celsr3
+Interneuron-selective cell	Egfr
+Long-projecting GABAergic cell	Gabrg1
+Long-projecting GABAergic cell	Phf24
+Martinotti cell	Timp3
+Martinotti cell	Adgrb1
+CCK basket cell	Cadps2
+Long-projecting GABAergic cell	Cnih3
+Basket cell	Slit3
+CCK basket cell	Eps8
+Interneuron-selective cell	Rprm
+Martinotti cell	Il34
+Interneuron-selective cell	Sema5b
+CCK basket cell	Kcnf1
+Interneuron-selective cell	Ptms
+Long-projecting GABAergic cell	Ntn1
+Long-projecting GABAergic cell	Sc5d
+Long-projecting GABAergic cell	Tppp3
+Long-projecting GABAergic cell	Clic1
+Long-projecting GABAergic cell	Hey1
+Chandelier cell	Pthlh
+CCK basket cell	Ldb2
+Long-projecting GABAergic cell	Sv2b
+Long-projecting GABAergic cell	Fndc1
+Long-projecting GABAergic cell	Wwc1
+Long-projecting GABAergic cell	1700086L19Rik
+Long-projecting GABAergic cell	Chodl
+Chandelier cell	Gdf10
+Long-projecting GABAergic cell	St6galnac2
+Long-projecting GABAergic cell	Carhsp1
+Basket cell	Prss23
+Chandelier cell	Dusp14
+Basket cell	Hadhb
+Chandelier cell	Trps1
+Long-projecting GABAergic cell	Sst
+Martinotti cell	Cdh22
+Basket cell	Syt2
+Martinotti cell	Zdhhc18
+Long-projecting GABAergic cell	Pou3f2
+Basket cell	Cartpt
+CCK basket cell	Tac2
+Chandelier cell	Necab2
+Interneuron-selective cell	Dok7
+Martinotti cell	Snx8
+Martinotti cell	Cdh7
+Chandelier cell	Peli1
+CCK basket cell	Cxcl14
+Interneuron-selective cell	Dlgap3
+Long-projecting GABAergic cell	S100a10
+Basket cell	Cox6a2
+Interneuron-selective cell	Bcar3
+Long-projecting GABAergic cell	Egfl7
+Chandelier cell	Ifi27
+Martinotti cell	Foxred2
+Martinotti cell	Rasl11a
+Martinotti cell	Lama4
+Long-projecting GABAergic cell	Nptx1
+Basket cell	Nefh
+CCK basket cell	Pde7b
+Basket cell	St6galnac5
+Chandelier cell	Gpr12
+Long-projecting GABAergic cell	Col11a1
+Long-projecting GABAergic cell	Nnat
+Chandelier cell	Nanp
+Chandelier cell	Ramp3
+Martinotti cell	Sirt4
+Long-projecting GABAergic cell	Ndst4
+Chandelier cell	Pygm
+Long-projecting GABAergic cell	Oxtr
+Chandelier cell	Ier2
+Chandelier cell	Fam163b
+Long-projecting GABAergic cell	Gabra2
+Long-projecting GABAergic cell	Wnt2
+Chandelier cell	Pdlim3
+Basket cell	Slit2
+Long-projecting GABAergic cell	Ptpru
+CCK basket cell	Fam163a
+Martinotti cell	Tunar
+CCK basket cell	Usp53
+Long-projecting GABAergic cell	Rasgef1b
+Long-projecting GABAergic cell	Mcub
+Long-projecting GABAergic cell	Pnma3
+Long-projecting GABAergic cell	Slc5a5
+CCK basket cell	Il4ra
+Long-projecting GABAergic cell	Tspan17
+Martinotti cell	Hpse
+Interneuron-selective cell	Nr2e1
+Basket cell	Iqgap2
+Martinotti cell	Kcnk13
+Chandelier cell	Fgf13
+Martinotti cell	Unc13c
+Long-projecting GABAergic cell	D430019H16Rik
+Long-projecting GABAergic cell	Slc7a3
+Interneuron-selective cell	Cracdl
+Long-projecting GABAergic cell	Patl2
+Interneuron-selective cell	Slc12a4
+Basket cell	Esrrg
+Long-projecting GABAergic cell	Bace2
+CCK basket cell	Col15a1
+Interneuron-selective cell	Npy2r
+Long-projecting GABAergic cell	Cort
+Interneuron-selective cell	Rgs16
+Chandelier cell	Mctp2
+Interneuron-selective cell	Unc5a
+Interneuron-selective cell	St3gal1
+Basket cell	Kcnj9
+Interneuron-selective cell	Cpox
+CCK basket cell	Jam2
+Long-projecting GABAergic cell	Adgrg6
+Chandelier cell	Cpne5
+CCK basket cell	Unk
+Basket cell	Tac1
+Interneuron-selective cell	Chrna4
+CCK basket cell	Pnoc
+Long-projecting GABAergic cell	Gpr88
+Chandelier cell	Krt12
+CCK basket cell	Egln3
+Chandelier cell	L2hgdh
+Long-projecting GABAergic cell	Htr1a
+Basket cell	Moxd1
+Basket cell	Nxph2
+CCK basket cell	Ccnd3
+Long-projecting GABAergic cell	Tent5a
+Interneuron-selective cell	Wscd2
+Chandelier cell	Rasgrp1
+CCK basket cell	Mxd1
+Basket cell	Fam43a
+CCK basket cell	Scyl2
+CCK basket cell	Larp1b
+CCK basket cell	Cnr1
+Interneuron-selective cell	Ostf1
+Chandelier cell	Hapln1
+CCK basket cell	Ramp1
+CCK basket cell	Cryab
+Chandelier cell	Pde3a
+CCK basket cell	Sp8
+Basket cell	Vamp1
+CCK basket cell	Sh3bp4
+Basket cell	Dipk2a
+Long-projecting GABAergic cell	Ctxn2
+Basket cell	Hapln4
+Interneuron-selective cell	Kcnh3
+Long-projecting GABAergic cell	Ass1
+Long-projecting GABAergic cell	Dbpht2
+CCK basket cell	Ago2
+Basket cell	Nog
+Martinotti cell	Reln
+Chandelier cell	Thbs1
+Martinotti cell	Ano3
+Long-projecting GABAergic cell	Rbp1
+Long-projecting GABAergic cell	Arl4a
+Chandelier cell	Tgfb3
+Basket cell	Mitf
+Long-projecting GABAergic cell	Sfrp1
+Chandelier cell	Epb41l4a
+Chandelier cell	Vcan
+Long-projecting GABAergic cell	Dpy19l1
+Interneuron-selective cell	Lrrc3b
+Long-projecting GABAergic cell	Ndrg1
+Interneuron-selective cell	Rasd2
+Interneuron-selective cell	Miat
+Long-projecting GABAergic cell	Adamts16
+Long-projecting GABAergic cell	Arhgdig
+Basket cell	Etv6
+Long-projecting GABAergic cell	Ptn
+Martinotti cell	Hopx
+CCK basket cell	Slc25a29
+Martinotti cell	Slc30a3
+Oligodendrocyte precursor cell	Armh4
+Neuron	Syt1
+Mural cell	Vtn
+Neuron	Ly6h
+Endothelial cell	Slc2a1
+Neuron	Ttc3
+Mural cell	Arhgap29
+Mural cell	Tpm2
+Oligodendrocyte	Evi2a
+Mural cell	Mylk
+Endothelial cell	Lsr
+Endothelial cell	Kank3
+Oligodendrocyte	Stmn4
+Astrocyte	Fut9
+Oligodendrocyte	Grb14
+Endothelial cell	Jcad
+Neuron	Kif5c
+Oligodendrocyte	Slc12a2
+Neuron	Pcp4
+Astrocyte	Gm3764
+Neuron	Dynll2
+Oligodendrocyte	Lgi3
+Oligodendrocyte precursor cell	Rap1gap
+Oligodendrocyte	Tmeff2
+Neuron	Fbxl16
+Neuron	S100b
+Oligodendrocyte	Plekhh1
+Neuron	Kif5a
+Oligodendrocyte precursor cell	Sox10
+Oligodendrocyte	Apod
+Mural cell	Phldb2
+Astrocyte	Ntsr2
+Astrocyte	Paqr7
+Astrocyte	Agt
+Oligodendrocyte precursor cell	G0s2
+Astrocyte	Gm9925
+Mural cell	Nbl1
+Oligodendrocyte precursor cell	Gjc3
+Neuron	Atp1b1
+Microglial cell	Cd37
+Endothelial cell	Ramp2
+Microglial cell	Vsir
+Neuron	Stmn3
+Endothelial cell	Ly6a
+Endothelial cell	Emcn
+Oligodendrocyte precursor cell	Ppfibp1
+Neuron	Map1b
+Astrocyte	Htra1
+Astrocyte	Trim9
+Oligodendrocyte precursor cell	Sh3bp4
+Oligodendrocyte precursor cell	Cdo1
+Oligodendrocyte	Lpar1
+Astrocyte	Cldn10
+Astrocyte	Sox9
+Oligodendrocyte precursor cell	Ptpre
+Microglial cell	Cd68
+Neuron	Map1a
+Endothelial cell	Klf2
+Microglial cell	Olfml3
+Oligodendrocyte precursor cell	Tnr
+Endothelial cell	Ptprb
+Endothelial cell	Sgms1
+Microglial cell	Fcer1g
+Microglial cell	Fcrls
+Neuron	Hap1
+Neuron	Stmn2
+Oligodendrocyte	Ccp110
+Mural cell	Higd1b
+Microglial cell	Mafb
+Mural cell	Rgs4
+Neuron	Gng13
+Astrocyte	Dclk1
+Endothelial cell	Paqr5
+Oligodendrocyte	Cldn11
+Endothelial cell	Hspb1
+Oligodendrocyte	Aspa
+Oligodendrocyte precursor cell	Pdgfra
+Microglial cell	Ly86
+Astrocyte	Slc7a10
+Oligodendrocyte	Ndrg1
+Astrocyte	Gja1
+Astrocyte	Plcd4
+Endothelial cell	Tm4sf1
+Mural cell	Myo1b
+Neuron	Rnf227
+Oligodendrocyte	Cntn2
+Microglial cell	C1qc
+Astrocyte	Mfge8
+Oligodendrocyte	Mog
+Mural cell	Rgs5
+Oligodendrocyte	Tmem88b
+Microglial cell	P2ry13
+Microglial cell	Siglech
+Neuron	Nrsn1
+Astrocyte	Slc4a4
+Microglial cell	Slco2b1
+Neuron	Hpcal4
+Microglial cell	C1qb
+Astrocyte	Acsl6
+Astrocyte	Pnisr
+Oligodendrocyte precursor cell	Qpct
+Oligodendrocyte	Ppp1r14a
+Microglial cell	Csf1r
+Mural cell	Igfbp7
+Oligodendrocyte precursor cell	Enpp2
+Mural cell	Colec12
+Mural cell	Ndufa4l2
+Oligodendrocyte	Tnfaip6
+Mural cell	Cald1
+Astrocyte	Gjb6
+Oligodendrocyte	Galnt6
+Endothelial cell	Podxl
+Oligodendrocyte precursor cell	Lrrn1
+Endothelial cell	Abcg2
+Oligodendrocyte	Tspan2
+Mural cell	Serping1
+Mural cell	S1pr3
+Microglial cell	Laptm5
+Neuron	Cnih2
+Oligodendrocyte	Tubb4a
+Neuron	Snrpn
+Microglial cell	Trem2
+Oligodendrocyte precursor cell	Sema3d
+Microglial cell	Ccr5
+Mural cell	Pdgfrb
+Microglial cell	Ltc4s
+Neuron	Arf3
+Astrocyte	S1pr1
+Oligodendrocyte	S1pr5
+Neuron	Rph3a
+Mural cell	Hspb1
+Oligodendrocyte precursor cell	Gria4
+Oligodendrocyte	Gjc3
+Microglial cell	Ncf1
+Astrocyte	Slc6a1
+Oligodendrocyte	Pls1
+Endothelial cell	Egfl7
+Oligodendrocyte	Josd2
+Oligodendrocyte	Pllp
+Astrocyte	Hacd2
+Mural cell	Myh11
+Mural cell	Slc19a1
+Neuron	Sez6
+Mural cell	Carmn
+Neuron	Snap25
+Endothelial cell	Slc9a3r2
+Endothelial cell	Pltp
+Oligodendrocyte	Trf
+Mural cell	Cp
+Oligodendrocyte	Tmem125
+Mural cell	Ifitm1
+Astrocyte	Slc7a11
+Astrocyte	Fgfr3
+Microglial cell	Tmem119
+Astrocyte	Ddhd1
+Neuron	Camk2a
+Oligodendrocyte	Ermn
+Oligodendrocyte precursor cell	Cacng4
+Mural cell	Tm4sf1
+Mural cell	Lmod1
+Endothelial cell	Esam
+Mural cell	Kcnj8
+Oligodendrocyte	Mag
+Microglial cell	Irf8
+Mural cell	Crip1
+Oligodendrocyte precursor cell	Cspg4
+Oligodendrocyte	Efnb3
+Neuron	Bex2
+Endothelial cell	Cavin2
+Neuron	Nrgn
+Neuron	Ctxn1
+Oligodendrocyte	Gjc2
+Microglial cell	Il6ra
+Astrocyte	Slc39a12
+Astrocyte	Fzd2
+Neuron	Unc13c
+Oligodendrocyte precursor cell	Slc35f1
+Microglial cell	C1qa
+Oligodendrocyte precursor cell	Gria3
+Oligodendrocyte precursor cell	C1ql1
+Oligodendrocyte precursor cell	Olig1
+Oligodendrocyte precursor cell	Phlda1
+Oligodendrocyte precursor cell	Pllp
+Astrocyte	Id4
+Oligodendrocyte precursor cell	Epn2
+Neuron	Atp1a3
+Astrocyte	Gpld1
+Astrocyte	Bcan
+Endothelial cell	Foxq1
+Oligodendrocyte precursor cell	Traf4
+Endothelial cell	Kitl
+Astrocyte	Acsl3
+Mural cell	Filip1l
+Oligodendrocyte	Ugt8a
+Microglial cell	Arhgap45
+Neuron	Celf4
+Microglial cell	Mpeg1
+Microglial cell	Abi3
+Oligodendrocyte	Opalin
+Endothelial cell	Ctla2a
+Oligodendrocyte precursor cell	Matn4
+Oligodendrocyte precursor cell	Snx22
+Oligodendrocyte	Enpp2
+Neuron	Selenow
+Microglial cell	Lair1
+Mural cell	Igf2
+Oligodendrocyte	Pex5l
+Mural cell	Ifitm3
+Endothelial cell	Ifitm3
+Astrocyte	Slc27a1
+Mural cell	Map3k7cl
+Endothelial cell	Clic5
+Neuron	6330403K07Rik
+Astrocyte	Nkain4
+Oligodendrocyte	Gsn
+Oligodendrocyte precursor cell	Plpp4
+Endothelial cell	Ly6c1
+Mural cell	Gja4
+Mural cell	Gjc1
+Oligodendrocyte precursor cell	Brinp1
+Oligodendrocyte precursor cell	Tmem255b
+Endothelial cell	Cdh5
+Oligodendrocyte	Smco3
+Microglial cell	Unc93b1
+Oligodendrocyte precursor cell	Neu4
+Oligodendrocyte	Trim59
+Neuron	Chd3
+Astrocyte	Gpr37l1
+Mural cell	Slc6a20a
+Neuron	Pcsk1n
+Endothelial cell	Adgrl4
+Microglial cell	Tyrobp
+Microglial cell	Tgfbr1
+Neuron	Agap2
+Endothelial cell	Sox17
+Mural cell	Tagln
+Endothelial cell	Igfbp7
+Astrocyte	Slc6a11
+Astrocyte	Vegfa
+Oligodendrocyte precursor cell	Vxn
+Microglial cell	Cd53
+Microglial cell	Cd14
+Astrocyte	Ednrb
+Endothelial cell	Ly6c2
+Mural cell	Pln
+Mural cell	Ifitm2
+Mural cell	P2ry14
+Microglial cell	Cyth4
+Oligodendrocyte precursor cell	Slc1a1
+Neuron	Gap43
+Oligodendrocyte precursor cell	Olig2
+Oligodendrocyte	Tmem151a
+Endothelial cell	Acvrl1
+Oligodendrocyte	Mal
+Neuron	Rtn1
+Astrocyte	Msmo1
+Oligodendrocyte precursor cell	Tpm1
+Neuron	Map2
+Neuron	Scg2
+Microglial cell	Hpgd
+Oligodendrocyte precursor cell	Rlbp1
+Oligodendrocyte	Ttll7
+Microglial cell	Selplg
+Neuron	Ahi1
+Oligodendrocyte precursor cell	A930009A15Rik
+Astrocyte	Tril
+Mural cell	Gm13861
+Endothelial cell	Abcb1a
+Endothelial cell	Itm2a
+Endothelial cell	Cxcl12
+Neuron	Rasgef1a
+Microglial cell	Rnase4
+Oligodendrocyte precursor cell	Emid1
+Astrocyte	Sdc4
+Endothelial cell	Slco1a4
+Oligodendrocyte precursor cell	Megf11
+Mural cell	Zic1
+Mural cell	Acta2
+Microglial cell	Hpgds
+Mural cell	Mgp
+Endothelial cell	Nostrin
+Microglial cell	Ptgs1
+Endothelial cell	Pcp4l1
+Mural cell	Myl9
+Astrocyte	Atp13a4
+Oligodendrocyte precursor cell	Susd5
+Microglial cell	Gpr34
+Oligodendrocyte	Hapln2
+Neuron	Nefl
+Microglial cell	Lpcat2
+Endothelial cell	Palmd
+Astrocyte	Pla2g7
+Endothelial cell	Srgn
+Astrocyte	Fjx1
+Microglial cell	Hexb
+Astrocyte	Entpd2
+Endothelial cell	Pglyrp1
+Oligodendrocyte precursor cell	Gpr17
+Astrocyte	Eva1a
+Mural cell	Perp
+Oligodendrocyte	Gpr37
+Microglial cell	Inpp5d
+Oligodendrocyte precursor cell	Nxph1
+Oligodendrocyte	Gjb1
+Microglial cell	Ctss
+Mural cell	Aspn
+Neuron	Camk2b
+Oligodendrocyte precursor cell	Nav1
+Oligodendrocyte precursor cell	Myt1
+Microglial cell	Pld4
+Neuron	Rab3c
+Mural cell	Slc38a11
+Microglial cell	P2ry12
+Microglial cell	Fcgr3
+Astrocyte	Gria2
+Mural cell	Pcolce
+Astrocyte	Tlcd1
+Oligodendrocyte	Pdlim2
+Oligodendrocyte precursor cell	Cntn1
+Endothelial cell	Wfdc1
+Oligodendrocyte	Fa2h
+Endothelial cell	Adgrf5
+Mural cell	Rbpms
+Neuron	Camk2n1
+Oligodendrocyte precursor cell	Tspan6
+Neuron	Ncdn
+Neuron	Myt1l
+Oligodendrocyte	Ptgds
+Astrocyte	Aqp4
+Neuron	Cplx2
+Mural cell	Ecm2
+Endothelial cell	Sema3c
+Oligodendrocyte precursor cell	Pcdh15
+Astrocyte	Lfng
+Oligodendrocyte precursor cell	Sulf2
+Endothelial cell	Car4
+Endothelial cell	Cldn5
+Mural cell	Bgn
+Oligodendrocyte precursor cell	Mmp16
+Oligodendrocyte precursor cell	Tmem132d
+Smooth muscle cell	Arhgap42
+Olfactory ensheathing glia	Phldb2
+Endothelial cell	Rasgrp3
+Cajal-Retzius cell	Kcnb2
+Bergmann glial cell	Stk32a
+Macrophage	Ehd4
+Cajal-Retzius cell	Aatf
+Smooth muscle cell	Pde5a
+Bergmann glial cell	Prex1
+Microglial cell	Runx1
+Microglial cell	Rasgrp3
+Oligodendrocyte precursor cell	Kif13a
+Olfactory ensheathing glia	Igf1
+Oligodendrocyte precursor cell	Fchsd2
+Cajal-Retzius cell	Ebf3
+Olfactory ensheathing glia	0610040J01Rik
+Endothelial cell	Mfsd2a
+Ependymal cell	Ttll8
+Smooth muscle cell	Pde8b
+Cajal-Retzius cell	Tmem200a
+Bergmann glial cell	Pax3
+Smooth muscle cell	Myh9
+Ependymal cell	Cfap44
+Cajal-Retzius cell	Cobll1
+Olfactory ensheathing glia	Zbtb7c
+Smooth muscle cell	Abcc9
+Microglial cell	Arsb
+Oligodendrocyte precursor cell	Gm4876
+Endothelial cell	Slco1c1
+Ependymal cell	Dnai3
+Cajal-Retzius cell	Cep112
+Cajal-Retzius cell	Ndnf
+Ependymal cell	Enkur
+Oligodendrocyte precursor cell	Usp24
+Smooth muscle cell	Col4a1
+Bergmann glial cell	Gpm6b
+Macrophage	P2rx7
+Smooth muscle cell	Lama2
+Endothelial cell	Lmntd1
+Bergmann glial cell	Lrig1
+Oligodendrocyte precursor cell	Pde7b
+Olfactory ensheathing glia	Spata13
+Oligodendrocyte precursor cell	Wipf1
+Endothelial cell	Ccdc141
+Ependymal cell	3300002A11Rik
+Macrophage	Lgmn
+Bergmann glial cell	Shroom3
+Ependymal cell	Ccdc170
+Macrophage	Stard8
+Macrophage	Sirpa
+Macrophage	Cfh
+Olfactory ensheathing glia	Sash1
+Olfactory ensheathing glia	Apcdd1
+Smooth muscle cell	Epas1
+Olfactory ensheathing glia	Lhfp
+Smooth muscle cell	Plce1
+Macrophage	Slc9a9
+Macrophage	Dclre1c
+Bergmann glial cell	Plpp3
+Microglial cell	Myo1f
+Macrophage	Ikzf1
+Macrophage	Rreb1
+Cajal-Retzius cell	Frmd4b
+Olfactory ensheathing glia	Col27a1
+Ependymal cell	Cfap46
+Microglial cell	Zfp710
+Cajal-Retzius cell	Reln
+Olfactory ensheathing glia	Mybpc1
+Endothelial cell	Fzd6
+Oligodendrocyte precursor cell	Xylt1
+Smooth muscle cell	Irag1
+Endothelial cell	Rgs5
+Microglial cell	Tbxas1
+Oligodendrocyte precursor cell	Pid1
+Ependymal cell	Armc3
+Ependymal cell	Fhad1
+Ependymal cell	Ttc29
+Endothelial cell	Mecom
+Microglial cell	0610040J01Rik
+Oligodendrocyte precursor cell	Spon1
+Smooth muscle cell	Col4a2
+Olfactory ensheathing glia	Adamtsl1
+Ependymal cell	Cfap299
+Oligodendrocyte precursor cell	Abtb2
+Cajal-Retzius cell	Robo2
+Cajal-Retzius cell	Epha3
+Oligodendrocyte precursor cell	Nova1
+Oligodendrocyte precursor cell	Sema5a
+Olfactory ensheathing glia	Rreb1
+Ependymal cell	Vwa3a
+Microglial cell	Fli1
+Macrophage	Dock2
+Smooth muscle cell	Rapgef5
+Olfactory ensheathing glia	Adam12
+Endothelial cell	Cyyr1
+Cajal-Retzius cell	Kcnc2
+Smooth muscle cell	Stard8
+Macrophage	Rbm47
+Macrophage	Bank1
+Microglial cell	Rreb1
+Cajal-Retzius cell	Trp73
+Macrophage	Tnfrsf11a
+Endothelial cell	Slc16a1
+Microglial cell	Lyn
+Endothelial cell	Ly75
+Oligodendrocyte precursor cell	Zeb1
+Olfactory ensheathing glia	Ptn
+Olfactory ensheathing glia	Fat1
+Smooth muscle cell	Vstm4
+Oligodendrocyte precursor cell	Brinp3
+Macrophage	Abca9
+Neuron	Meg3
+Oligodendrocyte precursor cell	Pcdh11x
+Cajal-Retzius cell	Kcnh7
+Olfactory ensheathing glia	Lama4
+Bergmann glial cell	Ednrb
+Endothelial cell	Slco2b1
+Oligodendrocyte precursor cell	Arhgap31
+Bergmann glial cell	Eps15
+Oligodendrocyte precursor cell	Tox
+Bergmann glial cell	Sfxn5
+Oligodendrocyte	Mbp
+Cajal-Retzius cell	Cdyl
+Ependymal cell	Ccdc162
+Cajal-Retzius cell	Angpt1
+Cajal-Retzius cell	Ccdc148
+Macrophage	Pnpla7
+Microglial cell	Dock2
+Ependymal cell	Odad1
+Smooth muscle cell	Phldb2
+Ependymal cell	Lrriq1
+Bergmann glial cell	Sned1
+Cajal-Retzius cell	Maml3
+Bergmann glial cell	Grid2
+Bergmann glial cell	Pla2g7
+Cajal-Retzius cell	Thsd7b
+Oligodendrocyte precursor cell	Adam12
+Endothelial cell	Itga1
+Macrophage	Ctsb
+Microglial cell	Ctsb
+Microglial cell	Lgmn
+Smooth muscle cell	Pald1
+Bergmann glial cell	Aldh1l1
+Olfactory ensheathing glia	Gsap
+Macrophage	Dock8
+Smooth muscle cell	Ano1
+Olfactory ensheathing glia	Bnc2
+Ependymal cell	Cfap65
+Microglial cell	Adap2
+Endothelial cell	Rbpms
+Bergmann glial cell	Rfx4
+Macrophage	Maf
+Cajal-Retzius cell	Fndc3b
+Ependymal cell	Dnah11
+Endothelial cell	St3gal6
+Microglial cell	Skap2
+Ependymal cell	Zbbx
+Macrophage	Gas6
+Microglial cell	Sirpa
+Bergmann glial cell	Pdzrn3
+Ependymal cell	Ttc21a
+Cajal-Retzius cell	Tmem163
+Olfactory ensheathing glia	Mxi1
+Cajal-Retzius cell	Cdh4
+Oligodendrocyte precursor cell	Sox2ot
+Olfactory ensheathing glia	Bmp7
+Macrophage	Tnfaip8
+Microglial cell	Pros1
+Ependymal cell	Ak9
+Ependymal cell	Dnah5
+Macrophage	Mrc1
+Microglial cell	Mertk
+Microglial cell	Ptprc
+Olfactory ensheathing glia	Grin3a
+Microglial cell	Serinc3
+Endothelial cell	Vwf
+Olfactory ensheathing glia	Afap1l2
+Macrophage	Runx1
+Macrophage	Wdfy4
+Vascular cell	Col1a2
+Macrophage	Lyn
+Smooth muscle cell	Lama4
+Macrophage	Apoe
+Macrophage	Adgre1
+Cajal-Retzius cell	Msi2
+Cajal-Retzius cell	Bbx
+Oligodendrocyte precursor cell	Ptprz1
+Smooth muscle cell	Egflam
+Cajal-Retzius cell	Pdzd2
+Macrophage	Dab2
+Cajal-Retzius cell	Dscaml1
+Bergmann glial cell	Pde3a
+Bergmann glial cell	Paqr8
+Oligodendrocyte precursor cell	Slc9a9
+Ependymal cell	Adamts20
+Smooth muscle cell	Nid1
+Olfactory ensheathing glia	Col5a2
+Smooth muscle cell	Notch3
+Oligodendrocyte precursor cell	Chst11
+Macrophage	Fli1
+Cajal-Retzius cell	Cacna2d2
+Oligodendrocyte precursor cell	Sema5b
+Microglial cell	Apbb1ip
+Ependymal cell	Efhb
+Bergmann glial cell	Slc4a4
+Smooth muscle cell	Morrbid
+Microglial cell	Abca9
+Bergmann glial cell	Sh3pxd2b
+Smooth muscle cell	Slc38a11
+Oligodendrocyte precursor cell	Sox6
+Ependymal cell	Spag17
+Bergmann glial cell	Prex2
+Smooth muscle cell	Lamb1
+Ependymal cell	Lmntd1
+Olfactory ensheathing glia	Foxo1
+Cajal-Retzius cell	Cacna2d1
+Endothelial cell	Rassf9
+Ependymal cell	Nek11
+Microglial cell	Pik3ap1
+Olfactory ensheathing glia	Ptpn13
+Endothelial cell	Hmcn1
+Macrophage	Unc93b1
+Ependymal cell	Kif9
+Microglial cell	Vav1
+Cajal-Retzius cell	Ripor2
+Microglial cell	Adgre1
+Endothelial cell	Cd93
+Bergmann glial cell	Greb1l
+Ependymal cell	Spag16
+Smooth muscle cell	Atp1a2
+Cajal-Retzius cell	Clstn2
+Microglial cell	Bmp2k
+Smooth muscle cell	Ets1
+Olfactory ensheathing glia	Bcar3
+Bergmann glial cell	Bmpr1b
+Ependymal cell	Cfap43
+Ependymal cell	Spata17
+Oligodendrocyte precursor cell	Bcas1
+Olfactory ensheathing glia	Gm10863
+Smooth muscle cell	Pdgfrb
+Bergmann glial cell	Tnc
+Olfactory ensheathing glia	Tnfrsf19
+Bergmann glial cell	Megf10
+Olfactory ensheathing glia	Slc27a1
+Macrophage	Zfp710
+Endothelial cell	Erg
+Microglial cell	Tgfbr2
+Bergmann glial cell	Gsap
+Bergmann glial cell	Usp6nl
+Cajal-Retzius cell	Fat3
+Olfactory ensheathing glia	Prima1
+Endothelial cell	Nos3
+Smooth muscle cell	Itga1
+Leptomeningeal cell	Col1a2
+Smooth muscle cell	Cobll1
+Macrophage	Pik3ap1
+Endothelial cell	Lama4
+Macrophage	Tgfbr2
+Endothelial cell	Slc22a8
+Oligodendrocyte precursor cell	6030443J06Rik
+Endothelial cell	Cgnl1
+Oligodendrocyte precursor cell	Itpr2
+Ependymal cell	Gm973
+Macrophage	Tbxas1
+Olfactory ensheathing glia	Denn2b
+Cajal-Retzius cell	Smad1
+Ependymal cell	Drc3
+Olfactory ensheathing glia	Col23a1
+Macrophage	Cmah
+Cajal-Retzius cell	Gfra1
+Smooth muscle cell	Igfbp7
+Endothelial cell	Hspg2
+Oligodendrocyte precursor cell	Mir9-3hg
+Endothelial cell	Epas1
+Cajal-Retzius cell	Slc22a15
+Bergmann glial cell	Fbxl7
+Ependymal cell	Daw1
+Olfactory ensheathing glia	Plce1
+Olfactory ensheathing glia	Sntb1
+Endothelial cell	Slc40a1
+Ependymal cell	Dnah12
+Oligodendrocyte precursor cell	Serpine2
+Macrophage	Snx2
+Smooth muscle cell	Ednra
+Cajal-Retzius cell	Diablo
+Macrophage	P2ry12
+Smooth muscle cell	Adap2
+Macrophage	Csf1r
+Microglial cell	Lrmda
+Macrophage	Lrmda
+Microglial cell	Ikzf1
+Smooth muscle cell	Rgs5
+Oligodendrocyte precursor cell	Snx25
+Macrophage	Ddx60
+Cajal-Retzius cell	Plekha7
+Endothelial cell	Ets1
+Oligodendrocyte precursor cell	Dock1
+Microglial cell	Dock8
+Ependymal cell	Tmem212
+Ependymal cell	Dnah6
+Macrophage	Inpp5d
+Olfactory ensheathing glia	St6gal1
+Oligodendrocyte precursor cell	Kank1
+Cajal-Retzius cell	Emx2os
+Macrophage	Fyb
+Bergmann glial cell	Gm3764
+Bergmann glial cell	Fgfr1
+Bergmann glial cell	Mcc
+Macrophage	Rbpj
+Cajal-Retzius cell	Gpc1
+Olfactory ensheathing glia	Cpne8
+Endothelial cell	Fli1
+Olfactory ensheathing glia	Stard13
+Ependymal cell	Hydin
+Olfactory ensheathing glia	Lef1
+Cajal-Retzius cell	Slc2a13
+Bergmann glial cell	Nhsl1
+Bergmann glial cell	Slc1a3
+Smooth muscle cell	Sntb1
+Oligodendrocyte precursor cell	Tns3
+Bergmann glial cell	Luzp2
+Smooth muscle cell	Trpc3
+Cajal-Retzius cell	Fmn1
+Endothelial cell	Slc7a1
+Ependymal cell	Ak7
+Bergmann glial cell	Nwd1
+Microglial cell	Fyb
+Microglial cell	Nckap1l
+Smooth muscle cell	Cald1
+Cajal-Retzius cell	Elapor1
+Bergmann glial cell	Rgma
+Bergmann glial cell	Gli3
+Smooth muscle cell	Rbpms
+Smooth muscle cell	Airn
+Olfactory ensheathing glia	Smoc1
+Olfactory ensheathing glia	Pde4b
+Macrophage	Aoah
+Bergmann glial cell	Arhgef26
+Olfactory ensheathing glia	Fabp7
+Endothelial cell	Itga4
+Cajal-Retzius cell	Bin1
+Olfactory ensheathing glia	Ror1
+Bergmann glial cell	Tcf7l1
+Cajal-Retzius cell	Dach1
+Oligodendrocyte precursor cell	Ppp2r2b
+Cajal-Retzius cell	Dync1i1
+Ependymal cell	Rgs22
+Bergmann glial cell	Arhgef4
+Microglial cell	Itgb5
+Oligodendrocyte precursor cell	Sh3d19
+Smooth muscle cell	Myo1b
+Ependymal cell	Cfap61
+Ependymal cell	Ccdc60
+Ependymal cell	Dnah10
+Ependymal cell	Iqck
+Macrophage	F13a1
+Olfactory ensheathing glia	Atp1a2
+Bergmann glial cell	Emid1
+Ependymal cell	Spef2
+Smooth muscle cell	Gucy1a1
+Macrophage	Colec12
+Oligodendrocyte precursor cell	Gm10530
+Macrophage	Arhgap15
+Smooth muscle cell	Uaca
+Bergmann glial cell	Col23a1
+Oligodendrocyte precursor cell	Dscam
+Olfactory ensheathing glia	Lrig1
+Bergmann glial cell	Plce1
+Smooth muscle cell	Slc6a20a
+Endothelial cell	Zfp366
+Smooth muscle cell	Dock6
+Endothelial cell	Wwtr1
+Bergmann glial cell	Vcan
+Endothelial cell	Apcdd1
+Bergmann glial cell	Pcx
+Macrophage	Stab1
+Macrophage	Cd84
+Smooth muscle cell	Dlc1
+Smooth muscle cell	Slc16a12
+Olfactory ensheathing glia	Notch2
+Olfactory ensheathing glia	Plp1
+Olfactory ensheathing glia	Yap1
+Bergmann glial cell	Sparcl1
+Microglial cell	Lcp2
+Olfactory ensheathing glia	Frzb
+Olfactory ensheathing glia	Usp54
+Ependymal cell	Dnah3
+Endothelial cell	Sparc
+Cajal-Retzius cell	Pou6f2
+Cajal-Retzius cell	Cntnap2
+Smooth muscle cell	Gjc1
+Bergmann glial cell	Meis1
+Smooth muscle cell	Itih5
+Ependymal cell	Ccdc180
+Oligodendrocyte precursor cell	Kcnip3
+Ependymal cell	Lrguk
+Bergmann glial cell	Npas3
+Smooth muscle cell	Tns1
+Smooth muscle cell	Atp13a5
+Macrophage	Hpgds
+Bergmann glial cell	Aqp4
+Endothelial cell	Rhoj
+Ependymal cell	Tmem232
+Olfactory ensheathing glia	Lamc1
+Ependymal cell	Ccdc146
+Cajal-Retzius cell	Nrg1
+Cajal-Retzius cell	Rbms1
+Cajal-Retzius cell	Utrn
+Microglial cell	Entpd1
+Endothelial cell	Slc7a5
+Cajal-Retzius cell	B3galt1
+Bergmann glial cell	Gli2
+Ependymal cell	Kif6
+Ependymal cell	Clu
+Ependymal cell	Ccdc153
+Ependymal cell	Mia
+Oligodendrocyte	Plp1
+Activated neural stem cell	Thbs4
+Late activated neural stem cell	Top2a
+Neuroblast	Stmn2
+Quiescent neural stem cell	Ntm
+Activated neural stem cell	Fbxo2
+Quiescent neural stem cell	Ntsr2
+Neuroblast	Dcx
+Quiescent neural stem cell	Mfge8
+Activated neural stem cell	Fxyd1
+Ependymal cell	S100b
+Ependymal cell	Sox9
+Late activated neural stem cell	Pclaf
+Ependymal cell	Acta2
+Quiescent neural stem cell	Clu
+Late activated neural stem cell	Hmgb2
+Ependymal cell	Gja1
+Neuroblast	Celf4
+Quiescent neural stem cell	Sox9
+Quiescent neural stem cell	Htra1
+Activated neural stem cell	Csf3
+Quiescent neural stem cell	Gja1
+Ependymal cell	Foxj1
+Oligodendrocyte	Olig1
+Late activated neural stem cell	Cdk1
+Quiescent neural stem cell	Atp1a2
+Activated neural stem cell	Gfap
+Late activated neural stem cell	Cenpf
+Ependymal cell	Tm4sf1
+Neuroblast	Btg1
+Late activated neural stem cell	H2ac24
+Activated neural stem cell	Id3
+Ependymal cell	Rarres2
+Quiescent neural stem cell	Aldoc
+Oligodendrocyte	Sox10
+Neuroblast	Meis2
+Quiescent neural stem cell	S100b
+Type IB spiral ganglion neuron	Sestd1
+Type IB spiral ganglion neuron	Lrrc7
+Type I spiral ganglion neuron	Cep97
+Type I spiral ganglion neuron	Ippk
+Type II spiral ganglion neuron	Fam117a
+Type IC spiral ganglion neuron	Kif26b
+Type I spiral ganglion neuron	Abcg4
+Type II spiral ganglion neuron	Lin28b
+Type IA spiral ganglion neuron	Col4a2
+Type I spiral ganglion neuron	Plxna4
+Type I spiral ganglion neuron	Mapkapk3
+Type I spiral ganglion neuron	Plekha2
+Type I spiral ganglion neuron	Rnf115
+Type I spiral ganglion neuron	Rubcn
+Type IA spiral ganglion neuron	Tmem132c
+Type I spiral ganglion neuron	Specc1
+Type I spiral ganglion neuron	Pecr
+Type I spiral ganglion neuron	Adra1d
+Type II spiral ganglion neuron	Cyp39a1
+Type IA spiral ganglion neuron	Tiam1
+Type II spiral ganglion neuron	Gnb4
+Type II spiral ganglion neuron	Pwwp3b
+Type I spiral ganglion neuron	Fn3k
+Type IA spiral ganglion neuron	Pcdh20
+Type I spiral ganglion neuron	Amph
+Type II spiral ganglion neuron	Scarletltr
+Type IC spiral ganglion neuron	Clrn1
+Type II spiral ganglion neuron	Tjp2
+Type I spiral ganglion neuron	Arfgef1
+Type IC spiral ganglion neuron	Khdrbs2
+Type I spiral ganglion neuron	Spr
+Type I spiral ganglion neuron	Atf6b
+Type I spiral ganglion neuron	Mtx1
+Type I spiral ganglion neuron	Tmem222
+Type I spiral ganglion neuron	Zfp354c
+Type II spiral ganglion neuron	Sema6d
+Type I spiral ganglion neuron	Mecp2
+Type I spiral ganglion neuron	Pcgf1
+Type IA spiral ganglion neuron	Lmcd1
+Type I spiral ganglion neuron	Eif1ad
+Type I spiral ganglion neuron	Uap1
+Type IC spiral ganglion neuron	Cckar
+Type I spiral ganglion neuron	Sv2c
+Type II spiral ganglion neuron	Slc36a1
+Type IA spiral ganglion neuron	Tmem108
+Type IA spiral ganglion neuron	Plin2
+Type II spiral ganglion neuron	Pycrl
+Type I spiral ganglion neuron	Clip4
+Type I spiral ganglion neuron	Mrpl45
+Type II spiral ganglion neuron	Acvr2a
+Type I spiral ganglion neuron	Ptcd2
+Type I spiral ganglion neuron	Fut8
+Type I spiral ganglion neuron	Parp1
+Type I spiral ganglion neuron	Kank4
+Type I spiral ganglion neuron	Qrich1
+Type I spiral ganglion neuron	Dhrs1
+Type II spiral ganglion neuron	Sgk3
+Type II spiral ganglion neuron	Chd3
+Type IA spiral ganglion neuron	Por
+Type I spiral ganglion neuron	Zfp322a
+Type II spiral ganglion neuron	Wasf2
+Type I spiral ganglion neuron	Cdk14
+Type I spiral ganglion neuron	Sppl2a
+Type I spiral ganglion neuron	Setx
+Type II spiral ganglion neuron	Bean1
+Type I spiral ganglion neuron	Cables2
+Type I spiral ganglion neuron	Eral1
+Type I spiral ganglion neuron	Kctd7
+Type I spiral ganglion neuron	Aldoc
+Type I spiral ganglion neuron	Mprip
+Type II spiral ganglion neuron	Tshz3
+Type I spiral ganglion neuron	Tsc22d3
+Type IA spiral ganglion neuron	Pced1b
+Type I spiral ganglion neuron	Brsk2
+Type I spiral ganglion neuron	Ccdc9b
+Type II spiral ganglion neuron	Jpt2
+Type IC spiral ganglion neuron	Obi1
+Type IA spiral ganglion neuron	Rpp25
+Type II spiral ganglion neuron	Arhgef28
+Type IC spiral ganglion neuron	Mcm6
+Type II spiral ganglion neuron	Nipsnap3b
+Type I spiral ganglion neuron	Ndufc2
+Type I spiral ganglion neuron	Adprh
+Type IA spiral ganglion neuron	Cachd1
+Type IC spiral ganglion neuron	Mgat4c
+Type IC spiral ganglion neuron	Plcd4
+Type I spiral ganglion neuron	Agl
+Type I spiral ganglion neuron	Uhmk1
+Type I spiral ganglion neuron	Map7d1
+Type I spiral ganglion neuron	Zdhhc5
+Type I spiral ganglion neuron	Shisa4
+Type IA spiral ganglion neuron	Mbd2
+Type I spiral ganglion neuron	Polr3b
+Type I spiral ganglion neuron	Nat8l
+Type II spiral ganglion neuron	Gprasp2
+Type I spiral ganglion neuron	Chchd10
+Type II spiral ganglion neuron	Agpat3
+Type I spiral ganglion neuron	Paqr4
+Type II spiral ganglion neuron	Tmem104
+Type I spiral ganglion neuron	Brms1l
+Type II spiral ganglion neuron	Gm16070
+Type II spiral ganglion neuron	Ptprm
+Type II spiral ganglion neuron	Epha8
+Type IA spiral ganglion neuron	Bag3
+Type IA spiral ganglion neuron	Bves
+Type IA spiral ganglion neuron	Lratd1
+Type I spiral ganglion neuron	Msantd4
+Type I spiral ganglion neuron	Vti1a
+Type IC spiral ganglion neuron	Adam11
+Type I spiral ganglion neuron	Mgst3
+Type I spiral ganglion neuron	Tinf2
+Type IC spiral ganglion neuron	Cit
+Type I spiral ganglion neuron	Rhobtb2
+Type I spiral ganglion neuron	Unc5a
+Type II spiral ganglion neuron	Rin2
+Type II spiral ganglion neuron	Cbx4
+Type I spiral ganglion neuron	Nkrf
+Type I spiral ganglion neuron	Lsmem1
+Type I spiral ganglion neuron	B9d2
+Type II spiral ganglion neuron	Slc29a4
+Type I spiral ganglion neuron	Peg13
+Type II spiral ganglion neuron	Itga9
+Type II spiral ganglion neuron	Sdsl
+Type II spiral ganglion neuron	Gpd2
+Type II spiral ganglion neuron	Ccdc167
+Type I spiral ganglion neuron	AI854703
+Type I spiral ganglion neuron	Atxn7l3
+Type II spiral ganglion neuron	Scg2
+Type II spiral ganglion neuron	Pim2
+Type I spiral ganglion neuron	Fign
+Type I spiral ganglion neuron	Entpd3
+Type I spiral ganglion neuron	Stk40
+Type IA spiral ganglion neuron	Carhsp1
+Type II spiral ganglion neuron	Mmgt2
+Type II spiral ganglion neuron	Rrbp1
+Type I spiral ganglion neuron	Ank1
+Type I spiral ganglion neuron	Steap2
+Type I spiral ganglion neuron	Ttc17
+Type II spiral ganglion neuron	Acadl
+Type I spiral ganglion neuron	Galnt17
+Type IA spiral ganglion neuron	Ttc38
+Type I spiral ganglion neuron	Auh
+Type I spiral ganglion neuron	0610030E20Rik
+Type IA spiral ganglion neuron	Asap2
+Type II spiral ganglion neuron	Id3
+Type II spiral ganglion neuron	Fam227a
+Type II spiral ganglion neuron	Tuba8
+Type II spiral ganglion neuron	Crip2
+Type I spiral ganglion neuron	Gadd45b
+Type I spiral ganglion neuron	Dcaf10
+Type I spiral ganglion neuron	Stk24
+Type II spiral ganglion neuron	2900026A02Rik
+Type II spiral ganglion neuron	Neurl1a
+Type IA spiral ganglion neuron	Gm12992
+Type I spiral ganglion neuron	Ckmt2
+Type I spiral ganglion neuron	Atp13a2
+Type I spiral ganglion neuron	Pld5
+Type II spiral ganglion neuron	Fxyd6
+Type II spiral ganglion neuron	Plcb3
+Type I spiral ganglion neuron	Kndc1
+Type I spiral ganglion neuron	Ppp2r2c
+Type II spiral ganglion neuron	Il3ra
+Type I spiral ganglion neuron	Strip2
+Type I spiral ganglion neuron	Nmrk1
+Type I spiral ganglion neuron	Tle5
+Type II spiral ganglion neuron	Pwwp2b
+Type I spiral ganglion neuron	Fez2
+Type IC spiral ganglion neuron	Anks1b
+Type I spiral ganglion neuron	Abca3
+Type IA spiral ganglion neuron	Me1
+Type I spiral ganglion neuron	Msantd3
+Type IA spiral ganglion neuron	Afap1l1
+Type I spiral ganglion neuron	Fam98c
+Type I spiral ganglion neuron	Gpcpd1
+Type IC spiral ganglion neuron	Galnt13
+Type I spiral ganglion neuron	Syap1
+Type I spiral ganglion neuron	Fam53b
+Type II spiral ganglion neuron	Shroom3
+Type I spiral ganglion neuron	Lmcd1
+Type I spiral ganglion neuron	Plvap
+Type II spiral ganglion neuron	Dnph1
+Type IC spiral ganglion neuron	P3h4
+Type I spiral ganglion neuron	4931428F04Rik
+Type I spiral ganglion neuron	Ogfr
+Type I spiral ganglion neuron	Me3
+Type IC spiral ganglion neuron	Sncg
+Type I spiral ganglion neuron	Tpbgl
+Type I spiral ganglion neuron	Lgi2
+Type I spiral ganglion neuron	Gm13629
+Type I spiral ganglion neuron	Pten
+Type IC spiral ganglion neuron	Slit2
+Type I spiral ganglion neuron	Luzp1
+Type I spiral ganglion neuron	Vsnl1
+Type I spiral ganglion neuron	Pcnx2
+Type IC spiral ganglion neuron	Lrrk2
+Type IA spiral ganglion neuron	Calb2
+Type I spiral ganglion neuron	Rdh14
+Type I spiral ganglion neuron	Mtfr1
+Type II spiral ganglion neuron	Scrib
+Type I spiral ganglion neuron	Btg1
+Type II spiral ganglion neuron	Gng10
+Type I spiral ganglion neuron	Nr1d2
+Type I spiral ganglion neuron	Ppp1r8
+Type I spiral ganglion neuron	Gcsh
+Type IA spiral ganglion neuron	Snta1
+Type IB spiral ganglion neuron	Tmprss4
+Type II spiral ganglion neuron	Efnb1
+Type I spiral ganglion neuron	Trim36
+Type I spiral ganglion neuron	Ank3
+Type I spiral ganglion neuron	Rgs2
+Type I spiral ganglion neuron	Ddx19b
+Type I spiral ganglion neuron	Fam234b
+Type IC spiral ganglion neuron	Islr2
+Type I spiral ganglion neuron	Prox1
+Type I spiral ganglion neuron	Gcnt4
+Type I spiral ganglion neuron	Arl6ip4
+Type I spiral ganglion neuron	Ppargc1b
+Type I spiral ganglion neuron	Rita1
+Type IA spiral ganglion neuron	Slc7a2
+Type I spiral ganglion neuron	Tspyl5
+Type IA spiral ganglion neuron	Ptprd
+Type I spiral ganglion neuron	Trpm2
+Type II spiral ganglion neuron	Mpdu1
+Type I spiral ganglion neuron	Ube2e2
+Type IC spiral ganglion neuron	Zfp536
+Type I spiral ganglion neuron	Fam13b
+Type II spiral ganglion neuron	Rims3
+Type II spiral ganglion neuron	Muc15
+Type IA spiral ganglion neuron	Frmd5
+Type I spiral ganglion neuron	Mrs2
+Type II spiral ganglion neuron	Epb41
+Type II spiral ganglion neuron	Vav3
+Type I spiral ganglion neuron	Myo16
+Type IB spiral ganglion neuron	Kcnq1
+Type II spiral ganglion neuron	Necab1
+Type I spiral ganglion neuron	Arl8a
+Type I spiral ganglion neuron	Slc20a2
+Type I spiral ganglion neuron	Kcns1
+Type I spiral ganglion neuron	Churc1
+Type I spiral ganglion neuron	St3gal2
+Type I spiral ganglion neuron	Spata13
+Type I spiral ganglion neuron	Obi1
+Type I spiral ganglion neuron	Iqsec2
+Type I spiral ganglion neuron	Mrps2
+Type I spiral ganglion neuron	Pik3r1
+Type IA spiral ganglion neuron	Tmem65
+Type I spiral ganglion neuron	Asb8
+Type II spiral ganglion neuron	Mfap3
+Type II spiral ganglion neuron	Ssr4
+Type I spiral ganglion neuron	Limk1
+Type I spiral ganglion neuron	E2f6
+Type I spiral ganglion neuron	Dusp15
+Type I spiral ganglion neuron	Sema7a
+Type IC spiral ganglion neuron	Dcbld2
+Type I spiral ganglion neuron	Map3k10
+Type IC spiral ganglion neuron	Prr15
+Type I spiral ganglion neuron	Sowahb
+Type I spiral ganglion neuron	Tor2a
+Type I spiral ganglion neuron	Prps1
+Type II spiral ganglion neuron	Nnat
+Type II spiral ganglion neuron	Hpca
+Type I spiral ganglion neuron	Hapln1
+Type I spiral ganglion neuron	Esrrg
+Type II spiral ganglion neuron	Gpr149
+Type I spiral ganglion neuron	Dlgap3
+Type I spiral ganglion neuron	Gga3
+Type I spiral ganglion neuron	Snph
+Type I spiral ganglion neuron	Etf1
+Type II spiral ganglion neuron	Psen2
+Type IB spiral ganglion neuron	Lrrc52
+Type II spiral ganglion neuron	Tbc1d22a
+Type IC spiral ganglion neuron	Gab1
+Type I spiral ganglion neuron	Eif2ak4
+Type II spiral ganglion neuron	Zbtb8a
+Type I spiral ganglion neuron	Rassf4
+Type I spiral ganglion neuron	Dusp27
+Type IC spiral ganglion neuron	Gstp1
+Type I spiral ganglion neuron	Ptpn3
+Type I spiral ganglion neuron	Ankrd34a
+Type I spiral ganglion neuron	Syt3
+Type I spiral ganglion neuron	Gria4
+Type I spiral ganglion neuron	Fbxo41
+Type II spiral ganglion neuron	Clint1
+Type II spiral ganglion neuron	Rcn1
+Type I spiral ganglion neuron	Sec31a
+Type IC spiral ganglion neuron	Plce1
+Type I spiral ganglion neuron	Ythdc2
+Type II spiral ganglion neuron	Baalc
+Type I spiral ganglion neuron	Gm5113
+Type I spiral ganglion neuron	Apbb2
+Type II spiral ganglion neuron	Tmem132e
+Type I spiral ganglion neuron	Parva
+Type I spiral ganglion neuron	Afap1l1
+Type II spiral ganglion neuron	Xist
+Type I spiral ganglion neuron	Mapkapk2
+Type I spiral ganglion neuron	Gm9866
+Type I spiral ganglion neuron	Usp47
+Type I spiral ganglion neuron	Cdh18
+Type IA spiral ganglion neuron	Rilpl1
+Type I spiral ganglion neuron	Zfp521
+Type I spiral ganglion neuron	Mrps9
+Type I spiral ganglion neuron	Atg16l1
+Type II spiral ganglion neuron	Gpr88
+Type IB spiral ganglion neuron	Anxa5
+Type I spiral ganglion neuron	Fbxo34
+Type II spiral ganglion neuron	Vwa1
+Type I spiral ganglion neuron	Spsb4
+Type IB spiral ganglion neuron	Ezr
+Type I spiral ganglion neuron	Cs
+Type I spiral ganglion neuron	Ubl4a
+Type I spiral ganglion neuron	Tpm1
+Type I spiral ganglion neuron	Wdr75
+Type IB spiral ganglion neuron	Tmem196
+Type II spiral ganglion neuron	Slc6a4
+Type I spiral ganglion neuron	Dkc1
+Type II spiral ganglion neuron	Alcam
+Type I spiral ganglion neuron	Inpp5e
+Type I spiral ganglion neuron	Pdzd2
+Type I spiral ganglion neuron	Zfp511
+Type II spiral ganglion neuron	Cd74
+Type I spiral ganglion neuron	Cdadc1
+Type IA spiral ganglion neuron	Gxylt2
+Type IC spiral ganglion neuron	Sema4d
+Type II spiral ganglion neuron	Csf1r
+Type IC spiral ganglion neuron	Gldn
+Type I spiral ganglion neuron	Pcsk2
+Type I spiral ganglion neuron	Rab6b
+Type II spiral ganglion neuron	Mc4r
+Type II spiral ganglion neuron	Cnksr2
+Type I spiral ganglion neuron	Gzf1
+Type I spiral ganglion neuron	Hmga1
+Type II spiral ganglion neuron	Sestd1
+Type II spiral ganglion neuron	Cachd1
+Type I spiral ganglion neuron	Borcs6
+Type II spiral ganglion neuron	Hyi
+Type IC spiral ganglion neuron	Arpp21
+Type I spiral ganglion neuron	Csmd1
+Type II spiral ganglion neuron	Fbxw17
+Type I spiral ganglion neuron	Ythdf3
+Type II spiral ganglion neuron	Myo7a
+Type I spiral ganglion neuron	Enah
+Type IB spiral ganglion neuron	Slc29a3
+Type IA spiral ganglion neuron	Arhgdig
+Type I spiral ganglion neuron	Ddit3
+Type II spiral ganglion neuron	Igsf1
+Type I spiral ganglion neuron	Ppargc1a
+Type I spiral ganglion neuron	Herc3
+Type II spiral ganglion neuron	Castor1
+Type I spiral ganglion neuron	Abt1
+Type II spiral ganglion neuron	Pithd1
+Type I spiral ganglion neuron	Yars2
+Type I spiral ganglion neuron	Kbtbd2
+Type I spiral ganglion neuron	Tlr5
+Type II spiral ganglion neuron	Shisa2
+Type I spiral ganglion neuron	Pik3cb
+Type IC spiral ganglion neuron	Zeb2
+Type II spiral ganglion neuron	Sugct
+Type I spiral ganglion neuron	Thy1
+Type I spiral ganglion neuron	Bfar
+Type IC spiral ganglion neuron	Insyn1
+Type IA spiral ganglion neuron	Cacna1h
+Type I spiral ganglion neuron	Insyn1
+Type I spiral ganglion neuron	B3galt1
+Type II spiral ganglion neuron	Cilp
+Type I spiral ganglion neuron	Peg3
+Type II spiral ganglion neuron	Tubb2a-ps2
+Type II spiral ganglion neuron	Fnbp1l
+Type I spiral ganglion neuron	Akain1
+Type II spiral ganglion neuron	Chn2
+Type II spiral ganglion neuron	Islr
+Type IA spiral ganglion neuron	Cdh22
+Type I spiral ganglion neuron	Slc35b4
+Type II spiral ganglion neuron	Minar2
+Type II spiral ganglion neuron	Cyb5a
+Type II spiral ganglion neuron	Ro60
+Type I spiral ganglion neuron	Psme3
+Type I spiral ganglion neuron	Tet1
+Type II spiral ganglion neuron	Fdft1
+Type II spiral ganglion neuron	Adam17
+Type II spiral ganglion neuron	Slc35d1
+Type I spiral ganglion neuron	Colgalt2
+Type I spiral ganglion neuron	Pitpna
+Type I spiral ganglion neuron	Mul1
+Type I spiral ganglion neuron	Tubgcp5
+Type IC spiral ganglion neuron	Hap1
+Type II spiral ganglion neuron	Lims2
+Type II spiral ganglion neuron	Asap3
+Type I spiral ganglion neuron	Sdc4
+Type I spiral ganglion neuron	Kif5c
+Type I spiral ganglion neuron	Aph1a
+Type IC spiral ganglion neuron	Sphkap
+Type I spiral ganglion neuron	Scn4b
+Type I spiral ganglion neuron	Fam189a2
+Type II spiral ganglion neuron	Atg16l2
+Type I spiral ganglion neuron	Prkcb
+Type II spiral ganglion neuron	Smad7
+Type IA spiral ganglion neuron	Rhou
+Type I spiral ganglion neuron	Sun2
+Type IC spiral ganglion neuron	Ntng1
+Type I spiral ganglion neuron	Ttbk1
+Type I spiral ganglion neuron	Lrrc45
+Type I spiral ganglion neuron	Rora
+Type I spiral ganglion neuron	Patl1
+Type II spiral ganglion neuron	Capn5
+Type I spiral ganglion neuron	Ddx25
+Type I spiral ganglion neuron	Atg101
+Type I spiral ganglion neuron	Hif1an
+Type II spiral ganglion neuron	Ldha
+Type I spiral ganglion neuron	Kpna6
+Type I spiral ganglion neuron	Gpat3
+Type I spiral ganglion neuron	Fam78a
+Type II spiral ganglion neuron	Agtrap
+Type II spiral ganglion neuron	Pkig
+Type I spiral ganglion neuron	Usp14
+Type II spiral ganglion neuron	Cacna2d1
+Type IA spiral ganglion neuron	Sema4g
+Type IC spiral ganglion neuron	Arnt2
+Type I spiral ganglion neuron	Ranbp6
+Type I spiral ganglion neuron	Rap2a
+Type I spiral ganglion neuron	Usp8
+Type II spiral ganglion neuron	Slc52a3
+Type IB spiral ganglion neuron	Cfap161
+Type IC spiral ganglion neuron	Elfn2
+Type II spiral ganglion neuron	Nubpl
+Type IA spiral ganglion neuron	Sash1
+Type I spiral ganglion neuron	Mrps17
+Type II spiral ganglion neuron	Tmem221
+Type I spiral ganglion neuron	Kdm7a
+Type I spiral ganglion neuron	Vps52
+Type II spiral ganglion neuron	Nmb
+Type IA spiral ganglion neuron	Creg2
+Type IC spiral ganglion neuron	Adgrb3
+Type I spiral ganglion neuron	Azin1
+Type I spiral ganglion neuron	Cygb
+Type I spiral ganglion neuron	Kcns3
+Type I spiral ganglion neuron	Med24
+Type I spiral ganglion neuron	Slc22a15
+Type IC spiral ganglion neuron	Slitrk2
+Type II spiral ganglion neuron	Cthrc1
+Type II spiral ganglion neuron	Nsg2
+Type II spiral ganglion neuron	Syt5
+Type IC spiral ganglion neuron	Rab15
+Type I spiral ganglion neuron	Sephs2
+Type II spiral ganglion neuron	Sec61a1
+Type II spiral ganglion neuron	Sprn
+Type II spiral ganglion neuron	Gata2
+Type I spiral ganglion neuron	Fh1
+Type II spiral ganglion neuron	Mtcl1
+Type I spiral ganglion neuron	Col19a1
+Type I spiral ganglion neuron	Gng7
+Type I spiral ganglion neuron	Heatr5a
+Type I spiral ganglion neuron	Pik3r4
+Type I spiral ganglion neuron	Dhx16
+Type II spiral ganglion neuron	Rrm2b
+Type II spiral ganglion neuron	Rybp
+Type II spiral ganglion neuron	Phldb2
+Type I spiral ganglion neuron	AU022252
+Type IC spiral ganglion neuron	Hrh3
+Type IA spiral ganglion neuron	Dpy19l1
+Type II spiral ganglion neuron	Ppp1r27
+Type II spiral ganglion neuron	Slc36a2
+Type I spiral ganglion neuron	Panx1
+Type II spiral ganglion neuron	Gm19522
+Type II spiral ganglion neuron	Spsb1
+Type I spiral ganglion neuron	Iffo1
+Type I spiral ganglion neuron	Larp1b
+Type I spiral ganglion neuron	Crot
+Type I spiral ganglion neuron	B3gnt2
+Type II spiral ganglion neuron	Fxyd2
+Type I spiral ganglion neuron	Arhgap31
+Type II spiral ganglion neuron	Cd200
+Type I spiral ganglion neuron	Cnnm2
+Type II spiral ganglion neuron	Gabpa
+Type IC spiral ganglion neuron	Cyth3
+Type I spiral ganglion neuron	Mettl22
+Type IA spiral ganglion neuron	Csf1
+Type I spiral ganglion neuron	Vwa7
+Type I spiral ganglion neuron	Ppa2
+Type I spiral ganglion neuron	Hhatl
+Type I spiral ganglion neuron	Gpatch1
+Type IA spiral ganglion neuron	Lrfn2
+Type I spiral ganglion neuron	Sema3e
+Type II spiral ganglion neuron	Foxj2
+Type I spiral ganglion neuron	Aar2
+Type II spiral ganglion neuron	Rnf44
+Type II spiral ganglion neuron	Bmp7
+Type I spiral ganglion neuron	Sucla2
+Type II spiral ganglion neuron	Efna5
+Type I spiral ganglion neuron	Traf3
+Type I spiral ganglion neuron	Tab1
+Type I spiral ganglion neuron	Sfxn5
+Type I spiral ganglion neuron	Sfxn3
+Type II spiral ganglion neuron	Morn4
+Type IC spiral ganglion neuron	Pou4f1
+Type I spiral ganglion neuron	Jak1
+Type I spiral ganglion neuron	Atp6v1g2
+Type IC spiral ganglion neuron	Cdh8
+Type II spiral ganglion neuron	Efs
+Type IC spiral ganglion neuron	Fut8
+Type I spiral ganglion neuron	A230056P14Rik
+Type II spiral ganglion neuron	Gadd45g
+Type I spiral ganglion neuron	Ube2v2
+Type I spiral ganglion neuron	Tubgcp3
+Type I spiral ganglion neuron	Zfp687
+Type IA spiral ganglion neuron	Wscd2
+Type I spiral ganglion neuron	Ptpmt1
+Type II spiral ganglion neuron	Adamtsl5
+Type I spiral ganglion neuron	Fbxw7
+Type I spiral ganglion neuron	Rnf121
+Type II spiral ganglion neuron	Sik1
+Type I spiral ganglion neuron	Tsku
+Type I spiral ganglion neuron	Slco5a1
+Type I spiral ganglion neuron	Rnf157
+Type I spiral ganglion neuron	Ncaph2
+Type II spiral ganglion neuron	Fstl5
+Type II spiral ganglion neuron	Magef1
+Type I spiral ganglion neuron	Ethe1
+Type II spiral ganglion neuron	Arhgap36
+Type I spiral ganglion neuron	Mapk6
+Type IC spiral ganglion neuron	Rgs12
+Type I spiral ganglion neuron	Inpp5f
+Type I spiral ganglion neuron	Kcna2
+Type II spiral ganglion neuron	Fnbp1
+Type IC spiral ganglion neuron	Dach1
+Type IC spiral ganglion neuron	Gm20063
+Type IC spiral ganglion neuron	Fam3c
+Type I spiral ganglion neuron	Tspan17
+Type II spiral ganglion neuron	Grin2c
+Type I spiral ganglion neuron	Herpud1
+Type IA spiral ganglion neuron	Cacna1b
+Type IA spiral ganglion neuron	Hydin
+Type II spiral ganglion neuron	Cacna1e
+Type II spiral ganglion neuron	Phf12
+Type I spiral ganglion neuron	D17H6S53E
+Type I spiral ganglion neuron	Susd6
+Type I spiral ganglion neuron	Cdr1
+Type IA spiral ganglion neuron	Rxrg
+Type IA spiral ganglion neuron	Cdk15
+Type I spiral ganglion neuron	Amigo3
+Type II spiral ganglion neuron	Tmem169
+Type IA spiral ganglion neuron	Erich1
+Type IC spiral ganglion neuron	Gpr155
+Type II spiral ganglion neuron	Akap13
+Type II spiral ganglion neuron	Lxn
+Type IA spiral ganglion neuron	Pygl
+Type I spiral ganglion neuron	Ccbe1
+Type I spiral ganglion neuron	Rab3ip
+Type IC spiral ganglion neuron	Cplx2
+Type I spiral ganglion neuron	Hipk2
+Type II spiral ganglion neuron	Snca
+Type II spiral ganglion neuron	Fam174c
+Type I spiral ganglion neuron	Ptgr2
+Type II spiral ganglion neuron	Tbl1x
+Type I spiral ganglion neuron	Tacc2
+Type I spiral ganglion neuron	Snn
+Type I spiral ganglion neuron	Mmp15
+Type I spiral ganglion neuron	Efemp1
+Type I spiral ganglion neuron	Cdr2l
+Type I spiral ganglion neuron	Calb2
+Type IC spiral ganglion neuron	Egflam
+Type IA spiral ganglion neuron	Tspan4
+Type I spiral ganglion neuron	Kcnh5
+Type II spiral ganglion neuron	Mta3
+Type II spiral ganglion neuron	Unc5b
+Type II spiral ganglion neuron	Smim15
+Type I spiral ganglion neuron	Timm10
+Type IC spiral ganglion neuron	Dennd2c
+Type I spiral ganglion neuron	Lsamp
+Type II spiral ganglion neuron	Hpcal1
+Type I spiral ganglion neuron	Mtus2
+Type IA spiral ganglion neuron	Hpcal1
+Type II spiral ganglion neuron	Nucb1
+Type IC spiral ganglion neuron	Pcbd1
+Type II spiral ganglion neuron	Pdlim4
+Type II spiral ganglion neuron	Cux2
+Type II spiral ganglion neuron	Tcea3
+Type II spiral ganglion neuron	1700019D03Rik
+Type II spiral ganglion neuron	Trem2
+Type I spiral ganglion neuron	Pbx1
+Type I spiral ganglion neuron	Zfp397
+Type I spiral ganglion neuron	Slc9a3r2
+Type II spiral ganglion neuron	Rps12
+Type I spiral ganglion neuron	Slc16a1
+Type I spiral ganglion neuron	Synj2bp
+Type II spiral ganglion neuron	Socs1
+Type I spiral ganglion neuron	Kalrn
+Type I spiral ganglion neuron	Kif3a
+Type I spiral ganglion neuron	G0s2
+Type I spiral ganglion neuron	Ern1
+Type II spiral ganglion neuron	Ephb2
+Type I spiral ganglion neuron	Ccdc184
+Type I spiral ganglion neuron	Rtn4rl2
+Type II spiral ganglion neuron	Ebf4
+Type II spiral ganglion neuron	9230102O04Rik
+Type II spiral ganglion neuron	Fam20a
+Type I spiral ganglion neuron	Bin1
+Type I spiral ganglion neuron	Pcm1
+Type IA spiral ganglion neuron	Tanc1
+Type I spiral ganglion neuron	Klhl32
+Type I spiral ganglion neuron	Nop9
+Type II spiral ganglion neuron	Nupl2
+Type I spiral ganglion neuron	Ckmt1
+Type I spiral ganglion neuron	Tm6sf1
+Type IC spiral ganglion neuron	Boc
+Type I spiral ganglion neuron	Lhfpl3
+Type I spiral ganglion neuron	Thoc5
+Type II spiral ganglion neuron	Adgrb1
+Type II spiral ganglion neuron	Mthfs
+Type I spiral ganglion neuron	Gtf2h4
+Type II spiral ganglion neuron	Ccdc112
+Type II spiral ganglion neuron	Sel1l3
+Type II spiral ganglion neuron	Atp10d
+Type II spiral ganglion neuron	Rnf181
+Type I spiral ganglion neuron	Klc2
+Type I spiral ganglion neuron	Iffo2
+Type I spiral ganglion neuron	Syt7
+Type II spiral ganglion neuron	Psme2
+Type II spiral ganglion neuron	Pcdh20
+Type I spiral ganglion neuron	1700066M21Rik
+Type I spiral ganglion neuron	Clgn
+Type II spiral ganglion neuron	Psme2b
+Type I spiral ganglion neuron	Cetn2
+Type I spiral ganglion neuron	Aldh1a3
+Type II spiral ganglion neuron	Gpsm2
+Type II spiral ganglion neuron	Pde1c
+Type II spiral ganglion neuron	Cldn9
+Type IA spiral ganglion neuron	Pde3b
+Type I spiral ganglion neuron	Jun
+Type I spiral ganglion neuron	Clu
+Type I spiral ganglion neuron	Ttc39aos1
+Type I spiral ganglion neuron	Ppcs
+Type I spiral ganglion neuron	Adssl1
+Type II spiral ganglion neuron	Smad1
+Type I spiral ganglion neuron	Rnf26
+Type IC spiral ganglion neuron	Tsku
+Type IA spiral ganglion neuron	B3gat1
+Type I spiral ganglion neuron	Kash5
+Type IA spiral ganglion neuron	Chrna1
+Type II spiral ganglion neuron	Trip10
+Type I spiral ganglion neuron	Bcar3
+Type I spiral ganglion neuron	Dnajc27
+Type I spiral ganglion neuron	Fat3
+Type II spiral ganglion neuron	Kcna6
+Type IA spiral ganglion neuron	Palmd
+Type I spiral ganglion neuron	Armc1
+Type IC spiral ganglion neuron	Ldha
+Type IA spiral ganglion neuron	Tmem268
+Type IC spiral ganglion neuron	Elmod1
+Type I spiral ganglion neuron	Cst6
+Type I spiral ganglion neuron	Mamld1
+Type IC spiral ganglion neuron	Grm8
+Type I spiral ganglion neuron	1110017D15Rik
+Type I spiral ganglion neuron	Fndc10
+Type II spiral ganglion neuron	Mafb
+Type I spiral ganglion neuron	Gfod1
+Type I spiral ganglion neuron	Apc
+Type I spiral ganglion neuron	Kctd1
+Type IC spiral ganglion neuron	Parva
+Type II spiral ganglion neuron	Map3k9
+Type I spiral ganglion neuron	Mtus1
+Type II spiral ganglion neuron	Elovl1
+Type IB spiral ganglion neuron	Runx1
+Type I spiral ganglion neuron	Mtif3
+Type II spiral ganglion neuron	Ubash3a
+Type I spiral ganglion neuron	Cacng2
+Type I spiral ganglion neuron	Macrod1
+Type I spiral ganglion neuron	Sntg2
+Type I spiral ganglion neuron	Rnf11
+Type I spiral ganglion neuron	Slc35g2
+Type I spiral ganglion neuron	Nckap1
+Type I spiral ganglion neuron	Add3
+Type I spiral ganglion neuron	Nkiras1
+Type I spiral ganglion neuron	Slc27a4
+Type IC spiral ganglion neuron	Zfp947
+Type I spiral ganglion neuron	St3gal1
+Type I spiral ganglion neuron	Tmem196
+Type I spiral ganglion neuron	Ndufaf2
+Type I spiral ganglion neuron	Casz1
+Type I spiral ganglion neuron	Dop1b
+Type IA spiral ganglion neuron	Igtp
+Type I spiral ganglion neuron	Atm
+Type I spiral ganglion neuron	Abcd2
+Type IA spiral ganglion neuron	Rin2
+Type IA spiral ganglion neuron	Dclk1
+Type IC spiral ganglion neuron	Dcc
+Type I spiral ganglion neuron	Commd9
+Type I spiral ganglion neuron	Rcc2
+Type I spiral ganglion neuron	Cox11
+Type II spiral ganglion neuron	Snhg17
+Type I spiral ganglion neuron	Ptdss2
+Type I spiral ganglion neuron	Frmpd1
+Type II spiral ganglion neuron	Gng2
+Type I spiral ganglion neuron	Epdr1
+Type IA spiral ganglion neuron	Disp3
+Type II spiral ganglion neuron	Disp3
+Type I spiral ganglion neuron	Atg2b
+Type I spiral ganglion neuron	Epb41l1
+Type I spiral ganglion neuron	Six4
+Type IC spiral ganglion neuron	Car13
+Type I spiral ganglion neuron	Inpp5j
+Type II spiral ganglion neuron	Flnb
+Type II spiral ganglion neuron	Dubr
+Type II spiral ganglion neuron	Adam19
+Type I spiral ganglion neuron	Thoc1
+Type II spiral ganglion neuron	Trappc6a
+Type I spiral ganglion neuron	Fhod3
+Type I spiral ganglion neuron	Sptssb
+Type IA spiral ganglion neuron	Tspan9
+Type I spiral ganglion neuron	Efr3b
+Type IC spiral ganglion neuron	Rhbdl1
+Type I spiral ganglion neuron	Mettl21a
+Type IA spiral ganglion neuron	Mturn
+Type IA spiral ganglion neuron	Snhg4
+Type II spiral ganglion neuron	Gstp1
+Type I spiral ganglion neuron	Kifc2
+Type II spiral ganglion neuron	Agpat4
+Type II spiral ganglion neuron	Gfra1
+Type I spiral ganglion neuron	Kctd8
+Type II spiral ganglion neuron	Camk1g
+Type I spiral ganglion neuron	Slc29a2
+Type IB spiral ganglion neuron	Zadh2
+Type I spiral ganglion neuron	Dffa
+Type IC spiral ganglion neuron	Galk2
+Type I spiral ganglion neuron	Cd302
+Type I spiral ganglion neuron	Lmo1
+Type II spiral ganglion neuron	Wnt3
+Type II spiral ganglion neuron	Stard13
+Type II spiral ganglion neuron	Trpm3
+Type I spiral ganglion neuron	Dld
+Type I spiral ganglion neuron	Men1
+Type IA spiral ganglion neuron	Rsph3b
+Type II spiral ganglion neuron	Mpp3
+Type I spiral ganglion neuron	Dexi
+Type II spiral ganglion neuron	Rab13
+Type I spiral ganglion neuron	Cracd
+Type I spiral ganglion neuron	Cplane1
+Type I spiral ganglion neuron	Slc46a1
+Type II spiral ganglion neuron	Rap1b
+Type II spiral ganglion neuron	Ano2
+Type II spiral ganglion neuron	Nxph4
+Type I spiral ganglion neuron	Sirt5
+Type IA spiral ganglion neuron	Rtl5
+Type IA spiral ganglion neuron	Tmem229a
+Type I spiral ganglion neuron	Crbn
+Type I spiral ganglion neuron	Ppp1r9a
+Type II spiral ganglion neuron	Fes
+Type IB spiral ganglion neuron	Spats2l
+Type I spiral ganglion neuron	Zcrb1
+Type IC spiral ganglion neuron	Fkbp9
+Type I spiral ganglion neuron	Eno4
+Type IB spiral ganglion neuron	Sdc4
+Type IB spiral ganglion neuron	Ppfibp2
+Type II spiral ganglion neuron	Tle4
+Type IA spiral ganglion neuron	Lcp2
+Type I spiral ganglion neuron	Pik3c2b
+Type I spiral ganglion neuron	Acp1
+Type I spiral ganglion neuron	Chordc1
+Type I spiral ganglion neuron	Zfp385a
+Type I spiral ganglion neuron	5031439G07Rik
+Type IC spiral ganglion neuron	Slc9a9
+Type IA spiral ganglion neuron	Naip5
+Type I spiral ganglion neuron	Ankrd9
+Type II spiral ganglion neuron	Cabin1
+Type I spiral ganglion neuron	Glul
+Type II spiral ganglion neuron	H2-Aa
+Type I spiral ganglion neuron	Bcat1
+Type I spiral ganglion neuron	Gls
+Type I spiral ganglion neuron	Ndufaf4
+Type II spiral ganglion neuron	Plk5
+Type II spiral ganglion neuron	Hey1
+Type I spiral ganglion neuron	Lgi3
+Type IA spiral ganglion neuron	2510009E07Rik
+Type II spiral ganglion neuron	Snora70
+Type I spiral ganglion neuron	Myadml2
+Type II spiral ganglion neuron	Ckap4
+Type II spiral ganglion neuron	Nampt
+Type I spiral ganglion neuron	Rnd2
+Type II spiral ganglion neuron	Galnt5
+Type I spiral ganglion neuron	Nckipsd
+Type IC spiral ganglion neuron	Hopx
+Type I spiral ganglion neuron	Tlcd3b
+Type IA spiral ganglion neuron	Sh3bgr
+Type II spiral ganglion neuron	E230016M11Rik
+Type IA spiral ganglion neuron	Cys1
+Type IA spiral ganglion neuron	Arhgap20
+Type II spiral ganglion neuron	Map7
+Type I spiral ganglion neuron	Ak1
+Type I spiral ganglion neuron	Sh2d7
+Type I spiral ganglion neuron	Sptb
+Type II spiral ganglion neuron	Col28a1
+Type IC spiral ganglion neuron	Sh2d7
+Type I spiral ganglion neuron	Fbxo31
+Type I spiral ganglion neuron	Gyg
+Type II spiral ganglion neuron	Ror2
+Type I spiral ganglion neuron	Enpp4
+Type I spiral ganglion neuron	Car12
+Type I spiral ganglion neuron	Mrtfb
+Type I spiral ganglion neuron	Rasl10b
+Type II spiral ganglion neuron	Tmem200a
+Type I spiral ganglion neuron	Gnaz
+Type II spiral ganglion neuron	Zfp142
+Type II spiral ganglion neuron	H2-T-ps
+Type I spiral ganglion neuron	Dbn1
+Type IB spiral ganglion neuron	Lypd6
+Type I spiral ganglion neuron	Fundc2
+Type I spiral ganglion neuron	Nae1
+Type II spiral ganglion neuron	Susd5
+Type I spiral ganglion neuron	Tmem29
+Type I spiral ganglion neuron	Hmg20b
+Type I spiral ganglion neuron	Chmp6
+Type I spiral ganglion neuron	Mrpl4
+Type IC spiral ganglion neuron	Pcp4l1
+Type II spiral ganglion neuron	Serpinf1
+Type II spiral ganglion neuron	Tmtc2
+Type I spiral ganglion neuron	Dync2h1
+Type I spiral ganglion neuron	Top1
+Type I spiral ganglion neuron	Chchd7
+Type I spiral ganglion neuron	Fat1
+Type I spiral ganglion neuron	Usp33
+Type II spiral ganglion neuron	Kctd12
+Type II spiral ganglion neuron	Epb41l4a
+Type IB spiral ganglion neuron	Edil3
+Type II spiral ganglion neuron	Xab2
+Type IC spiral ganglion neuron	Plxna2
+Type I spiral ganglion neuron	Plaat1
+Type II spiral ganglion neuron	Tpd52
+Type II spiral ganglion neuron	Donson
+Type IC spiral ganglion neuron	Gm19557
+Type II spiral ganglion neuron	Bex1
+Type I spiral ganglion neuron	Bend6
+Type II spiral ganglion neuron	Lmna
+Type IC spiral ganglion neuron	B4galt4
+Type II spiral ganglion neuron	Iigp1
+Type I spiral ganglion neuron	Phyhip
+Type I spiral ganglion neuron	Def6
+Type I spiral ganglion neuron	Spock2
+Type II spiral ganglion neuron	Oat
+Type IC spiral ganglion neuron	Tmem117
+Type I spiral ganglion neuron	Ppif
+Type II spiral ganglion neuron	Eef2kmt
+Type II spiral ganglion neuron	Lpar1
+Type II spiral ganglion neuron	Rwdd2b
+Type I spiral ganglion neuron	Hdlbp
+Type II spiral ganglion neuron	Elp4
+Type I spiral ganglion neuron	Cse1l
+Type IC spiral ganglion neuron	Tpo
+Type I spiral ganglion neuron	Prpf19
+Type I spiral ganglion neuron	Celsr2
+Type I spiral ganglion neuron	Hecw1
+Type I spiral ganglion neuron	Pfkp
+Type II spiral ganglion neuron	Flot2
+Type II spiral ganglion neuron	Tmem106a
+Type I spiral ganglion neuron	Abcc8
+Type IC spiral ganglion neuron	Cdh4
+Type I spiral ganglion neuron	Lingo1
+Type IB spiral ganglion neuron	Ankrd16
+Type II spiral ganglion neuron	Tcerg1l
+Type I spiral ganglion neuron	Syne1
+Type IC spiral ganglion neuron	Negr1
+Type IA spiral ganglion neuron	Vps8
+Type I spiral ganglion neuron	Abcb7
+Type I spiral ganglion neuron	Cmc2
+Type II spiral ganglion neuron	Hnrnph3
+Type I spiral ganglion neuron	Ythdf1
+Type II spiral ganglion neuron	Gucy1b1
+Type I spiral ganglion neuron	Dnajb14
+Type II spiral ganglion neuron	Slc9b2
+Type I spiral ganglion neuron	Cited2
+Type I spiral ganglion neuron	Mvb12b
+Type IC spiral ganglion neuron	Fmn1
+Type I spiral ganglion neuron	Mtap
+Type I spiral ganglion neuron	Acaa1a
+Type I spiral ganglion neuron	Eif2b4
+Type I spiral ganglion neuron	Gdpd1
+Type IA spiral ganglion neuron	Syngr1
+Type II spiral ganglion neuron	Efemp2
+Type IC spiral ganglion neuron	Pirt
+Type II spiral ganglion neuron	Tlr4
+Type I spiral ganglion neuron	Map4k2
+Type I spiral ganglion neuron	Paqr8
+Type I spiral ganglion neuron	Kat6a
+Type II spiral ganglion neuron	Spsb2
+Type I spiral ganglion neuron	Kcna1
+Type I spiral ganglion neuron	Ppm1b
+Type I spiral ganglion neuron	Ralb
+Type II spiral ganglion neuron	Gm5532
+Type II spiral ganglion neuron	AI413582
+Type IC spiral ganglion neuron	Rph3a
+Type I spiral ganglion neuron	Mt1
+Type II spiral ganglion neuron	Rph3a
+Type IC spiral ganglion neuron	Krt28
+Type I spiral ganglion neuron	Kcnc3
+Type IA spiral ganglion neuron	Nr3c1
+Type I spiral ganglion neuron	Cib2
+Type II spiral ganglion neuron	Metrnl
+Type IA spiral ganglion neuron	Smim3
+Type II spiral ganglion neuron	Frat1
+Type IA spiral ganglion neuron	Apba2
+Type I spiral ganglion neuron	Tmem41a
+Type II spiral ganglion neuron	Tmem241
+Type II spiral ganglion neuron	Arnt2
+Type I spiral ganglion neuron	Rtca
+Type I spiral ganglion neuron	Ube2n
+Type I spiral ganglion neuron	Krt222
+Type I spiral ganglion neuron	Pgm2l1
+Type IB spiral ganglion neuron	Mgat5b
+Type IC spiral ganglion neuron	Sorbs2
+Type I spiral ganglion neuron	Cfap161
+Type II spiral ganglion neuron	Pdia4
+Type II spiral ganglion neuron	Crtac1
+Type I spiral ganglion neuron	Cep57
+Type I spiral ganglion neuron	Mitd1
+Type II spiral ganglion neuron	Gnao1
+Type I spiral ganglion neuron	Tbc1d4
+Type I spiral ganglion neuron	Myrip
+Type IC spiral ganglion neuron	Kcnip1
+Type IA spiral ganglion neuron	Tmem229b
+Type II spiral ganglion neuron	Crabp1
+Type I spiral ganglion neuron	Pcbp4
+Type I spiral ganglion neuron	Ppp2r2b
+Type I spiral ganglion neuron	Fuom
+Type I spiral ganglion neuron	Rtn4ip1
+Type I spiral ganglion neuron	Tmem184c
+Type I spiral ganglion neuron	Zrsr2
+Type I spiral ganglion neuron	Usp6nl
+Type IC spiral ganglion neuron	Ndst4
+Type II spiral ganglion neuron	4930480K15Rik
+Type IA spiral ganglion neuron	Sertm1
+Type I spiral ganglion neuron	Vstm5
+Type I spiral ganglion neuron	Ppid
+Type IA spiral ganglion neuron	Arhgap22
+Type IC spiral ganglion neuron	Fanca
+Type I spiral ganglion neuron	Magee1
+Type II spiral ganglion neuron	Apobec1
+Type II spiral ganglion neuron	Bmpr1a
+Type I spiral ganglion neuron	Ankrd34b
+Type I spiral ganglion neuron	Usp10
+Type I spiral ganglion neuron	Nt5c3
+Type I spiral ganglion neuron	Pop5
+Type II spiral ganglion neuron	Dlg5
+Type II spiral ganglion neuron	Sorl1
+Type IA spiral ganglion neuron	Aldh5a1
+Type I spiral ganglion neuron	Dele1
+Type II spiral ganglion neuron	Slc35a2
+Type IC spiral ganglion neuron	Pcdh9
+Type II spiral ganglion neuron	Spata24
+Type IC spiral ganglion neuron	Epb41l4a
+Type I spiral ganglion neuron	Tnfrsf21
+Type I spiral ganglion neuron	Ints11
+Type I spiral ganglion neuron	Adamts3
+Type I spiral ganglion neuron	Dlst
+Type I spiral ganglion neuron	Rcbtb1
+Type IA spiral ganglion neuron	Plekhh1
+Type II spiral ganglion neuron	Id2
+Type I spiral ganglion neuron	Oxnad1
+Type IA spiral ganglion neuron	Mical1
+Type IC spiral ganglion neuron	Cyp1b1
+Type IC spiral ganglion neuron	Hmcn1
+Type I spiral ganglion neuron	Add2
+Type I spiral ganglion neuron	Camk2g
+Type I spiral ganglion neuron	Poldip2
+Type IA spiral ganglion neuron	Rassf6
+Type II spiral ganglion neuron	Gpsm1
+Type I spiral ganglion neuron	Mtmr6
+Type I spiral ganglion neuron	Glrx2
+Type IA spiral ganglion neuron	Frat2
+Type I spiral ganglion neuron	Zfyve28
+Type II spiral ganglion neuron	Izumo4
+Type II spiral ganglion neuron	Dok7
+Type I spiral ganglion neuron	Clmp
+Type I spiral ganglion neuron	Nr2f6
+Type I spiral ganglion neuron	1700025G04Rik
+Type II spiral ganglion neuron	Mob3c
+Type IA spiral ganglion neuron	Cacna2d2
+Type II spiral ganglion neuron	Sh3bgrl2
+Type II spiral ganglion neuron	Furin
+Type II spiral ganglion neuron	Tm4sf1
+Type II spiral ganglion neuron	Gap43
+Type II spiral ganglion neuron	Myo1c
+Type I spiral ganglion neuron	Mrps6
+Type I spiral ganglion neuron	Scg3
+Type I spiral ganglion neuron	Mapre3
+Type II spiral ganglion neuron	Marcks
+Type IC spiral ganglion neuron	Esr2
+Type I spiral ganglion neuron	Fam20c
+Type II spiral ganglion neuron	Tmem176a
+Type II spiral ganglion neuron	Lin7a
+Type I spiral ganglion neuron	Cstf2
+Type IC spiral ganglion neuron	Ggact
+Type I spiral ganglion neuron	Dcp2
+Type IA spiral ganglion neuron	Dok5
+Type I spiral ganglion neuron	Pdxp
+Type II spiral ganglion neuron	Magi1
+Type I spiral ganglion neuron	Klf9
+Type I spiral ganglion neuron	AI593442
+Type IC spiral ganglion neuron	Crim1
+Type II spiral ganglion neuron	Naga
+Type IC spiral ganglion neuron	Vat1l
+Type II spiral ganglion neuron	Jph4
+Type I spiral ganglion neuron	Lrrn3
+Type I spiral ganglion neuron	Ppip5k1
+Type IC spiral ganglion neuron	Terf2
+Type I spiral ganglion neuron	Osbpl3
+Type I spiral ganglion neuron	St3gal6
+Type II spiral ganglion neuron	Tubb2b
+Type IA spiral ganglion neuron	Chrna4
+Type IA spiral ganglion neuron	Rgs6
+Type I spiral ganglion neuron	Ndfip2
+Type I spiral ganglion neuron	Klhdc8a
+Type IB spiral ganglion neuron	Rbm20
+Type II spiral ganglion neuron	Ccdc22
+Type I spiral ganglion neuron	Ecpas
+Type II spiral ganglion neuron	Rhoc
+Type IB spiral ganglion neuron	Bcam
+Type I spiral ganglion neuron	Sema3d
+Type IB spiral ganglion neuron	Sema3d
+Type II spiral ganglion neuron	F2r
+Type I spiral ganglion neuron	Ankdd1b
+Type II spiral ganglion neuron	H2-D1
+Type I spiral ganglion neuron	Uvrag
+Type II spiral ganglion neuron	Tax1bp3
+Type I spiral ganglion neuron	Runx1
+Type IC spiral ganglion neuron	Rnd2
+Type IC spiral ganglion neuron	Nalcn
+Type I spiral ganglion neuron	Faah
+Type I spiral ganglion neuron	Paqr9
+Type II spiral ganglion neuron	Jdp2
+Type I spiral ganglion neuron	Nupl1
+Type I spiral ganglion neuron	Fa2h
+Type I spiral ganglion neuron	Naa35
+Type I spiral ganglion neuron	Gpat4
+Type I spiral ganglion neuron	Lnpk
+Type II spiral ganglion neuron	Ezr
+Type II spiral ganglion neuron	Efcab15
+Type I spiral ganglion neuron	Iqgap1
+Type II spiral ganglion neuron	H2-DMb1
+Type I spiral ganglion neuron	St3gal3
+Type IB spiral ganglion neuron	Calb1
+Type I spiral ganglion neuron	Gpr137b-ps
+Type II spiral ganglion neuron	Tbcel
+Type I spiral ganglion neuron	Gtpbp3
+Type I spiral ganglion neuron	Tmem179
+Type I spiral ganglion neuron	Ppm1j
+Type II spiral ganglion neuron	S100a13
+Type I spiral ganglion neuron	Frmd4b
+Type IA spiral ganglion neuron	Vldlr
+Type I spiral ganglion neuron	Paqr7
+Type I spiral ganglion neuron	Mpc1
+Type IC spiral ganglion neuron	Neurod1
+Type IC spiral ganglion neuron	Clec18a
+Type II spiral ganglion neuron	Tns1
+Type I spiral ganglion neuron	Jsrp1
+Type I spiral ganglion neuron	Lhfp
+Type II spiral ganglion neuron	Serinc5
+Type II spiral ganglion neuron	Wls
+Type I spiral ganglion neuron	Cdc37l1
+Type IA spiral ganglion neuron	Sntb2
+Type I spiral ganglion neuron	Mcf2l
+Type I spiral ganglion neuron	Rpap3
+Type II spiral ganglion neuron	Id1
+Type II spiral ganglion neuron	Arpc5
+Type I spiral ganglion neuron	Pfkfb2
+Type I spiral ganglion neuron	Rars2
+Type I spiral ganglion neuron	Ube2q2
+Type II spiral ganglion neuron	Prima1
+Type IA spiral ganglion neuron	Nfib
+Type I spiral ganglion neuron	Sympk
+Type II spiral ganglion neuron	Ophn1
+Type I spiral ganglion neuron	Nfkb1
+Type II spiral ganglion neuron	Edaradd
+Type IC spiral ganglion neuron	Thrsp
+Type I spiral ganglion neuron	Ttc39b
+Type I spiral ganglion neuron	Pgf
+Type I spiral ganglion neuron	Reep2
+Type II spiral ganglion neuron	Cblb
+Type I spiral ganglion neuron	Nkapd1
+Type I spiral ganglion neuron	Mark4
+Type I spiral ganglion neuron	Mppe1
+Type I spiral ganglion neuron	B4galt6
+Type IA spiral ganglion neuron	Cyp2s1
+Type II spiral ganglion neuron	Slc9a3r1
+Type II spiral ganglion neuron	Tbc1d10a
+Type II spiral ganglion neuron	Ptpro
+Type I spiral ganglion neuron	Uqcc1
+Type II spiral ganglion neuron	Arap2
+Type I spiral ganglion neuron	Miga2
+Type I spiral ganglion neuron	Psmf1
+Type I spiral ganglion neuron	Fam184b
+Type IB spiral ganglion neuron	Fbxo27
+Type I spiral ganglion neuron	Reep1
+Type II spiral ganglion neuron	Selenop
+Type I spiral ganglion neuron	Med7
+Type II spiral ganglion neuron	Syne4
+Type I spiral ganglion neuron	Cotl1
+Type II spiral ganglion neuron	Mir100hg
+Type IC spiral ganglion neuron	Adgra1
+Type IA spiral ganglion neuron	Pygm
+Type I spiral ganglion neuron	Hdac2
+Type II spiral ganglion neuron	Tssk6
+Type I spiral ganglion neuron	Rpl7l1
+Type I spiral ganglion neuron	Nuak1
+Type I spiral ganglion neuron	Myorg
+Type IA spiral ganglion neuron	Trim54
+Type I spiral ganglion neuron	Slc7a1
+Type I spiral ganglion neuron	Slc25a36
+Type IA spiral ganglion neuron	Kremen1
+Type II spiral ganglion neuron	Adm
+Type I spiral ganglion neuron	Scarb2
+Type I spiral ganglion neuron	Synm
+Type I spiral ganglion neuron	Cat
+Type IA spiral ganglion neuron	Cyp46a1
+Type IA spiral ganglion neuron	Tmcc3
+Type IC spiral ganglion neuron	Ncald
+Type II spiral ganglion neuron	Xpo6
+Type I spiral ganglion neuron	Tdp2
+Type I spiral ganglion neuron	Cyfip2
+Type I spiral ganglion neuron	Mgat3
+Type I spiral ganglion neuron	Inpp1
+Type II spiral ganglion neuron	Gm6548
+Type IA spiral ganglion neuron	Arc
+Type IC spiral ganglion neuron	Atp11a
+Type IA spiral ganglion neuron	Nhsl1
+Type I spiral ganglion neuron	Tmem181c-ps
+Type II spiral ganglion neuron	Atp2b4
+Type I spiral ganglion neuron	Plppr3
+Type I spiral ganglion neuron	Mcu
+Type IC spiral ganglion neuron	Ppp1r3b
+Type II spiral ganglion neuron	Prkcd
+Type I spiral ganglion neuron	Bcan
+Type I spiral ganglion neuron	Azi2
+Type I spiral ganglion neuron	Cox8b
+Type II spiral ganglion neuron	Grhl1
+Type II spiral ganglion neuron	Tex15
+Type I spiral ganglion neuron	Rgs7bp
+Type I spiral ganglion neuron	Chrac1
+Type I spiral ganglion neuron	Isca2
+Type I spiral ganglion neuron	Rnf40
+Type IA spiral ganglion neuron	Fbxo40
+Type II spiral ganglion neuron	Nhsl2
+Type II spiral ganglion neuron	Olfm2
+Type I spiral ganglion neuron	Tmem240
+Type II spiral ganglion neuron	Immp2l
+Type I spiral ganglion neuron	Cntn5
+Type IC spiral ganglion neuron	Fgf5
+Type I spiral ganglion neuron	Fgf18
+Type I spiral ganglion neuron	Slc11a2
+Type IC spiral ganglion neuron	Majin
+Type I spiral ganglion neuron	Camk1d
+Type I spiral ganglion neuron	Cep83
+Type I spiral ganglion neuron	Mpi
+Type I spiral ganglion neuron	Ddx1
+Type I spiral ganglion neuron	Ttll5
+Type I spiral ganglion neuron	Pgd
+Type II spiral ganglion neuron	Gprc5c
+Type II spiral ganglion neuron	Sertad1
+Type II spiral ganglion neuron	Mmp14
+Type II spiral ganglion neuron	Ass1
+Type II spiral ganglion neuron	Igtp
+Type I spiral ganglion neuron	Aptx
+Type I spiral ganglion neuron	Ugp2
+Type I spiral ganglion neuron	Mfn2
+Type I spiral ganglion neuron	Sptbn2
+Type II spiral ganglion neuron	A430035B10Rik
+Type II spiral ganglion neuron	Mmp16
+Type II spiral ganglion neuron	9430038I01Rik
+Type I spiral ganglion neuron	Ankrd55
+Type II spiral ganglion neuron	Ica1l
+Type I spiral ganglion neuron	Coprs
+Type I spiral ganglion neuron	Mospd1
+Type II spiral ganglion neuron	Hmgn2
+Type I spiral ganglion neuron	Fbxo32
+Type IC spiral ganglion neuron	Robo2
+Type I spiral ganglion neuron	Mlxip
+Type II spiral ganglion neuron	Plp2
+Type I spiral ganglion neuron	Dhdds
+Type IC spiral ganglion neuron	Tmprss7
+Type II spiral ganglion neuron	Irgm2
+Type II spiral ganglion neuron	Ptchd1
+Type I spiral ganglion neuron	Tcea2
+Type II spiral ganglion neuron	Grin3a
+Type II spiral ganglion neuron	Trpv2
+Type IC spiral ganglion neuron	Pcsk2os1
+Type I spiral ganglion neuron	Ddah1
+Type II spiral ganglion neuron	Gm16023
+Type IA spiral ganglion neuron	Tnks1bp1
+Type I spiral ganglion neuron	Cds1
+Type II spiral ganglion neuron	Ocrl
+Type I spiral ganglion neuron	Nmnat1
+Type I spiral ganglion neuron	Resp18
+Type II spiral ganglion neuron	Chmp1a
+Type IB spiral ganglion neuron	Hcrtr2
+Type I spiral ganglion neuron	Mipep
+Type I spiral ganglion neuron	Coro6
+Type I spiral ganglion neuron	Slc25a46
+Type I spiral ganglion neuron	Atp2b3
+Type I spiral ganglion neuron	Exoc5
+Type I spiral ganglion neuron	Slc20a1
+Type I spiral ganglion neuron	Atg4d
+Type II spiral ganglion neuron	Tmem176b
+Type I spiral ganglion neuron	Ptrh2
+Type II spiral ganglion neuron	Trim25
+Type I spiral ganglion neuron	Hlf
+Type II spiral ganglion neuron	Slc4a10
+Type I spiral ganglion neuron	Diras1
+Type I spiral ganglion neuron	Phka1
+Type II spiral ganglion neuron	Gabrb2
+Type II spiral ganglion neuron	Plekhg5
+Type IC spiral ganglion neuron	Sema3f
+Type I spiral ganglion neuron	Panx2
+Type I spiral ganglion neuron	Pet100
+Type I spiral ganglion neuron	Trim37
+Type I spiral ganglion neuron	Angel1
+Type IB spiral ganglion neuron	Ppm1d
+Type II spiral ganglion neuron	Chtop
+Type I spiral ganglion neuron	Abraxas2
+Type I spiral ganglion neuron	Cpeb3
+Type II spiral ganglion neuron	Cacna2d2
+Type I spiral ganglion neuron	Sema6b
+Type II spiral ganglion neuron	Mir3064
+Type IA spiral ganglion neuron	Gpr37
+Type IC spiral ganglion neuron	Mrps6
+Type I spiral ganglion neuron	Grsf1
+Type IA spiral ganglion neuron	Pofut1
+Type I spiral ganglion neuron	Cdh9
+Type II spiral ganglion neuron	Hmgn3
+Type I spiral ganglion neuron	Dnajc13
+Type I spiral ganglion neuron	4930506C21Rik
+Type I spiral ganglion neuron	Nudt19
+Type II spiral ganglion neuron	Erc1
+Type IC spiral ganglion neuron	Ush1g
+Type IA spiral ganglion neuron	F11r
+Type II spiral ganglion neuron	Rbms1
+Type IC spiral ganglion neuron	Antxr1
+Type IC spiral ganglion neuron	Dusp6
+Type IC spiral ganglion neuron	Plcxd2
+Type II spiral ganglion neuron	Pisd
+Type I spiral ganglion neuron	Rnf208
+Type I spiral ganglion neuron	Cdc42ep3
+Type II spiral ganglion neuron	Lrrc75a
+Type I spiral ganglion neuron	B3gat1
+Type I spiral ganglion neuron	Ccdc28a
+Type II spiral ganglion neuron	Fam219b
+Type II spiral ganglion neuron	Wdr90
+Type II spiral ganglion neuron	Cpne1
+Type I spiral ganglion neuron	Serp2
+Type IC spiral ganglion neuron	Serp2
+Type II spiral ganglion neuron	Pigl
+Type I spiral ganglion neuron	Esyt1
+Type I spiral ganglion neuron	Lynx1
+Type IC spiral ganglion neuron	Emb
+Type I spiral ganglion neuron	Rdm1
+Type I spiral ganglion neuron	Lsm3
+Type II spiral ganglion neuron	1700006F04Rik
+Type I spiral ganglion neuron	Dtd2
+Type I spiral ganglion neuron	Ppp3cc
+Type I spiral ganglion neuron	Chst10
+Type II spiral ganglion neuron	Clic1
+Type I spiral ganglion neuron	Ctbp1
+Type II spiral ganglion neuron	Apaf1
+Type IA spiral ganglion neuron	Frat1
+Type IC spiral ganglion neuron	Eva1c
+Type I spiral ganglion neuron	Gprc5b
+Type IC spiral ganglion neuron	Tenm2
+Type I spiral ganglion neuron	Mettl14
+Type I spiral ganglion neuron	Bola3
+Type II spiral ganglion neuron	Rgs17
+Type I spiral ganglion neuron	Slc25a51
+Type II spiral ganglion neuron	Tmem186
+Type I spiral ganglion neuron	Haghl
+Type II spiral ganglion neuron	Cflar
+Type IA spiral ganglion neuron	Nrde2
+Type II spiral ganglion neuron	Palm
+Type IC spiral ganglion neuron	Kcnk3
+Type IC spiral ganglion neuron	Map3k20
+Type II spiral ganglion neuron	Pam
+Type I spiral ganglion neuron	Cpt1a
+Type I spiral ganglion neuron	Pacs2
+Type IB spiral ganglion neuron	Htr2c
+Type I spiral ganglion neuron	Usp2
+Type IC spiral ganglion neuron	Fscn2
+Type II spiral ganglion neuron	Htr7
+Type I spiral ganglion neuron	Mrpl11
+Type I spiral ganglion neuron	Cebpzos
+Type I spiral ganglion neuron	Plcb1
+Type II spiral ganglion neuron	Alkbh1
+Type II spiral ganglion neuron	Slc7a11
+Type I spiral ganglion neuron	Smarcal1
+Type II spiral ganglion neuron	Gmppa
+Type IA spiral ganglion neuron	Golga7b
+Type I spiral ganglion neuron	Dmac2
+Type I spiral ganglion neuron	Yipf1
+Type I spiral ganglion neuron	Tesc
+Type I spiral ganglion neuron	Best3
+Type I spiral ganglion neuron	B4galt7
+Type I spiral ganglion neuron	Caskin1
+Type II spiral ganglion neuron	Smim30
+Type IA spiral ganglion neuron	Irgm2
+Type IB spiral ganglion neuron	Col19a1
+Type I spiral ganglion neuron	Smim13
+Type II spiral ganglion neuron	Fam241a
+Type II spiral ganglion neuron	Wwc1
+Type I spiral ganglion neuron	Wwp1
+Type IA spiral ganglion neuron	Cln8
+Type II spiral ganglion neuron	Aff3
+Type II spiral ganglion neuron	Asb1
+Type IC spiral ganglion neuron	Mcub
+Type II spiral ganglion neuron	Arhgap27
+Type I spiral ganglion neuron	Ttc1
+Type IA spiral ganglion neuron	Dera
+Type II spiral ganglion neuron	Nectin2
+Type I spiral ganglion neuron	Ugcg
+Type I spiral ganglion neuron	Epha4
+Type II spiral ganglion neuron	Man1c1
+Type I spiral ganglion neuron	Fuca2
+Type I spiral ganglion neuron	Ipo11
+Type I spiral ganglion neuron	Cept1
+Type IA spiral ganglion neuron	Alpk2
+Type I spiral ganglion neuron	Rxylt1
+Type II spiral ganglion neuron	Fbn2
+Type I spiral ganglion neuron	Nol4
+Type IC spiral ganglion neuron	6330403K07Rik
+Type I spiral ganglion neuron	Cptp
+Type IC spiral ganglion neuron	Ptk7
+Type I spiral ganglion neuron	Sh3bp5l
+Type I spiral ganglion neuron	Capn2
+Type IC spiral ganglion neuron	Samd11
+Type I spiral ganglion neuron	Eif5a2
+Type IA spiral ganglion neuron	Parp9
+Type I spiral ganglion neuron	Psmb10
+Type II spiral ganglion neuron	Gabrg2
+Type I spiral ganglion neuron	Selenoo
+Type I spiral ganglion neuron	Tmem35a
+Type IC spiral ganglion neuron	Pcsk2
+Type I spiral ganglion neuron	Car2
+Type IC spiral ganglion neuron	Ccdc162
+Type IA spiral ganglion neuron	1700025G04Rik
+Type II spiral ganglion neuron	Dgkh
+Type I spiral ganglion neuron	Dcbld2
+Type IA spiral ganglion neuron	Car2
+Type II spiral ganglion neuron	Pcdh17
+Type IC spiral ganglion neuron	AI987944
+Type II spiral ganglion neuron	Gpr37
+Type I spiral ganglion neuron	Mrps16
+Type I spiral ganglion neuron	Abca2
+Type II spiral ganglion neuron	Rpl32l
+Type IA spiral ganglion neuron	Parm1
+Type II spiral ganglion neuron	Cwc22
+Type I spiral ganglion neuron	Car7
+Type IA spiral ganglion neuron	Tec
+Type I spiral ganglion neuron	Hapln4
+Type I spiral ganglion neuron	Fbxo33
+Type I spiral ganglion neuron	Lmbr1
+Type IC spiral ganglion neuron	Tjp2
+Type II spiral ganglion neuron	Fgd2
+Type II spiral ganglion neuron	Dok6
+Type I spiral ganglion neuron	Gipc1
+Type II spiral ganglion neuron	Phf3
+Type II spiral ganglion neuron	Gm6498
+Type II spiral ganglion neuron	Cacng5
+Type I spiral ganglion neuron	Vkorc1l1
+Type II spiral ganglion neuron	Pals2
+Type II spiral ganglion neuron	Smad6
+Type I spiral ganglion neuron	Nap1l2
+Type IA spiral ganglion neuron	Dlgap2
+Type IA spiral ganglion neuron	Plekho1
+Type II spiral ganglion neuron	Mapk3
+Type IC spiral ganglion neuron	Gpx8
+Type II spiral ganglion neuron	Ric8a
+Type I spiral ganglion neuron	Ap5s1
+Type IA spiral ganglion neuron	Tsen54
+Type II spiral ganglion neuron	Rgs3
+Type IA spiral ganglion neuron	Olfml2b
+Type II spiral ganglion neuron	Klhl5
+Type II spiral ganglion neuron	Cntnap5b
+Type I spiral ganglion neuron	Kcnip2
+Type IC spiral ganglion neuron	Plod2
+Type II spiral ganglion neuron	Hs6st3
+Type II spiral ganglion neuron	H2-Ab1
+Type II spiral ganglion neuron	Tmsb10
+Type II spiral ganglion neuron	Nck2
+Type IC spiral ganglion neuron	Cd164l2
+Type IC spiral ganglion neuron	Slc17a6
+Type I spiral ganglion neuron	Asb13
+Type IC spiral ganglion neuron	Ust
+Type IA spiral ganglion neuron	Igfbp3
+Type II spiral ganglion neuron	Tmbim1
+Type I spiral ganglion neuron	Zfp804a
+Type II spiral ganglion neuron	Actn2
+Type II spiral ganglion neuron	S100a1
+Type I spiral ganglion neuron	Psmd5
+Type I spiral ganglion neuron	Ccdc88a
+Type I spiral ganglion neuron	R3hcc1
+Type IB spiral ganglion neuron	H2-K1
+Type II spiral ganglion neuron	Ptpn11
+Type II spiral ganglion neuron	Syce2
+Type II spiral ganglion neuron	Arhgap27os3
+Type I spiral ganglion neuron	Chn1
+Type I spiral ganglion neuron	Kcnma1
+Type IB spiral ganglion neuron	Ubxn2b
+Type I spiral ganglion neuron	Scrt1
+Type I spiral ganglion neuron	Selenom
+Type IA spiral ganglion neuron	Gnao1
+Type II spiral ganglion neuron	Fgfr3
+Type IA spiral ganglion neuron	Zfhx3
+Type IC spiral ganglion neuron	Spock1
+Type IA spiral ganglion neuron	Fmnl1
+Type II spiral ganglion neuron	1600029O15Rik
+Type I spiral ganglion neuron	Aars2
+Type IA spiral ganglion neuron	Slc7a8
+Type II spiral ganglion neuron	Uba2
+Type II spiral ganglion neuron	Itgb1
+Type I spiral ganglion neuron	Sertm1
+Type IA spiral ganglion neuron	Cldn23
+Type I spiral ganglion neuron	B3galt2
+Type IA spiral ganglion neuron	Ksr1
+Type I spiral ganglion neuron	Mcl1
+Type II spiral ganglion neuron	Pkp4
+Type I spiral ganglion neuron	Net1
+Type I spiral ganglion neuron	Ttc39a
+Type IA spiral ganglion neuron	Slc15a5
+Type II spiral ganglion neuron	Il11ra1
+Type I spiral ganglion neuron	Clstn3
+Type II spiral ganglion neuron	L1cam
+Type I spiral ganglion neuron	Denr
+Type I spiral ganglion neuron	Pfkm
+Type I spiral ganglion neuron	Tagap1
+Type IB spiral ganglion neuron	Pls3
+Type I spiral ganglion neuron	Slc22a23
+Type I spiral ganglion neuron	Gria3
+Type I spiral ganglion neuron	Ccdc136
+Type I spiral ganglion neuron	Hebp2
+Type I spiral ganglion neuron	Nalf1
+Type II spiral ganglion neuron	Nfkbie
+Type I spiral ganglion neuron	Myh10
+Type IA spiral ganglion neuron	Sox12
+Type I spiral ganglion neuron	Wee1
+Type I spiral ganglion neuron	Zfp770
+Type I spiral ganglion neuron	Myo19
+Type II spiral ganglion neuron	Pacrg
+Type IA spiral ganglion neuron	Fkbp5
+Type I spiral ganglion neuron	Ntm
+Type IC spiral ganglion neuron	Mef2c
+Type I spiral ganglion neuron	Mfhas1
+Type II spiral ganglion neuron	Shisal1
+Type II spiral ganglion neuron	Mical1
+Type I spiral ganglion neuron	Ptprr
+Type II spiral ganglion neuron	Rps18
+Type I spiral ganglion neuron	Lpin1
+Type IC spiral ganglion neuron	Nmrk1
+Type I spiral ganglion neuron	Zfp672
+Type I spiral ganglion neuron	Rasgrp4
+Type II spiral ganglion neuron	Astn2
+Type I spiral ganglion neuron	Atxn2
+Type IA spiral ganglion neuron	Trim24
+Type I spiral ganglion neuron	Lrch1
+Type IA spiral ganglion neuron	Dnah10
+Type IB spiral ganglion neuron	Kcnmb2
+Type IA spiral ganglion neuron	Ghr
+Type I spiral ganglion neuron	Apoo
+Type I spiral ganglion neuron	Llph
+Type II spiral ganglion neuron	Nop16
+Type IA spiral ganglion neuron	Upp1
+Type I spiral ganglion neuron	Rcan2
+Type I spiral ganglion neuron	Pip4k2a
+Type I spiral ganglion neuron	Gbe1
+Type I spiral ganglion neuron	Nit1
+Type I spiral ganglion neuron	Sncb
+Type I spiral ganglion neuron	A530058N18Rik
+Type I spiral ganglion neuron	Reep3
+Type I spiral ganglion neuron	Tob1
+Type I spiral ganglion neuron	Ahcyl2
+Type IA spiral ganglion neuron	Zfp710
+Type I spiral ganglion neuron	Avpi1
+Type I spiral ganglion neuron	Rnf123
+Type II spiral ganglion neuron	Rad52
+Type I spiral ganglion neuron	Rgma
+Type II spiral ganglion neuron	Ybx1
+Type IA spiral ganglion neuron	L3hypdh
+Type II spiral ganglion neuron	Greb1l
+Type I spiral ganglion neuron	Seh1l
+Type II spiral ganglion neuron	Tmem119
+Type IA spiral ganglion neuron	Fam78b
+Type I spiral ganglion neuron	Auts2
+Type I spiral ganglion neuron	Ndrg3
+Type I spiral ganglion neuron	Robo1
+Type II spiral ganglion neuron	Lrrtm3
+Type II spiral ganglion neuron	Fstl4
+Type I spiral ganglion neuron	Sphk1
+Type II spiral ganglion neuron	Asl
+Type IA spiral ganglion neuron	F730043M19Rik
+Type I spiral ganglion neuron	Rasgrp2
+Type II spiral ganglion neuron	Maml3
+Type IA spiral ganglion neuron	Isoc1
+Type I spiral ganglion neuron	Sez6l2
+Type I spiral ganglion neuron	Zfp422
+Type II spiral ganglion neuron	Pcdhga4
+Type I spiral ganglion neuron	Slitrk1
+Type I spiral ganglion neuron	Tomm5
+Type I spiral ganglion neuron	Thap11
+Type II spiral ganglion neuron	Gm5148
+Type II spiral ganglion neuron	Eml1
+Type IA spiral ganglion neuron	Rasd1
+Type IA spiral ganglion neuron	Nhsl2
+Type I spiral ganglion neuron	Ccdc90b
+Type I spiral ganglion neuron	Gmpr
+Type I spiral ganglion neuron	Cars
+Type I spiral ganglion neuron	Slc4a8
+Type I spiral ganglion neuron	Tstd3
+Type II spiral ganglion neuron	Bgn
+Type I spiral ganglion neuron	Spring1
+Type II spiral ganglion neuron	Stat6
+Type IC spiral ganglion neuron	Camk1d
+Type I spiral ganglion neuron	Phlda3
+Type I spiral ganglion neuron	Dscam
+Type I spiral ganglion neuron	Gnal
+Type IC spiral ganglion neuron	Pnck
+Type I spiral ganglion neuron	Nsa2
+Type I spiral ganglion neuron	Gls2
+Type II spiral ganglion neuron	Ptpn13
+Type IC spiral ganglion neuron	Bhlhe22
+Type I spiral ganglion neuron	Cpt1b
+Type I spiral ganglion neuron	Sugp2
+Type I spiral ganglion neuron	2310040G24Rik
+Type I spiral ganglion neuron	Kcnip1
+Type I spiral ganglion neuron	Rab15
+Type I spiral ganglion neuron	Dip2a
+Type II spiral ganglion neuron	Fbln7
+Type II spiral ganglion neuron	Hmgn1
+Type I spiral ganglion neuron	Nsmaf
+Type I spiral ganglion neuron	Cx3cl1
+Type IB spiral ganglion neuron	Cx3cl1
+Type I spiral ganglion neuron	Ripor2
+Type I spiral ganglion neuron	Ebag9
+Type II spiral ganglion neuron	Cnot8
+Type II spiral ganglion neuron	Tom1
+Type I spiral ganglion neuron	Hmgb3
+Type I spiral ganglion neuron	Tmem70
+Type II spiral ganglion neuron	Mxi1
+Type I spiral ganglion neuron	Glrx5
+Type IC spiral ganglion neuron	Ndst3
+Type I spiral ganglion neuron	Tfdp2
+Type IC spiral ganglion neuron	Glis1
+Type I spiral ganglion neuron	Pcsk5
+Type II spiral ganglion neuron	Psme1
+Type IA spiral ganglion neuron	Sh3bgrl
+Type IA spiral ganglion neuron	Hmox1
+Type I spiral ganglion neuron	Ankrd33b
+Type I spiral ganglion neuron	Csmd2
+Type II spiral ganglion neuron	Sh3bgrl
+Type I spiral ganglion neuron	Irs2
+Type IC spiral ganglion neuron	Tmem47
+Type I spiral ganglion neuron	Dock9
+Type I spiral ganglion neuron	A930006K02Rik
+Type I spiral ganglion neuron	Rabl2
+Type IC spiral ganglion neuron	Ttyh2
+Type II spiral ganglion neuron	Abhd4
+Type IB spiral ganglion neuron	Apex2
+Type I spiral ganglion neuron	Ugt8a
+Type I spiral ganglion neuron	Camk2b
+Type I spiral ganglion neuron	Cnnm1
+Type II spiral ganglion neuron	Vps37b
+Type I spiral ganglion neuron	Sf3a2
+Type I spiral ganglion neuron	Bhlhe40
+Type I spiral ganglion neuron	Pptc7
+Type II spiral ganglion neuron	Mxra8
+Type II spiral ganglion neuron	Frmd8
+Type II spiral ganglion neuron	Zfp319
+Type II spiral ganglion neuron	Cpsf3
+Type II spiral ganglion neuron	Myl1
+Type II spiral ganglion neuron	Qpct
+Type I spiral ganglion neuron	Dnajc28
+Type II spiral ganglion neuron	Bex4
+Type II spiral ganglion neuron	Itsn1
+Type II spiral ganglion neuron	Fbln5
+Type II spiral ganglion neuron	Zmynd11
+Type II spiral ganglion neuron	Trim62
+Type I spiral ganglion neuron	Sptbn4
+Type I spiral ganglion neuron	Cc2d2a
+Type I spiral ganglion neuron	B4galnt1
+Type I spiral ganglion neuron	Ddx27
+Type I spiral ganglion neuron	Ppp1r16b
+Type IA spiral ganglion neuron	Myo1e
+Type I spiral ganglion neuron	Tpgs2
+Type I spiral ganglion neuron	Mt3
+Type I spiral ganglion neuron	Pctp
+Type IB spiral ganglion neuron	Ifit1
+Type I spiral ganglion neuron	Flt3
+Type II spiral ganglion neuron	F11r
+Type I spiral ganglion neuron	Kcnn2
+Type I spiral ganglion neuron	Ssbp3
+Type I spiral ganglion neuron	Fndc4
+Type II spiral ganglion neuron	Kirrel3
+Type I spiral ganglion neuron	Shb
+Type I spiral ganglion neuron	Mcts1
+Type I spiral ganglion neuron	Gart
+Type I spiral ganglion neuron	Egln2
+Type I spiral ganglion neuron	Rabgap1l
+Type I spiral ganglion neuron	Nexn
+Type I spiral ganglion neuron	Prr3
+Type I spiral ganglion neuron	Msl3
+Type I spiral ganglion neuron	Synj2
+Type I spiral ganglion neuron	Amer2
+Type II spiral ganglion neuron	Samd8
+Type I spiral ganglion neuron	Jtb
+Type II spiral ganglion neuron	Alkbh2
+Type I spiral ganglion neuron	Mllt3
+Type II spiral ganglion neuron	Syt1
+Type I spiral ganglion neuron	Syt2
+Type IC spiral ganglion neuron	Fam43b
+Type II spiral ganglion neuron	Palmd
+Type II spiral ganglion neuron	Pgrmc2
+Type II spiral ganglion neuron	Grik3
+Type IC spiral ganglion neuron	Lemd1
+Type I spiral ganglion neuron	Slc35a3
+Type II spiral ganglion neuron	Skap1
+Type I spiral ganglion neuron	Grin1
+Type II spiral ganglion neuron	Prpf39
+Type I spiral ganglion neuron	P2rx6
+Type IB spiral ganglion neuron	Kcnd2
+Type IC spiral ganglion neuron	Cacna1e
+Type II spiral ganglion neuron	Kcnd1
+Type II spiral ganglion neuron	Rsu1
+Type I spiral ganglion neuron	Sulf2
+Type II spiral ganglion neuron	Tex33
+Type II spiral ganglion neuron	Fpgt
+Type II spiral ganglion neuron	Sorcs3
+Type II spiral ganglion neuron	Scn2b
+Type I spiral ganglion neuron	Rab11fip4
+Type II spiral ganglion neuron	Lrrtm2
+Type I spiral ganglion neuron	Mapk12
+Type I spiral ganglion neuron	Ube3b
+Type I spiral ganglion neuron	Tmem94
+Type I spiral ganglion neuron	Dusp28
+Type I spiral ganglion neuron	Sys1
+Type II spiral ganglion neuron	Itpk1
+Type I spiral ganglion neuron	Tmem229b
+Type I spiral ganglion neuron	Prkar2b
+Type I spiral ganglion neuron	Kank1
+Type IA spiral ganglion neuron	A330074K22Rik
+Type II spiral ganglion neuron	Scmh1
+Type IA spiral ganglion neuron	Arhgap19
+Type I spiral ganglion neuron	Calb1
+Type I spiral ganglion neuron	Mrps36
+Type IC spiral ganglion neuron	Prkar2b
+Type I spiral ganglion neuron	Hivep2
+Type I spiral ganglion neuron	Tecpr2
+Type I spiral ganglion neuron	2410004B18Rik
+Type II spiral ganglion neuron	Slc7a8
+Type IA spiral ganglion neuron	Dock4
+Type II spiral ganglion neuron	Prelp
+Type I spiral ganglion neuron	Nrg1
+Type II spiral ganglion neuron	Tppp
+Type I spiral ganglion neuron	Adamts5
+Type IA spiral ganglion neuron	Adamts5
+Type IA spiral ganglion neuron	Lsm11
+Type I spiral ganglion neuron	Ttc9b
+Type I spiral ganglion neuron	Lpcat4
+Type I spiral ganglion neuron	Cnppd1
+Type I spiral ganglion neuron	Nfatc2
+Type II spiral ganglion neuron	Antxr2
+Type I spiral ganglion neuron	Ppm1e
+Type I spiral ganglion neuron	Ola1
+Type II spiral ganglion neuron	Pkib
+Type IA spiral ganglion neuron	Tmem132e
+Type I spiral ganglion neuron	Smpx
+Type I spiral ganglion neuron	Mtss2
+Type I spiral ganglion neuron	Igsf3
+Type II spiral ganglion neuron	Rxfp3
+Type I spiral ganglion neuron	Tirap
+Type II spiral ganglion neuron	Snu13
+Type II spiral ganglion neuron	Gm10578
+Type I spiral ganglion neuron	Cntnap4
+Type I spiral ganglion neuron	Flywch1
+Type I spiral ganglion neuron	Morc3
+Type I spiral ganglion neuron	Pgap4
+Type I spiral ganglion neuron	Extl2
+Type I spiral ganglion neuron	Ppp2r5e
+Type II spiral ganglion neuron	Nme3
+Type IC spiral ganglion neuron	Diras2
+Type IC spiral ganglion neuron	Myom3
+Type II spiral ganglion neuron	Rab3b
+Type II spiral ganglion neuron	Rala
+Type II spiral ganglion neuron	Kcnc4
+Type II spiral ganglion neuron	D030028A08Rik
+Type II spiral ganglion neuron	Unc13b
+Type I spiral ganglion neuron	Ulk1
+Type IC spiral ganglion neuron	Shisal1
+Type I spiral ganglion neuron	Thtpa
+Type II spiral ganglion neuron	Crispld1
+Type I spiral ganglion neuron	Zfp935
+Type II spiral ganglion neuron	Epn2
+Type I spiral ganglion neuron	Wipf3
+Type I spiral ganglion neuron	Ciao3
+Type IA spiral ganglion neuron	Myl1
+Type I spiral ganglion neuron	Snx27
+Type I spiral ganglion neuron	Tcn2
+Type II spiral ganglion neuron	Clcn1
+Type II spiral ganglion neuron	Il4ra
+Type I spiral ganglion neuron	Hcn2
+Type IA spiral ganglion neuron	Kcnip4
+Type I spiral ganglion neuron	Arhgef6
+Type IC spiral ganglion neuron	Lgi1
+Type I spiral ganglion neuron	Slc19a2
+Type I spiral ganglion neuron	Lhfpl4
+Type I spiral ganglion neuron	Arhgef17
+Type IC spiral ganglion neuron	Pcsk5
+Type I spiral ganglion neuron	Lats1
+Type IA spiral ganglion neuron	N4bp3
+Type I spiral ganglion neuron	Lysmd2
+Type I spiral ganglion neuron	Rcan1
+Type I spiral ganglion neuron	Copb2
+Type IA spiral ganglion neuron	Cpxm1
+Type II spiral ganglion neuron	Nxn
+Type IA spiral ganglion neuron	Ephx4
+Type II spiral ganglion neuron	Ascl2
+Type I spiral ganglion neuron	Elmo1
+Type II spiral ganglion neuron	Ctnna1
+Type I spiral ganglion neuron	Grm7
+Type IA spiral ganglion neuron	Them6
+Type IC spiral ganglion neuron	Magi1
+Type I spiral ganglion neuron	Galnt9
+Type IC spiral ganglion neuron	Lrrcc1
+Type IC spiral ganglion neuron	Cacng5
+Type I spiral ganglion neuron	Vars
+Type IA spiral ganglion neuron	Wdr91
+Type II spiral ganglion neuron	Rnpc3
+Type IC spiral ganglion neuron	Robo1
+Type I spiral ganglion neuron	Scn8a
+Type I spiral ganglion neuron	Cerk
+Type II spiral ganglion neuron	Erlin2
+Type II spiral ganglion neuron	Gpx8
+Type I spiral ganglion neuron	Plekhm3
+Type I spiral ganglion neuron	Mob2
+Type I spiral ganglion neuron	Lonrf2
+Type I spiral ganglion neuron	Sgsm1
+Type I spiral ganglion neuron	Ext2
+Type IC spiral ganglion neuron	Lgr5
+Type I spiral ganglion neuron	Chchd4
+Type I spiral ganglion neuron	Gpd1l
+Type I spiral ganglion neuron	Pitpnc1
+Type I spiral ganglion neuron	Adap1
+Type IC spiral ganglion neuron	Dipk2a
+Type IC spiral ganglion neuron	Rgs10
+Type IB spiral ganglion neuron	Trmt61a
+Type IC spiral ganglion neuron	Kcnip2
+Type I spiral ganglion neuron	Uspl1
+Type II spiral ganglion neuron	Pard6g
+Type I spiral ganglion neuron	Rtn2
+Type IA spiral ganglion neuron	Tcim
+Type I spiral ganglion neuron	Isy1
+Type IC spiral ganglion neuron	Luzp2
+Type IA spiral ganglion neuron	Cacna2d1
+Type I spiral ganglion neuron	Zcchc2
+Type II spiral ganglion neuron	Styx
+Type II spiral ganglion neuron	Cd47
+Type IC spiral ganglion neuron	Fkbp11
+Type I spiral ganglion neuron	Scly
+Type IC spiral ganglion neuron	Runx1t1
+Type IA spiral ganglion neuron	Tbc1d16
+Type IC spiral ganglion neuron	Sptb
+Type II spiral ganglion neuron	Tnnt1
+Type II spiral ganglion neuron	Ptpn14
+Type II spiral ganglion neuron	Mpv17l2
+Type IC spiral ganglion neuron	Sema3a
+Type II spiral ganglion neuron	Pla2g6
+Type I spiral ganglion neuron	Snrpd3
+Type II spiral ganglion neuron	Tex43
+Type I spiral ganglion neuron	Spock1
+Type I spiral ganglion neuron	Max
+Type I spiral ganglion neuron	Tmem63b
+Type I spiral ganglion neuron	Epn3
+Type I spiral ganglion neuron	Atf4
+Type I spiral ganglion neuron	Clec2l
+Type IC spiral ganglion neuron	Satb1
+Type I spiral ganglion neuron	Cpne9
+Type I spiral ganglion neuron	Rabgef1
+Type I spiral ganglion neuron	Gpr22
+Type II spiral ganglion neuron	Th
+Type II spiral ganglion neuron	Tmem132b
+Type I spiral ganglion neuron	Cox10
+Type I spiral ganglion neuron	Crlf3
+Type I spiral ganglion neuron	Isl2
+Type II spiral ganglion neuron	St8sia4
+Type II spiral ganglion neuron	Tnc
+Type I spiral ganglion neuron	Agtpbp1
+Type II spiral ganglion neuron	Firre
+Type I spiral ganglion neuron	Endod1
+Type I spiral ganglion neuron	Cops7b
+Type II spiral ganglion neuron	Fdxr
+Type I spiral ganglion neuron	Smarca5
+Type IC spiral ganglion neuron	Mknk1
+Type IC spiral ganglion neuron	Scn2b
+Type I spiral ganglion neuron	Trhde
+Type II spiral ganglion neuron	Marcksl1
+Type I spiral ganglion neuron	Thrb
+Type I spiral ganglion neuron	Spire2
+Type I spiral ganglion neuron	Fkbp1b
+Type II spiral ganglion neuron	Sh3kbp1
+Type I spiral ganglion neuron	Zfp426
+Type II spiral ganglion neuron	Palld
+Type IA spiral ganglion neuron	Pag1
+Type I spiral ganglion neuron	Ldb3
+Type I spiral ganglion neuron	Wfs1
+Type IA spiral ganglion neuron	Nde1
+Type II spiral ganglion neuron	Abcb1a
+Type I spiral ganglion neuron	Rab11fip5
+Type IB spiral ganglion neuron	Tpbgl
+Type I spiral ganglion neuron	Uchl5
+Type I spiral ganglion neuron	Zfp30
+Type II spiral ganglion neuron	Aldoart2
+Type I spiral ganglion neuron	Asah2
+Type II spiral ganglion neuron	Flywch2
+Type I spiral ganglion neuron	Slc25a14
+Type I spiral ganglion neuron	Sv2b
+Type I spiral ganglion neuron	Xylt2
+Type I spiral ganglion neuron	Hcn1
+Type IA spiral ganglion neuron	Hcn3
+Type I spiral ganglion neuron	Psmg3
+Type I spiral ganglion neuron	Rusc2
+Type IA spiral ganglion neuron	Nrcam
+Type I spiral ganglion neuron	Siah3
+Type I spiral ganglion neuron	Slc48a1
+Type I spiral ganglion neuron	Mrpl18
+Type I spiral ganglion neuron	Pcyt1b
+Type I spiral ganglion neuron	Atp8b2
+Type IA spiral ganglion neuron	Fam219aos
+Type IC spiral ganglion neuron	Ehbp1l1
+Type IC spiral ganglion neuron	Timp3
+Type I spiral ganglion neuron	Pdp1
+Type I spiral ganglion neuron	Riok3
+Type I spiral ganglion neuron	Lrp11
+Type I spiral ganglion neuron	Csl
+Type I spiral ganglion neuron	Sh3bgr
+Type I spiral ganglion neuron	Pcyt1a
+Type I spiral ganglion neuron	Stard3
+Type I spiral ganglion neuron	Cntnap1
+Type IB spiral ganglion neuron	Cdh23
+Type II spiral ganglion neuron	Hamp
+Type II spiral ganglion neuron	Rnase4
+Type I spiral ganglion neuron	Entpd6
+Type II spiral ganglion neuron	Tns3
+Type II spiral ganglion neuron	Nog
+Type I spiral ganglion neuron	Nacad
+Type I spiral ganglion neuron	Zfp24
+Type II spiral ganglion neuron	Kitl
+Type I spiral ganglion neuron	Dzip1
+Type I spiral ganglion neuron	Rps6ka2
+Type II spiral ganglion neuron	Scn9a
+Type I spiral ganglion neuron	Zyx
+Type I spiral ganglion neuron	Septin6
+Type I spiral ganglion neuron	Tmod1
+Type II spiral ganglion neuron	Tnr
+Type II spiral ganglion neuron	Ccdc28b
+Type II spiral ganglion neuron	Usp11
+Type I spiral ganglion neuron	Hsph1
+Type I spiral ganglion neuron	Aifm3
+Type I spiral ganglion neuron	Kcnab2
+Type I spiral ganglion neuron	Pgbd5
+Type II spiral ganglion neuron	1700001K19Rik
+Type I spiral ganglion neuron	Dbndd1
+Type I spiral ganglion neuron	Ano4
+Type II spiral ganglion neuron	Cpne8
+Type I spiral ganglion neuron	Nop56
+Type I spiral ganglion neuron	Map6
+Type IC spiral ganglion neuron	Espn
+Type II spiral ganglion neuron	Tmx1
+Type II spiral ganglion neuron	Hspb1
+Type IC spiral ganglion neuron	Adprhl1
+Type II spiral ganglion neuron	Commd7
+Type I spiral ganglion neuron	Phf24
+Type I spiral ganglion neuron	Reep5
+Type II spiral ganglion neuron	Speg
+Type I spiral ganglion neuron	Rmc1
+Type I spiral ganglion neuron	Tfip11
+Type II spiral ganglion neuron	Ctc1
+Type II spiral ganglion neuron	Adarb2
+Type II spiral ganglion neuron	Egfl7
+Type I spiral ganglion neuron	Dedd
+Type I spiral ganglion neuron	Peak1
+Type II spiral ganglion neuron	Trmt1l
+Type II spiral ganglion neuron	Rsph9
+Type IA spiral ganglion neuron	Spred2
+Type IC spiral ganglion neuron	Triobp
+Type II spiral ganglion neuron	Id4
+Type I spiral ganglion neuron	Ppp1r12c
+Type IA spiral ganglion neuron	Obscn
+Type I spiral ganglion neuron	Zfp930
+Type I spiral ganglion neuron	Brsk1
+Type IC spiral ganglion neuron	Tspan2
+Type I spiral ganglion neuron	Vps36
+Type I spiral ganglion neuron	Slc25a25
+Type II spiral ganglion neuron	Flrt3
+Type I spiral ganglion neuron	Tgfbr3
+Type II spiral ganglion neuron	Trafd1
+Type II spiral ganglion neuron	Eps15
+Type II spiral ganglion neuron	Ptpn5
+Type I spiral ganglion neuron	Dtnbp1
+Type I spiral ganglion neuron	Slc17a7
+Type I spiral ganglion neuron	St3gal5
+Type I spiral ganglion neuron	Pnpla3
+Type II spiral ganglion neuron	Fut9
+Type II spiral ganglion neuron	Zfp57
+Type I spiral ganglion neuron	Prrt3
+Type I spiral ganglion neuron	Syt12
+Type I spiral ganglion neuron	Bckdhb
+Type I spiral ganglion neuron	Relt
+Type IA spiral ganglion neuron	F2r
+Type I spiral ganglion neuron	Epb41l3
+Type I spiral ganglion neuron	Slc4a2
+Type II spiral ganglion neuron	Pan2
+Type I spiral ganglion neuron	Ciart
+Type II spiral ganglion neuron	Cd63
+Type IA spiral ganglion neuron	Cd63
+Type I spiral ganglion neuron	Lypla1
+Type I spiral ganglion neuron	Gne
+Type II spiral ganglion neuron	Mxra7
+Type II spiral ganglion neuron	Ppfia2
+Type IA spiral ganglion neuron	Rassf8
+Type II spiral ganglion neuron	Mmrn2
+Type I spiral ganglion neuron	Ttc13
+Type I spiral ganglion neuron	Tbc1d30
+Type II spiral ganglion neuron	Csrp1
+Type I spiral ganglion neuron	Myh7b
+Type I spiral ganglion neuron	Kcnc1
+Type I spiral ganglion neuron	Arl4c
+Type IC spiral ganglion neuron	Mstn
+Type II spiral ganglion neuron	Ces2g
+Type IA spiral ganglion neuron	Mapk4
+Type I spiral ganglion neuron	Arhgef9
+Type I spiral ganglion neuron	Kcnab3
+Type II spiral ganglion neuron	Tmprss3
+Type IC spiral ganglion neuron	Myo1h
+Type IC spiral ganglion neuron	Pisd-ps1
+Type I spiral ganglion neuron	Dusp19
+Type I spiral ganglion neuron	Chchd3
+Type IC spiral ganglion neuron	Grxcr2
+Type II spiral ganglion neuron	Ube2ql1
+Type II spiral ganglion neuron	Gldn
+Type I spiral ganglion neuron	Itpkc
+Type I spiral ganglion neuron	Commd2
+Type I spiral ganglion neuron	Zfp62
+Type I spiral ganglion neuron	Srrm4
+Type I spiral ganglion neuron	Ryr2
+Type I spiral ganglion neuron	Kcnk1
+Type I spiral ganglion neuron	Dhps
+Type I spiral ganglion neuron	Osbpl1a
+Type I spiral ganglion neuron	Osbp2
+Type I spiral ganglion neuron	Plcl1
+Type I spiral ganglion neuron	Mast1
+Type II spiral ganglion neuron	Smim22
+Type I spiral ganglion neuron	Camsap1
+Type I spiral ganglion neuron	Vdac2
+Type I spiral ganglion neuron	Rbfox3
+Type I spiral ganglion neuron	Pard6a
+Type II spiral ganglion neuron	Med18
+Type I spiral ganglion neuron	Nrp2
+Type I spiral ganglion neuron	Dchs1
+Type I spiral ganglion neuron	Zbtb17
+Type I spiral ganglion neuron	Oprl1
+Type I spiral ganglion neuron	Msh6
+Type I spiral ganglion neuron	Fhdc1
+Type IC spiral ganglion neuron	Cpne6
+Type I spiral ganglion neuron	Olfm3
+Type II spiral ganglion neuron	Fam178b
+Type II spiral ganglion neuron	Asphd2
+Type II spiral ganglion neuron	Dpysl3
+Type II spiral ganglion neuron	Arhgap39
+Type IC spiral ganglion neuron	St6galnac3
+Type II spiral ganglion neuron	Gtf3a
+Type II spiral ganglion neuron	Zfyve1
+Type I spiral ganglion neuron	Gm19461
+Type I spiral ganglion neuron	Ddx41
+Type I spiral ganglion neuron	Pnkd
+Type I spiral ganglion neuron	Erich3
+Type IC spiral ganglion neuron	Slco4a1
+Type II spiral ganglion neuron	Adcy2
+Type I spiral ganglion neuron	Ptcd1
+Type I spiral ganglion neuron	Rap1a
+Type I spiral ganglion neuron	Wdr26
+Type IC spiral ganglion neuron	Kcnc2
+Type II spiral ganglion neuron	Ppef1
+Type I spiral ganglion neuron	Thsd7b
+Type IC spiral ganglion neuron	Lypd1
+Type IA spiral ganglion neuron	Naip2
+Type I spiral ganglion neuron	Prmt9
+Type IA spiral ganglion neuron	Zfp532
+Type I spiral ganglion neuron	Cap2
+Type I spiral ganglion neuron	Rtkn
+Type II spiral ganglion neuron	Tbc1d8
+Type II spiral ganglion neuron	Fubp3
+Type I spiral ganglion neuron	Elovl4
+Type II spiral ganglion neuron	Wdr6
+Type I spiral ganglion neuron	Rps6ka1
+Type II spiral ganglion neuron	Igsf21
+Type II spiral ganglion neuron	Cmtm4
+Type I spiral ganglion neuron	1700030K09Rik
+Type I spiral ganglion neuron	Vegfa
+Type I spiral ganglion neuron	Cmc1
+Type I spiral ganglion neuron	Rimkla
+Type I spiral ganglion neuron	Fstl1
+Type II spiral ganglion neuron	Zfp185
+Type II spiral ganglion neuron	Ubtd2
+Type IC spiral ganglion neuron	Glce
+Type I spiral ganglion neuron	Cenpq
+Type I spiral ganglion neuron	Atxn1
+Type II spiral ganglion neuron	Hacd4
+Type I spiral ganglion neuron	Trmt13
+Type I spiral ganglion neuron	6330409D20Rik
+Type I spiral ganglion neuron	Syde1
+Type IA spiral ganglion neuron	Lrrc4c
+Type I spiral ganglion neuron	6430548M08Rik
+Type I spiral ganglion neuron	Zfp157
+Type II spiral ganglion neuron	Mboat2
+Type IC spiral ganglion neuron	Rbfox3
+Type II spiral ganglion neuron	Zfp646
+Type II spiral ganglion neuron	Snx8
+Type I spiral ganglion neuron	Hsf4
+Type I spiral ganglion neuron	Fam126b
+Type II spiral ganglion neuron	Nrp1
+Type II spiral ganglion neuron	Vamp8
+Type I spiral ganglion neuron	Stx1b
+Type I spiral ganglion neuron	Pak1
+Type IA spiral ganglion neuron	Arhgef3
+Type II spiral ganglion neuron	Dusp11
+Type IB spiral ganglion neuron	Wscd1
+Type I spiral ganglion neuron	S100b
+Type I spiral ganglion neuron	Cast
+Type I spiral ganglion neuron	Fgf9
+Type I spiral ganglion neuron	Ifrd1
+Type I spiral ganglion neuron	Hsd17b7
+Type II spiral ganglion neuron	Pnrc2
+Type IA spiral ganglion neuron	Syndig1
+Type I spiral ganglion neuron	Dlat
+Type IC spiral ganglion neuron	Chst9
+Type IB spiral ganglion neuron	Ttn
+Type I spiral ganglion neuron	Farp2
+Type IC spiral ganglion neuron	Drd1
+Type I spiral ganglion neuron	Hspa4l
+Type II spiral ganglion neuron	H2-DMb2
+Type IC spiral ganglion neuron	Galntl6
+Type IA spiral ganglion neuron	Cmtm4
+Type I spiral ganglion neuron	Cep43
+Type I spiral ganglion neuron	Mif
+Type I spiral ganglion neuron	Cmpk2
+Type I spiral ganglion neuron	Rtn4rl1
+Type I spiral ganglion neuron	Rpp21
+Type II spiral ganglion neuron	Ccdc77
+Type II spiral ganglion neuron	Vamp2
+Type II spiral ganglion neuron	Fmod
+Type I spiral ganglion neuron	Cul3
+Type IC spiral ganglion neuron	BC030500
+Type I spiral ganglion neuron	Dclk2
+Type I spiral ganglion neuron	Zscan21
+Type I spiral ganglion neuron	Sfmbt1
+Type IA spiral ganglion neuron	Kcnk12
+Type II spiral ganglion neuron	Dmd
+Type I spiral ganglion neuron	Zdhhc1
+Type I spiral ganglion neuron	Faim2
+Type IA spiral ganglion neuron	Gm15760
+Type I spiral ganglion neuron	Lgr5
+Type I spiral ganglion neuron	Ifngr2
+Type II spiral ganglion neuron	B230216N24Rik
+Type I spiral ganglion neuron	Tmem135
+Type I spiral ganglion neuron	Mtfp1
+Type I spiral ganglion neuron	Tagln3
+Type II spiral ganglion neuron	Wdr76
+Type II spiral ganglion neuron	Abhd2
+Type I spiral ganglion neuron	Pigc
+Type IA spiral ganglion neuron	Actn2
+Type I spiral ganglion neuron	Scn1a
+Type I spiral ganglion neuron	Dhrs11
+Type II spiral ganglion neuron	Ly6h
+Type II spiral ganglion neuron	Gtf2ird1
+Type IC spiral ganglion neuron	Prrt2
+Type I spiral ganglion neuron	Rhof
+Type II spiral ganglion neuron	Rps6
+Type I spiral ganglion neuron	Zfp971
+Type I spiral ganglion neuron	Nedd9
+Type II spiral ganglion neuron	Tpm4
+Type II spiral ganglion neuron	Mcmbp
+Type I spiral ganglion neuron	Prepl
+Type IC spiral ganglion neuron	Crtac1
+Type I spiral ganglion neuron	Zfp2
+Type IC spiral ganglion neuron	Nrp1
+Type I spiral ganglion neuron	Pim3
+Type I spiral ganglion neuron	Slc6a17
+Type I spiral ganglion neuron	Kctd17
+Type I spiral ganglion neuron	Scn1b
+Type I spiral ganglion neuron	Kcnk10
+Type II spiral ganglion neuron	Sipa1l1
+Type I spiral ganglion neuron	Sorbs1
+Type I spiral ganglion neuron	Cd59a
+Type I spiral ganglion neuron	Cadm1
+Type II spiral ganglion neuron	Pea15a
+Type IA spiral ganglion neuron	Slc25a13
+Type II spiral ganglion neuron	Defb47
+Type II spiral ganglion neuron	R74862
+Type I spiral ganglion neuron	Kcnip3
+Type I spiral ganglion neuron	Cabp1
+Type I spiral ganglion neuron	Nos1
+Type II spiral ganglion neuron	9430091E24Rik
+Type I spiral ganglion neuron	Pacsin1
+Type I spiral ganglion neuron	Ypel4
+Type I spiral ganglion neuron	Mrpl42
+Type I spiral ganglion neuron	Itfg2
+Type I spiral ganglion neuron	Sh3bp1
+Type I spiral ganglion neuron	Zfp958
+Type I spiral ganglion neuron	Ppip5k2
+Type II spiral ganglion neuron	Pcnx
+Type I spiral ganglion neuron	Shd
+Type I spiral ganglion neuron	Runx1t1
+Type I spiral ganglion neuron	Mon1a
+Type IA spiral ganglion neuron	Nfkbiz
+Type I spiral ganglion neuron	Msh3
+Type I spiral ganglion neuron	Rad21
+Type II spiral ganglion neuron	Eml6
+Type IC spiral ganglion neuron	Rasgrf1
+Type I spiral ganglion neuron	Ppp1r7
+Type I spiral ganglion neuron	Pafah1b1
+Type IB spiral ganglion neuron	Ryr3
+Type I spiral ganglion neuron	Prkag1
+Type II spiral ganglion neuron	Igsf8
+Type I spiral ganglion neuron	Dcun1d2
+Type IC spiral ganglion neuron	Galnt14
+Type II spiral ganglion neuron	Shc3
+Type I spiral ganglion neuron	F8a
+Type I spiral ganglion neuron	9530082P21Rik
+Type I spiral ganglion neuron	Fbxo40
+Type I spiral ganglion neuron	Rapgef4
+Type I spiral ganglion neuron	Ostf1
+Type I spiral ganglion neuron	Stxbp5l
+Type IC spiral ganglion neuron	Kcnj9
+Type II spiral ganglion neuron	Sgpl1
+Type II spiral ganglion neuron	Prdx1
+Type IA spiral ganglion neuron	Paxbp1
+Type I spiral ganglion neuron	Tubb3
+Type IC spiral ganglion neuron	Tagln3
+Type IB spiral ganglion neuron	Lgals1
+Type IB spiral ganglion neuron	Sema3e
+Type IC spiral ganglion neuron	Faim2
+Type IB spiral ganglion neuron	Kash5
+Type IB spiral ganglion neuron	Rasgrp2
+Type IA spiral ganglion neuron	Elovl5
+Type IB spiral ganglion neuron	Btbd9
+Type IA spiral ganglion neuron	Cd24a
+Type II spiral ganglion neuron	Gata3
+Type IA spiral ganglion neuron	Mdga1
+Type IA spiral ganglion neuron	Maf
+Type IA spiral ganglion neuron	Zfp804a
+Type II spiral ganglion neuron	Prph
+Type IB spiral ganglion neuron	Eno1
+Type I spiral ganglion neuron	Nefl
+Microglial cell	Mif
+Microglial cell	Serpine2
+Macrophage	Ccr1
+Microglial cell	Fabp5
+Macrophage	Mgl2
+M2 macrophage	Arg1
+Macrophage	Zfp120
+Progenitor cell	Itga2b
+Astrocyte	Slc1a3
+Astrocyte	Sparcl1
+Thalamus cell	Syt13
+Choroid plexus cell	Otx2
+Thalamus cell	Tcf7l2
+Migrating neuron	Neurod1
+Newborn neuron	Sema3c
+Striatal inhibitory neuron	Rxrg
+Inhibitory neuron	Gad2
+Glial cell	Mki67
+Newborn neuron	Neurod1
+Ganglionic eminence cell	Mki67
+Neuronal progenitor cell	Eomes
+Striatal inhibitory neuron	Isl1
+Striatal inhibitory neuron	Gpr88
+Migrating neuron	Sema3c
+Excitatory neuron	Neurod6
+Ganglionic eminence cell	Gad2
+Conventional dendritic cell 1(cDC1)	Itgae
+Dendritic cell	Itgae
+Dendritic cell	Clec9a
+Microglial cell	Slc2a5
+Conventional dendritic cell 2(cDC2)	Irf4
+Dendritic cell	Batf3
+Monocyte-derived macrophage	Anxa8
+Tissue-resident macrophage	Fcrls
+Monocyte-derived macrophage	Fcgr1
+Monocyte	Ccr2
+Plasmacytoid dendritic cell(pDC)	Siglech
+Central nervous system-associated macrophage	Lyve1
+Macrophage	Mertk
+Monocyte-derived macrophage	Ly6c2
+Monocyte-derived macrophage	Nr4a1
+Central nervous system-associated macrophage	Fcrls
+Conventional dendritic cell 1(cDC1)	Irf8
+Central nervous system-associated macrophage	Ms4a7
+Dendritic cell	Zbtb46
+Monocyte	Ly6c2
+Central nervous system-associated macrophage	Cd163
+Monocyte-derived macrophage	Plac8
+Plasmacytoid dendritic cell(pDC)	Ptprc
+Central nervous system-associated macrophage	Stab1
+Monocyte-derived macrophage	Ccr2
+Dendritic cell	Flt3
+Central nervous system-associated macrophage	Mrc1
+Central nervous system-associated macrophage	Cbr2
+Central nervous system-associated macrophage	Pf4
+Central nervous system-associated macrophage	Siglec1
+Midbrain dopamine neuron	Pitx3
+Neuron	Fev
+Neuron	Gad2
+Neuron	Slc17a6
+Microglial cell	F11r
+Striatopallidal loop cell	Penk
+Striatonigral cell	Tac1
+Astrocyte	Slc1a2
+Striatopallidal loop cell	Drd2
+Striatopallidal loop cell	Gpr6
+Astrocyte	Glul
+Striatonigral cell	Drd1
+Astrocyte	Gfap
+Neuron	Syp
+Neuron	Chodl
+Neuron	Nptx1
+Neuron	Igf1
+Neuron	Parpbp
+Neuron	Tubb3
+Neuron	Elavl2
+Neuron	Cartpt
+Neuron	Otx1
+Neuron	Ntm
+Neuron	Tacr3
+Neuron	Pcdh8
+Neuron	Zic1
+GABAergic neuron	Gad1
+GABAergic neuron	Olig1
+Glutamatergic neuron	Slc17a6
+GABAergic neuron	Slc32a1
+Hippocampal granule precursor cell	Nrp2
+Glutamatergic neuron	Xdh
+Migrating interneuron	Lhx6
+GABAergic neuron	Xdh
+GABAergic neuron	Slc17a7
+GABAergic neuron	Slc17a6
+GABAergic neuron	Gja1
+GABAergic neuron	Myl9
+Hippocampal granule precursor cell	Prox1
+Glutamatergic neuron	Slc17a7
+Claustrum pyramidal cell	Nr4a2
+Oligodendrocyte	Pdgfra
+GABAergic neuron	Ctss
+Cortex layer 6 pyramidal cell	Syt6
+Glutamatergic neuron	Slc32a1
+Hippocampal pyramidal precursor cell	Nrp1
+Glutamatergic neuron	Myl9
+Glutamatergic neuron	Gad1
+Thalamic interneuron	Six3
+Cortex layer 6 pyramidal cell	Six3
+Glutamatergic neuron	Gad2
+Glutamatergic neuron	Olig1
+Glutamatergic neuron	Ctss
+Somatostatin GABAergic neuron	Lhx6
+Somatostatin GABAergic neuron	Maf
+GABAergic neuron	Gad2
+Thalamic interneuron	Syt6
+Cerebellar interneuron	Mki67
+Cerebellar interneuron	Pax3
+Glutamatergic neuron	Gja1
+Somatostatin GABAergic neuron	Sst
+Granulocyte	Lyz2
+Purkinje cell	Pcp4
+Macrophage	Lyz2
+Bergmann cell	Mybpc1
+Microglial cell	Ctsd
+Microglial cell	Vim
+Astrocyte	Vim
+Granule cell precursor	Pax6
+Mature neuron	Rbfox3
+Dentate granule cell	Prox1
+Mossy cell	Thbs2
+Mossy cell	Pmp22
+Astrocyte	Rbfox3
+Astrocyte	Acsbg1
+Stem cell	Pou5f1
+M1 microglial cell	Nos2
+Microglial cell	Cst7
+Microglial cell	Mcm2
+Microglial cell	Ifit3
+Microglial cell	Oasl2
+Microglial cell	H2-Ab1
+Microglial cell	Irf7
+Microglial cell	Top2a
+Microglial cell	H2-Aa
+Microglial cell	Clec7a
+Microglial cell	Apoe
+Microglial cell	Ifit2
+Microglial cell	Lpl
+Microglial cell	Spp1
+Microglial cell	Hif1a
+Proliferative cell	Mki67
+Conventional dendritic cell 2(cDC2)	Cd209a
+Monocyte-derived cell	H2-Aa
+Monocyte-derived cell	Ly6c2
+Macrophage	Ace
+T cell	Cd3e
+Dendritic cell	H2-Aa
+Plasmacytoid dendritic cell(pDC)	Ly6c2
+Macrophage	C1qa
+Neutrophil	Camp
+Border-associated macrophage	Atp9b
+Microglial cell	Sparc
+Natural killer cell	Klrb1c
+Plasmacytoid dendritic cell(pDC)	Ccr9
+Innate lymphoid cell	Gata3
+Gamma delta(γδ) T cell	Scart1
+B cell	Cd19
+Oligodendrocyte progenitor cell	Vcan
+Neuron	Ptgds
+Neurogliaform cell	Npy
+Neurogliaform cell	Lamp5
+Neurogliaform cell	Id2
+Neurogliaform cell	Cplx3
+Neutrophil	Cd3e
+Neural stem cell	Clu
+Intermediate progenitor cell	Neurod1
+Neuron	Ndnf
+Neural stem cell	Id3
+Neuroblast	Eomes
+Pan-neural stem cell	Crip2
+Neural stem cell	Aldoc
+Neuroblast	Neurod1
+Neuron	Snhg11
+Neuroblast	Sox11
+T cell	Cd3d
+Intermediate progenitor cell	Eomes
+Pan-neural stem cell	Mt3
+Intermediate progenitor cell	Sox11
+Intermediate progenitor cell	Dcx
+Pan-neural stem cell	Dbi
+Interneuron	Lhx6
+Interneuron	Lamp5
+Macrophage	Iba1
+Pan-neuronal cell	Stmn2
+Pan-neuronal cell	Stmn3
+Microglial cell	Slc46a1
+Microglial cell	Sdk1
+Microglial cell	Sema4g
+Microglial cell	Plxna4
+Infiltrating macrophage	Clec4e
+Infiltrating macrophage	Slfn4
+Microglial cell	Sgce
+Microglial cell	Slc12a2
+Microglial cell	Ecscr
+Microglial cell	Mrc2
+Infiltrating macrophage	Sirpb1a
+Infiltrating macrophage	Ifitm6
+Infiltrating macrophage	Ms4a8a
+Microglial cell	Smo
+Infiltrating macrophage	Lilra6
+Microglial cell	Ptprm
+Microglial cell	Jam2
+Microglial cell	Kcnd1
+Microglial cell	Mrc1
+Neuron	Syn1
+Ependymal cell	Ucma
+Lymphocyte	Trbc2
+Polydendrocyte	Olig1
+Dopaminergic neuron	Slc6a3
+Dopaminergic neuron	Slc18a2
+Differentiating oligodendrocyte	Olig1
+Fibroblast	Pdgfrb
+Lymphocyte	Cd52
+Macrophage	Ms4a7
+Serotonergic neuron	Slc6a4
+Polydendrocyte	Cspg5
+Smooth muscle cell	Tagln
+Peptidergic neuron	Postn
+Polydendrocyte	C1ql1
+Polydendrocyte	Pdgfra
+Peptidergic neuron	Ucn
+Differentiating oligodendrocyte	Gpr17
+Mesenchymal cell	Pdgfrb
+Mesenchymal cell	Pdgfra
+Smooth muscle cell	Acta2
+Ependymal cell	Hdc
+Ependymal cell	Cdhr4
+Astrocyte	Slc6a9
+Mature oligodendrocyte	Opalin
+Dopaminergic neuron	Th
+Peptidergic neuron	Cartpt
+Fibroblast	Pdgfra
+Differentiating oligodendrocyte	Enpp6
+Mesenchymal cell	Dcn
+Serotonergic neuron	Fev
+Serotonergic neuron	Slc18a2
+GABAergic neuron	Slc6a1
+Glutamatergic neuron	Slc17a8
+Smooth muscle cell	Myh11
+Mature oligodendrocyte	Mog
+Serotonergic neuron	Tph2
+Fibroblast	Dcn
+Mature oligodendrocyte	Mbp
+Fibroblast	Col3a1
+Mesenchymal cell	Col3a1
+Pericyte	Pdgfrb
+Lymphocyte	Nkg7
+Mature oligodendrocyte	Olig1
+Progenitor cell	Nkx2-1
+Chandelier cell	Vipr2
+Neural crest cell	Sox10
+Neural crest cell	Foxd3
+Neural crest cell	Pax3
+Excitatory neuron	Slc17a7
+Newly formed oligodendrocyte	Bmp4
+T helper(Th) cell	Gzmc
+T helper(Th) cell	Ifng
+T helper(Th) cell	Prf1
+T helper(Th) cell	Cxcr6
+T helper(Th) cell	Gzma
+T helper(Th) cell	Tbx21
+T helper(Th) cell	Csf2
+T helper(Th) cell	Shkbp1
+Intermediate progenitor cell	Gadd45g
+Pericyte	Vtn
+Oligodendrocyte progenitor cell	Pdgfra
+Astrocyte	Hes5
+Radial glial cell	Hes5
+Diencephalon inhibitory neuron	Rspo3
+Diencephalon inhibitory neuron	Pcp4
+Mural cell	Mustn1
+Excitatory neuron	Fezf2
+Excitatory neuron	Foxp2
+Neural progenitor cell	Kcnj6
+Oligodendrocyte	Prg2
+Endothelial cell	Ndnf
+Endothelial cell	Sox15
+Endothelial cell	Rad54b
+Endothelial cell	Dyrk4
+Endothelial cell	1700009J07Rik
+Endothelial cell	Mymk
+Endothelial cell	Zic3
+Endothelial cell	Cldn13
+Endothelial cell	Ermap
+Endothelial cell	6030468B19Rik
+Endothelial cell	Edn3
+Endothelial cell	Foxl2
+Endothelial cell	Gm10384
+Endothelial cell	Slc19a3
+Interneuron	Gad1
+Corticofugal Projection Neuron	Crym
+Corticofugal Projection Neuron	Foxp2
+Corticofugal Projection Neuron	Fezf2
+Interneuron	Gad2
+Interneuron	Sst
+Interneuron	Ndnf
+Pyramidal neuron	Pcp4
+Interneuron	Nrn1
+Interneuron	Vip
+Pyramidal neuron	Ndnf
+Interneuron	Pvalb
+Interneuron	Cck
+Astroglial cell	Gfap
+Microglial cell	Rab3il1
+M1 macrophage	Nos2
+Resting microglial cell	Iba1
+M1 macrophage	Fcgr3
+M1 macrophage	Fcgr2b
+Microglial cell	Itgax
+Endothelial cell	Cd24a
+Endothelial cell	Hey1
+Endothelial cell	Plpp3
+Endothelial cell	Plpp1
+Endothelial cell	Plvap
+Endothelial cell	Nrp1
+Endothelial cell	Esm1
+Endothelial cell	Gkn3
+Astrocyte	Ogt
+Astrocyte	Fam107a
+Astrocyte	Frzb
+Astrocyte	Unc13c
+Astrocyte	Ascl1
+Macrophage	Siglec1
+Perivascular macrophage	Mrc1
+Microglial cell	Siglec1
+Mural cell	Vcan
+Layer neuron	Rorb
+Layer neuron	Bcl11b
+Layer neuron	Cux2
+Pan astrocyte	Aldh1l1
+Layer neuron	Foxp2
+Oligodendrocyte	Nppc
+Venous cell	Slc38a5
+Venous cell	Vwf
+Artery cell	Bmx
+Venous cell	Nr2f2
+Artery cell	Efnb2
+Artery cell	Vegfc
+Neuron	Gad1
+Neuron	Tac2
+Neuron	Htr2c
+Disease-associated microglial cell	Cst7
+Cholinergic interneuron	Slc17a8
+Cholinergic interneuron	Chat
+Vascular cell	Gata2
+Cholinergic interneuron	Bves
+Cholinergic interneuron	Slc18a3
+Cholinergic interneuron	Ufsp1
+Vascular cell	Flt1
+Interneuron	Calb2
+Vascular cell	Sox18
+Interneuron	Npy
+Cholinergic interneuron	Ntrk1
+Cholinergic interneuron	Ecel1
+Cholinergic interneuron	Crabp2
+Oligodendrocyte	Cnp
+Mature oligodendrocyte	Cnp
+Mature oligodendrocyte	Prg2
+Astrocyte	Gsn
+Astrocyte	Osmr
+Astrocyte	Ctsb
+Astrocyte	Id3
+Astrocyte	Myoc
+Astrocyte	Id1
+Astrocyte	Luzp2
+Astrocyte	Ggta1
+Interneuron	Calb1
+Pyramidal cell	Emx1
+Pyramidal cell	Neurod1
+Interneuron	Slc6a1
+Pyramidal cell	Neurod2
+Neuron	Cux2
+Neuron	Cux1
+Neuron	Rorb
+CD4+ T cell	Cd69
+CD4+ T cell	Tbx21
+CD8+ T cell	Prf1
+CD4+ T cell	Cd44
+CD4+ T cell	Ifng
+CD8+ T cell	Ifng
+CD4+ T cell	Il2rb
+CD4+ T cell	Tnf
+CD4+ T cell	Il2ra
+CD8+ T cell	Pdcd1
+CD8+ T cell	Gzmb
+Pyramidal cell	Sv2b
+Oligodendrocyte	Mtcp1
+Pyramidal cell	Baiap2l2
+Pyramidal cell	Fhl2
+Oligodendrocyte	Fgf2
+Pyramidal cell	Nptx1
+Pyramidal cell	Nrn1
+Pyramidal cell	Neurod6
+Pyramidal cell	Kcnv1
+Pyramidal cell	Slc17a7
+Pyramidal cell	Ptk2b
+Microglial cell	Cyba
+Pyramidal cell	Itpka
+Astrocyte	S100b
+Oligodendrocyte	Olig3
+Progenitor cell	Prom1
+Astrocyte	Plin4
+Oligodendrocyte precursor cell	Rab37
+Microglial cell	Ccl4
+Microglial cell	Ccl3
+Astrocyte	Serpina3n
+Microglial cell	Ccl8
+Microglial cell	Cybb
+Oligodendrocyte precursor cell	Tnfaip2
+Astrocyte	Runx1
+Microglial cell	Tnfaip2
+Astrocyte	Casp1
+Microglial cell	Bcl3
+Astrocyte	Lyz2
+Astrocyte	Mpeg1
+Astrocyte	Pcdhb6
+Microglial cell	Mmp12
+Astrocyte	Neat1
+Microglial cell	C4b
+Astrocyte	C4b
+Microglial cell	C3ar1
+Microglial cell	Lgals3
+Astrocyte	Flnc
+Astrocyte	Anln
+Neuron	Calb2
+Neuron	Ppp1r1b
+Neuron	Pvalb
+Neuron	Sst
+Neuron	Cck
+Neuron	Vip
+Endothelial cell	Abcc9
+Mural cell	Cldn5
+Mural cell	Abcc9
+Interneuron	Vash1
+Mural cell	Kdr
+Endothelial cell	Smc3
+Neural cell	Tubb3
+Mural cell	Smc3
+Interneuron	Lhfpl4
+Endothelial cell	Tagln
+Mural cell	Pecam1
+Interneuron	Gabra2
+Monocyte-derived macrophage	Iba1
+Neutrophil	Lcn2
+Macrophage	Itgam
+B cell	Cd22
+T cell	Cd44
+Immature astrocyte	Fabp7
+Immature astrocyte	Fgfr3
+Mature Astrocyte	Pla2g2a
+Mature Astrocyte	Aldoc
+Mature Astrocyte	Aldh1l1
+Neuron	Scn4b
+Neuron	Pde10a
+Neuron	Arpp21
+Neuron	Gpr6
+T cell	Pdcd1
+T cell	Ikzf2
+T cell	Nrp1
+T cell	Il2ra
+T cell	Sell
+T cell	Itgae
+T cell	Mki67
+Neuroblast	Cd24a
+Stem cell	Cd9
+Stem cell	Fabp7
+Neuroblast	Tubb3
+Stem cell	Prom1
+Stem cell	Ascl1
+Stem cell	Vim
+Stem cell	Gfap
+Stem cell	Egfr
+Stem cell	Thbs4
+Stem cell	Slc1a3
+Stem cell	Cd81
+GABAergic neuron	Atp1b1
+Dopaminergic neuron	Epha5
+GABAergic neuron	Kcnc1
+Dopaminergic neuron	Dlk1
+GABAergic neuron	Snap25
+Dopaminergic neuron	Ret
+Dopaminergic neuron	Chrna6
+Dopaminergic neuron	Rab3c
+Glutamatergic cell	Cbln2
+GABAergic neuron	Gata3
+Glutamatergic cell	Cacna2d1
+GABAergic neuron	Atp1a3
+GABAergic neuron	Camta1
+Glutamatergic cell	Scn2a
+Dopaminergic neuron	Aldh1a1
+Dopaminergic neuron	Ddc
+Dopaminergic neuron	Slc10a4
+Glutamatergic cell	Shox2
+Dopaminergic neuron	Syt1
+Glutamatergic cell	Slc17a6
+Dopaminergic neuron	Cpne7
+Dopaminergic neuron	Cplx1
+Glutamatergic cell	Adcyap1
+Dopaminergic neuron	Erc2
+GABAergic neuron	Ttc3
+GABAergic neuron	Sncb
+GABAergic neuron	Nrxn3
+Dopaminergic neuron	Cplx2
+Dopaminergic neuron	Pbx1
+GABAergic neuron	Syn2
+Dopaminergic neuron	En1
+GABAergic neuron	Nsf
+Dopaminergic neuron	Chrna4
+Pan neuron	Elavl2
+Neuroblast	Ptma
+Neuroblast	Igfbp4
+Neuroblast	Btg2
+Neuroblast	Stmn1
+Endothelial cell	Vtn
+Neuron-generating progenitor cell	Btg2
+Neuroblast	Sox4
+Neuroblast	Sp9
+Horizontal basal cell	Krt5
+Mature olfactory sensory neuron	Gnal
+Epithelial cell	Cxcl12
+Epithelial cell	Prss16
+Inhibitory neuron	Reln
+Myelinating oligodendrocyte	Plp1
+Astrocyte	Gpc5
+Excitatory neuron	Cux2
+Myelinating oligodendrocyte	Mbp
+Astrocyte	Nfia
+Synaptic cell	Syt1
+Inhibitory neuron	Sst
+Excitatory neuron	Satb2
+Myelinating oligodendrocyte	Mog
+Myelinating oligodendrocyte	Mag
+Astrocyte	Rgcc
+Tanycyte	Rax
+Ependymal cell	Rax
+Tanycyte	Foxj1
+Excitatory neuron	Camk2a
+Inhibitory neuron	Gad1
+Inhibitory neuron	Slc32a1
+Glial cell	Gfap
+Glial cell	Vim
+Mature oligodendrocyte	Gpr17
+Endothelial cell	Ocln
+Neuron	Thap2
+Neuron	Arid5b
+Neuron	Bcl11b
+Neuron	Epas1
+Neuron	Sox5
+Neuron	Zbtb20
+Neuron	Sox10
+Neuron	Elf2
+Neuron	Pou3f2
+Neuron	Olig1
+Neuron	Zfp984
+Neuron	Nfe2l3
+Neuron	Fezf2
+Neuron	Hopx
+Neuron	Zfp354c
+Neuron	Bhlhe40
+Neuron	Zfp207
+Neuron	Cic
+Neuron	Zfp868
+Neuron	Zfpm2
+Neuron	Olig2
+Neuron	Lcor
+Neuron	Psip1
+Neuron	Zfp101
+Neuron	Zfp651
+Neuron	Cers6
+Neuron	Zfp521
+Neuron	Sox8
+Neuron	Mbd3
+Neuron	Tbr1
+Neuron	Zfp935
+Neuron	Dpf1
+Neuron	Stat2
+Neuron	Rfx7
+Neuron	Agrp
+Striatum medium spiny neuron	Drd2
+Oligodendrocyte	Enpp6
+Neuron	Dlg3
+Astrocyte	Pls1
+Microglial cell	Mapk14
+Astrocyte	Traf3
+Oligodendrocyte	Gfod1
+Astrocyte	Dag1
+Neuron	Cbx4
+Neuron	Smg7
+Microglial cell	Msn
+Astrocyte	Mical1
+Astrocyte	Phkb
+Neuron	Chaf1b
+Astrocyte	Ptprf
+Astrocyte	Tst
+Neuron	Sox4
+Astrocyte	Clybl
+Astrocyte	Ptprz1
+Neuron	Clk4
+Neuron	Aars2
+Astrocyte	Dbi
+Neuron	Wdr74
+Microglial cell	Mpp1
+Oligodendrocyte	Elfn2
+Astrocyte	Cbs
+Neuron	Zfp148
+Astrocyte	Cyp7b1
+Neuron	Igkc
+Astrocyte	Arhgef18
+Astrocyte	Ckm
+Astrocyte	Cdh2
+Astrocyte	Psph
+Astrocyte	H3c1
+Oligodendrocyte	Zzef1
+Astrocyte	Kank2
+Microglial cell	Cpq
+Neuron	Ep400
+Astrocyte	Ptpra
+Neuron	Cbx2
+Astrocyte	Arhgef12
+Astrocyte	Fermt2
+Neuron	Hp
+Oligodendrocyte	Arhgap31
+Oligodendrocyte	Utp14b
+Astrocyte	Tmed1
+Oligodendrocyte	Gale
+Microglial cell	Prps2
+Astrocyte	Mpdz
+Astrocyte	Fars2
+Astrocyte	Amt
+Neuron	Ube2c
+Microglial cell	Ptgds
+Astrocyte	Abcc8
+Astrocyte	Pkd2
+Astrocyte	Ddt
+Astrocyte	Phka1
+Microglial cell	Morc3
+Oligodendrocyte	Plod2
+Neuron	Kif22
+Neuron	Brd1
+Astrocyte	Synm
+Microglial cell	Tmem63a
+Astrocyte	Tcaf2
+Astrocyte	2610507B11Rik
+Neuron	Zfp644
+Astrocyte	Rasgrf1
+Neuron	Scmh1
+Microglial cell	Trim65
+Neuron	Pde4dip
+Astrocyte	Acad11
+Microglial cell	Bcl10
+Oligodendrocyte	Phf12
+Astrocyte	Pacsin3
+Astrocyte	Prxl2a
+Microglial cell	Rasa4
+Astrocyte	Pxmp2
+Astrocyte	Dhcr7
+Astrocyte	Gnao1
+Astrocyte	Lifr
+Neuron	Cstf2t
+Neuron	Senp3
+Astrocyte	Serpinh1
+Oligodendrocyte	Stk32a
+Neuron	4932438A13Rik
+Microglial cell	Lgals8
+Neuron	Flywch1
+Astrocyte	Dhx32
+Astrocyte	Tpmt
+Astrocyte	Acad12
+Neuron	Ighm
+Oligodendrocyte	Llph
+Neuron	Kdm5b
+Oligodendrocyte	Fchsd2
+Neuron	Nsd1
+Astrocyte	Soat1
+Oligodendrocyte	Gpatch11
+Astrocyte	Pdlim5
+Astrocyte	Ndrg2
+Neuron	Abca5
+Neuron	Adnp
+Astrocyte	Sash1
+Microglial cell	Dnajc1
+Oligodendrocyte	Plxnb3
+Neuron	Ankrd34b
+Astrocyte	Suclg2
+Neuron	Ogt
+Oligodendrocyte	Xpo6
+Microglial cell	Ppt2
+Microglial cell	Hltf
+Astrocyte	Lamb2
+Astrocyte	Higd1a
+Astrocyte	Maoa
+Neuron	Igf2r
+Neuron	Tnrc6c
+Astrocyte	Ptpn13
+Microglial cell	Tfe3
+Astrocyte	Dctn1
+Neuron	Urb1
+Astrocyte	Acss1
+Astrocyte	Agpat3
+Astrocyte	Egfr
+Neuron	Adgrl1
+Microglial cell	Vasp
+Microglial cell	Btk
+Neuron	Pias4
+Microglial cell	Pmm2
+Microglial cell	Arfgef2
+Astrocyte	Glipr2
+Oligodendrocyte	Tpd52l2
+Neuron	Pomgnt2
+Oligodendrocyte	Hspa12a
+Neuron	Sap130
+Microglial cell	Rbm34
+Oligodendrocyte	Fam169a
+Neuron	Gar1
+Astrocyte	Zhx2
+Neuron	Ehmt2
+Neuron	Igf1r
+Astrocyte	Tpm2
+Microglial cell	Dnase2a
+Neuron	Kat5
+Microglial cell	Manba
+Neuron	Nrde2
+Astrocyte	Lats1
+Microglial cell	Pyroxd2
+Neuron	Camk4
+Astrocyte	Arhgap32
+Microglial cell	Tnfaip8l2
+Neuron	Sin3b
+Astrocyte	Nadk2
+Neuron	Suz12
+Microglial cell	Rftn1
+Microglial cell	Pld3
+Oligodendrocyte	Pcsk1n
+Neuron	Zfp871
+Microglial cell	St3gal6
+Microglial cell	Samhd1
+Neuron	Pbk
+Oligodendrocyte	Gas2
+Astrocyte	Sox2
+Astrocyte	Mtm1
+Astrocyte	Sntb1
+Microglial cell	Hmox1
+Astrocyte	Pon2
+Neuron	Kdm5a
+Oligodendrocyte	Mindy1
+Astrocyte	Ctnnb1
+Astrocyte	Cmbl
+Microglial cell	Acox3
+Neuron	Usp22
+Oligodendrocyte	Stx1b
+Microglial cell	Stat1
+Oligodendrocyte	Rac3
+Microglial cell	Erap1
+Oligodendrocyte	Ccdc167
+Neuron	Igsf3
+Oligodendrocyte	Agpat4
+Neuron	Wdhd1
+Oligodendrocyte	Khdrbs2
+Microglial cell	Vamp8
+Astrocyte	Ugt1a6a
+Neuron	Dut
+Neuron	Mad2l1
+Neuron	Smarca5
+Astrocyte	Spire1
+Microglial cell	Git2
+Astrocyte	Pex2
+Oligodendrocyte	Evi5l
+Microglial cell	Gda
+Microglial cell	Tmsb4x
+Astrocyte	Palld
+Neuron	Cacna2d2
+Astrocyte	Aldh1a1
+Microglial cell	Hk2
+Neuron	Ncapg
+Oligodendrocyte	Ccnd1
+Astrocyte	Parp12
+Neuron	Ryr2
+Astrocyte	Cnn3
+Oligodendrocyte	Usp16
+Astrocyte	Arap2
+Neuron	Prkrip1
+Neuron	Smarcd3
+Oligodendrocyte	Cacng4
+Neuron	Luc7l
+Microglial cell	Pygl
+Oligodendrocyte	Casr
+Neuron	Sema7a
+Neuron	Gabrb2
+Astrocyte	Sqle
+Oligodendrocyte	Gltp
+Microglial cell	Cyfip1
+Microglial cell	Myof
+Microglial cell	Commd5
+Neuron	Nrxn3
+Astrocyte	Cst3
+Astrocyte	Prom1
+Microglial cell	Rnasel
+Microglial cell	Ganc
+Neuron	Rnaseh2b
+Microglial cell	Ehbp1l1
+Oligodendrocyte	Rogdi
+Astrocyte	Glud1
+Neuron	Lyrm7
+Oligodendrocyte	Cntn1
+Oligodendrocyte	Col9a3
+Astrocyte	Aldh6a1
+Neuron	Ndufa1
+Oligodendrocyte	Tcp11l2
+Oligodendrocyte	Agap2
+Neuron	Khdc4
+Astrocyte	Gpx8
+Microglial cell	Fcgr1
+Neuron	Phc2
+Neuron	Hmg20a
+Neuron	Gabra1
+Oligodendrocyte	Tppp
+Astrocyte	Fgf1
+Microglial cell	Akr1b3
+Microglial cell	Hgsnat
+Neuron	Bcl7a
+Neuron	Fam117b
+Astrocyte	Flot2
+Microglial cell	Enpp4
+Microglial cell	Atp2a3
+Astrocyte	Ppp2r2b
+Oligodendrocyte	Gap43
+Neuron	Actl6b
+Oligodendrocyte	Gnb4
+Microglial cell	Ifi207
+Astrocyte	Pipox
+Neuron	Ccsap
+Astrocyte	Carmil1
+Microglial cell	Serpina3n
+Neuron	Moap1
+Oligodendrocyte	Szt2
+Oligodendrocyte	Katnal1
+Astrocyte	Prdx6
+Astrocyte	A2m
+Neuron	Igfbpl1
+Microglial cell	Psmb10
+Neuron	Ctcf
+Microglial cell	Tifa
+Microglial cell	Arf2
+Oligodendrocyte	Cdr2l
+Microglial cell	Hfe
+Oligodendrocyte	Pacs2
+Astrocyte	Amer2
+Neuron	Akap8l
+Neuron	Celsr2
+Microglial cell	Tspan14
+Microglial cell	S100a11
+Neuron	Ehbp1
+Neuron	Brd2
+Astrocyte	Hmgcs2
+Oligodendrocyte	Sox6
+Oligodendrocyte	Tfeb
+Oligodendrocyte	Syt3
+Microglial cell	Phka2
+Astrocyte	Pde1b
+Oligodendrocyte	Tcf7l2
+Neuron	Utp23
+Astrocyte	Ppfia1
+Microglial cell	Ttc39b
+Astrocyte	Cpt1a
+Neuron	Nfix
+Neuron	Alkbh8
+Oligodendrocyte	Prkcq
+Microglial cell	Arid3a
+Oligodendrocyte	Plcb1
+Microglial cell	Serpinb6b
+Microglial cell	Sumo3
+Astrocyte	Raver2
+Oligodendrocyte	Slc27a3
+Oligodendrocyte	Itgb8
+Neuron	Zfp704
+Microglial cell	Lacc1
+Neuron	Trim33
+Oligodendrocyte	Rabgap1l
+Oligodendrocyte	Nudt18
+Astrocyte	Cdc42ep1
+Astrocyte	Echdc1
+Microglial cell	Paox
+Oligodendrocyte	Stxbp6
+Astrocyte	Btbd17
+Oligodendrocyte	Aldh1l2
+Neuron	Nell2
+Microglial cell	Parp9
+Neuron	Epb41l4b
+Oligodendrocyte	Fam177a
+Astrocyte	Adcy2
+Microglial cell	Rraga
+Astrocyte	Zhx3
+Astrocyte	Dennd4c
+Neuron	Ncaph
+Neuron	Ncs1
+Oligodendrocyte	Gria3
+Oligodendrocyte	Wwc2
+Neuron	Dhx57
+Astrocyte	Fmo1
+Microglial cell	Dab2
+Oligodendrocyte	Mtmr7
+Microglial cell	Dnm2
+Neuron	Osbpl5
+Oligodendrocyte	Tns3
+Astrocyte	Csrp1
+Microglial cell	Gsdmd
+Oligodendrocyte	Pcbp4
+Oligodendrocyte	Tpm3
+Astrocyte	Tnc
+Oligodendrocyte	Sirt2
+Neuron	Map4k3
+Astrocyte	Tns1
+Astrocyte	Sdsl
+Neuron	Cep120
+Astrocyte	Aldh1a2
+Astrocyte	Inpp5j
+Neuron	Tet3
+Astrocyte	Gsta4
+Microglial cell	Hexa
+Astrocyte	Myh14
+Astrocyte	Zcchc24
+Oligodendrocyte	Arfgef3
+Neuron	Insm1
+Astrocyte	Wwc1
+Astrocyte	Dock1
+Astrocyte	Limch1
+Microglial cell	Asl
+Astrocyte	Mcc
+Microglial cell	Nek7
+Neuron	Ralyl
+Neuron	Syt6
+Microglial cell	Plcg2
+Oligodendrocyte	Pcdh7
+Microglial cell	Gpnmb
+Astrocyte	Kcnj10
+Astrocyte	Aspa
+Microglial cell	Snx9
+Microglial cell	Sipa1
+Microglial cell	Ehd4
+Astrocyte	Sptan1
+Neuron	Cep170b
+Neuron	Sgtb
+Oligodendrocyte	Slc44a2
+Neuron	Nsg1
+Astrocyte	Vwa8
+Neuron	Nedd4l
+Microglial cell	Trim21
+Microglial cell	Myo1g
+Astrocyte	Myh11
+Neuron	Elavl4
+Neuron	Rbfox2
+Neuron	Cnst
+Astrocyte	Arnt2
+Oligodendrocyte	Usp32
+Neuron	Utp3
+Neuron	Pola2
+Microglial cell	Gmip
+Neuron	Itpka
+Astrocyte	Arhgap21
+Microglial cell	Renbp
+Microglial cell	Blvrb
+Astrocyte	Snta1
+Astrocyte	Slc20a2
+Neuron	Zfp362
+Neuron	Rbm4b
+Neuron	Rrm2
+Neuron	Rit2
+Oligodendrocyte	Fryl
+Oligodendrocyte	Tbc1d5
+Microglial cell	B2m
+Microglial cell	Bcat2
+Oligodendrocyte	Cmip
+Neuron	Foxp1
+Microglial cell	Rab43
+Microglial cell	Tlr3
+Neuron	Paxbp1
+Neuron	Nfib
+Astrocyte	Ptdss2
+Oligodendrocyte	Dusp23
+Microglial cell	Abca1
+Astrocyte	Ptn
+Oligodendrocyte	Cetn2
+Microglial cell	Mthfsl
+Astrocyte	Sar1b
+Astrocyte	Peak1
+Oligodendrocyte	Asns
+Neuron	Slc25a22
+Neuron	Tomm5
+Astrocyte	Tbc1d10a
+Microglial cell	Myh9
+Oligodendrocyte	Hip1r
+Microglial cell	Fuca1
+Astrocyte	Slitrk2
+Neuron	Smarcal1
+Microglial cell	Cacul1
+Microglial cell	Hck
+Astrocyte	Igsf1
+Astrocyte	Slc25a18
+Astrocyte	Suox
+Astrocyte	Oat
+Microglial cell	P2rx4
+Astrocyte	Fga
+Microglial cell	Ngp
+Astrocyte	Mast4
+Astrocyte	Acot11
+Microglial cell	Rab11fip5
+Neuron	Bcl11a
+Microglial cell	Mroh1
+Oligodendrocyte	Ncald
+Neuron	Tpx2
+Oligodendrocyte	Cspg4
+Oligodendrocyte	Gamt
+Astrocyte	Elovl5
+Microglial cell	Rnf213
+Microglial cell	Mgmt
+Oligodendrocyte	Hpcal4
+Astrocyte	Tagln
+Neuron	Kdm2b
+Neuron	Zfp292
+Neuron	Acsl4
+Oligodendrocyte	Atp5mpl
+Microglial cell	Fcgrt
+Microglial cell	Fes
+Oligodendrocyte	Tmem132b
+Neuron	Rufy3
+Microglial cell	B4galnt1
+Oligodendrocyte	Kbtbd7
+Astrocyte	Acot2
+Oligodendrocyte	Car10
+Microglial cell	Ptpn6
+Astrocyte	Ankrd40
+Astrocyte	Ephb3
+Neuron	Phf14
+Oligodendrocyte	Ago3
+Astrocyte	Yap1
+Microglial cell	Snx5
+Microglial cell	Cryl1
+Neuron	Fbxo30
+Microglial cell	Apobec3
+Oligodendrocyte	Ncam2
+Microglial cell	Hmga1
+Astrocyte	Il6st
+Oligodendrocyte	Nkx2-2
+Astrocyte	Itga7
+Neuron	Smpd4
+Oligodendrocyte	Adgrl3
+Oligodendrocyte	Snx32
+Neuron	Ehmt1
+Microglial cell	Lsm5
+Microglial cell	Gbp9
+Astrocyte	Golim4
+Neuron	Med10
+Oligodendrocyte	Nop53
+Astrocyte	Akt2
+Neuron	Noa1
+Astrocyte	Ak4
+Neuron	Slc12a5
+Astrocyte	Pmm1
+Neuron	Zfp423
+Oligodendrocyte	Nrd1
+Astrocyte	Aldoc
+Astrocyte	Map2
+Oligodendrocyte	Arhgef10
+Neuron	Pola1
+Astrocyte	Myo10
+Microglial cell	Slk
+Astrocyte	Mmd2
+Neuron	Pou3f4
+Astrocyte	Gstt1
+Neuron	Rb1
+Microglial cell	Rab32
+Microglial cell	Fmnl1
+Neuron	Pogz
+Astrocyte	Smpd2
+Oligodendrocyte	Slc35f1
+Microglial cell	Cmtm3
+Microglial cell	Psmb8
+Microglial cell	Lrrfip1
+Oligodendrocyte	Nlgn3
+Neuron	Tbc1d7
+Astrocyte	Ctnna1
+Astrocyte	Ttyh3
+Oligodendrocyte	Lsamp
+Microglial cell	Lyz2
+Oligodendrocyte	Dpp10
+Oligodendrocyte	Epb41
+Microglial cell	Igf2bp3
+Astrocyte	Cpe
+Astrocyte	Ncan
+Microglial cell	H6pd
+Neuron	Spen
+Oligodendrocyte	Pus7
+Oligodendrocyte	Igf2bp2
+Neuron	Fam120b
+Oligodendrocyte	Calb1
+Neuron	Chd8
+Neuron	Gpsm1
+Oligodendrocyte	Atp2b3
+Astrocyte	Phactr4
+Neuron	Ccnt1
+Neuron	Usp48
+Neuron	Cdkn1b
+Neuron	Grid2ip
+Microglial cell	Cln5
+Neuron	Vkorc1l1
+Microglial cell	Rab27a
+Neuron	Diras1
+Astrocyte	Enpep
+Microglial cell	Rgs10
+Astrocyte	Dlg5
+Oligodendrocyte	Hip1
+Astrocyte	Mmab
+Astrocyte	Slc2a1
+Neuron	Kmt2a
+Microglial cell	Galns
+Neuron	Casd1
+Neuron	Fnbp1l
+Neuron	Ephb2
+Astrocyte	Prex2
+Neuron	Ing1
+Astrocyte	Fkbp10
+Astrocyte	Fhl1
+Microglial cell	Uba7
+Oligodendrocyte	Fyn
+Oligodendrocyte	Gab1
+Microglial cell	Htatip2
+Astrocyte	Ccdc88c
+Neuron	Mrgbp
+Neuron	Cntn2
+Oligodendrocyte	Zfp281
+Microglial cell	Pip4k2a
+Microglial cell	Rnaset2b
+Microglial cell	Pnp
+Neuron	Gle1
+Neuron	Smg8
+Neuron	Clvs1
+Neuron	Kmt2b
+Neuron	Cds1
+Astrocyte	Mlc1
+Microglial cell	Ptk2b
+Oligodendrocyte	Kcnd2
+Microglial cell	Psme2
+Oligodendrocyte	Matn4
+Microglial cell	Stxbp5
+Astrocyte	Gstm5
+Oligodendrocyte	Chadl
+Neuron	Cd2bp2
+Astrocyte	Slc14a1
+Astrocyte	Hmgn1
+Neuron	Zfp536
+Microglial cell	Hs1bp3
+Neuron	Ahdc1
+Astrocyte	Tom1l1
+Neuron	Minpp1
+Astrocyte	Lrig1
+Neuron	Tcaf1
+Astrocyte	Jak1
+Oligodendrocyte	Pdcd4
+Oligodendrocyte	Cdk18
+Astrocyte	Macf1
+Microglial cell	Sfxn2
+Microglial cell	Ophn1
+Neuron	Ncoa2
+Neuron	Brd8
+Neuron	Nptxr
+Astrocyte	Kif1c
+Astrocyte	Fabp5
+Astrocyte	Lama4
+Astrocyte	Myorg
+Oligodendrocyte	D630045J12Rik
+Neuron	Cend1
+Microglial cell	Serpinb8
+Astrocyte	Lxn
+Microglial cell	Ifi211
+Astrocyte	Apoe
+Astrocyte	Mras
+Astrocyte	Map4
+Neuron	St7
+Microglial cell	Ccdc50
+Oligodendrocyte	Bhlhb9
+Microglial cell	Stfa1
+Oligodendrocyte	Pcnx3
+Neuron	Arid4b
+Astrocyte	Nat1
+Astrocyte	Nrxn1
+Neuron	Ptprm
+Astrocyte	Hadh
+Neuron	Zfp668
+Neuron	Akap9
+Astrocyte	Fabp7
+Microglial cell	Blvra
+Astrocyte	Agfg2
+Neuron	Psme4
+Astrocyte	Pcx
+Oligodendrocyte	Sox8
+Microglial cell	Card9
+Microglial cell	Tpst2
+Astrocyte	Pfkm
+Neuron	Cggbp1
+Microglial cell	Trpv2
+Astrocyte	Plcb3
+Microglial cell	Siae
+Astrocyte	Kif1b
+Oligodendrocyte	Apba1
+Oligodendrocyte	Vamp1
+Microglial cell	Isg15
+Neuron	Sobp
+Astrocyte	Prodh
+Neuron	Dsp
+Microglial cell	Fgd2
+Neuron	Casp2
+Microglial cell	Kctd12b
+Oligodendrocyte	Cdh11
+Microglial cell	Kif15
+Oligodendrocyte	Abi2
+Microglial cell	Plod3
+Astrocyte	Acsf2
+Neuron	Kdm4b
+Astrocyte	Rtn3
+Oligodendrocyte	Myo1d
+Microglial cell	Lactb2
+Astrocyte	Rhbdf1
+Astrocyte	Sorbs1
+Astrocyte	Gucy1a1
+Astrocyte	Nwd1
+Neuron	Chd6
+Neuron	C2cd2l
+Neuron	Sugp1
+Astrocyte	Mthfd1
+Oligodendrocyte	Irs2
+Neuron	Suds3
+Neuron	Ezh2
+Neuron	Zfp609
+Neuron	Eomes
+Astrocyte	Ube2f
+Microglial cell	Pde3b
+Neuron	Tmem35a
+Astrocyte	Nudt12
+Oligodendrocyte	Gab2
+Astrocyte	Serhl
+Neuron	Sipa1l1
+Neuron	Grin1
+Astrocyte	Ccdc141
+Neuron	Hmg20b
+Neuron	Foxg1
+Neuron	Pcdh17
+Neuron	Tdrd3
+Astrocyte	Tjp2
+Neuron	Arhgap39
+Oligodendrocyte	Dtd1
+Microglial cell	Rhog
+Neuron	Ammecr1l
+Microglial cell	Stk3
+Microglial cell	Ctsf
+Oligodendrocyte	Anpep
+Oligodendrocyte	Sike1
+Microglial cell	Akap10
+Microglial cell	Nme4
+Astrocyte	Gpm6b
+Microglial cell	As3mt
+Neuron	Kif4
+Oligodendrocyte	Far1
+Astrocyte	Vtn
+Microglial cell	Sh3kbp1
+Neuron	Kifc5b
+Oligodendrocyte	Cnksr3
+Microglial cell	Rel
+Astrocyte	Sh3bgrl2
+Microglial cell	Dera
+Microglial cell	Rp2
+Astrocyte	Hsd11b1
+Oligodendrocyte	Gmds
+Astrocyte	Acadm
+Astrocyte	Acadvl
+Microglial cell	Itsn2
+Neuron	Olfm1
+Neuron	Sugp2
+Astrocyte	Add3
+Neuron	Neurod2
+Neuron	Gramd1b
+Astrocyte	Alpl
+Astrocyte	Bag3
+Microglial cell	Ada
+Microglial cell	Pnpla7
+Microglial cell	Zbtb8os
+Microglial cell	Naaa
+Astrocyte	Pnpla6
+Astrocyte	Dlgap1
+Neuron	Pbx3
+Neuron	Plxna2
+Microglial cell	Pon3
+Microglial cell	Wdfy2
+Astrocyte	Ppp2r5a
+Microglial cell	Anxa4
+Microglial cell	Anxa5
+Microglial cell	Ap1g2
+Microglial cell	Arg1
+Astrocyte	Nqo1
+Neuron	Qser1
+Neuron	Rai1
+Microglial cell	Alkbh3
+Microglial cell	Atp5c1
+Astrocyte	Clcc1
+Astrocyte	Ivd
+Astrocyte	Plxnc1
+Microglial cell	Atp7a
+Astrocyte	Slc1a4
+Neuron	Ctif
+Astrocyte	Mpc1
+Astrocyte	Fads2
+Neuron	Rnft2
+Oligodendrocyte	Dhcr24
+Astrocyte	B3gnt2
+Neuron	Srsf12
+Neuron	Aurkb
+Astrocyte	Cpt2
+Microglial cell	Bin2
+Oligodendrocyte	Nol3
+Neuron	Spin1
+Astrocyte	Pals1
+Neuron	Znrd2
+Microglial cell	Arhgap17
+Microglial cell	Ccdc93
+Microglial cell	Cbln1
+Neuron	Tcf20
+Neuron	Dgkg
+Astrocyte	Actr3b
+Neuron	Cdk1
+Neuron	Rem2
+Astrocyte	Uqcrh
+Microglial cell	Tpp1
+Neuron	Timeless
+Microglial cell	Myo1c
+Astrocyte	Edil3
+Microglial cell	Spg21
+Microglial cell	Usp25
+Astrocyte	Scd2
+Microglial cell	Tgfbrap1
+Microglial cell	Rap1b
+Astrocyte	Fdft1
+Astrocyte	Eepd1
+Microglial cell	Chek2
+Microglial cell	Slc7a8
+Oligodendrocyte	Stk39
+Neuron	Tsc22d2
+Oligodendrocyte	Shroom2
+Microglial cell	Pepd
+Neuron	Ccdc71l
+Neuron	Mex3a
+Microglial cell	Pus10
+Microglial cell	Plcl2
+Neuron	Stau2
+Microglial cell	Scpep1
+Microglial cell	Dok1
+Microglial cell	Trim14
+Astrocyte	Ttc9
+Astrocyte	Oxa1l
+Microglial cell	Evl
+Oligodendrocyte	Dicer1
+Neuron	Nasp
+Microglial cell	Dnttip1
+Microglial cell	Fhl3
+Oligodendrocyte	Lcorl
+Microglial cell	Abhd14b
+Microglial cell	Rab35
+Microglial cell	Efr3a
+Microglial cell	Sting1
+Neuron	Kif11
+Microglial cell	Hcls1
+Microglial cell	H2-D1
+Astrocyte	Arhgap26
+Oligodendrocyte	Gnptg
+Astrocyte	Phyhipl
+Microglial cell	Rac2
+Microglial cell	Daglb
+Neuron	Kdm4a
+Microglial cell	Arhgap25
+Astrocyte	Slc30a1
+Neuron	Yrdc
+Astrocyte	Hspa2
+Astrocyte	Rsph4a
+Neuron	Bcl9
+Neuron	Tanc2
+Astrocyte	Hepacam
+Oligodendrocyte	Cdk14
+Neuron	Ubqln1
+Microglial cell	Parp3
+Microglial cell	Ifi204
+Oligodendrocyte	Afap1l2
+Microglial cell	Igtp
+Astrocyte	Adcyap1r1
+Oligodendrocyte	Pkia
+Neuron	Adar
+Oligodendrocyte	Ppp1r16b
+Microglial cell	Slc15a4
+Neuron	Usp29
+Microglial cell	Itpr3
+Astrocyte	Crot
+Oligodendrocyte	Otud7b
+Oligodendrocyte	Atp1a3
+Oligodendrocyte	Shisa7
+Oligodendrocyte	Samd4b
+Microglial cell	Epdr1
+Oligodendrocyte	Acot7
+Neuron	Asb3
+Astrocyte	Kbtbd11
+Microglial cell	Lamp2
+Astrocyte	Them4
+Microglial cell	Arhgdib
+Neuron	Rasgrp2
+Astrocyte	Ctnnd2
+Microglial cell	Npc2
+Astrocyte	Nsdhl
+Microglial cell	Tubb6
+Microglial cell	Wdr55
+Neuron	Gdpd1
+Microglial cell	Arrb1
+Oligodendrocyte	Ralgps1
+Astrocyte	Camk2g
+Astrocyte	Cat
+Astrocyte	Bola3
+Microglial cell	Gusb
+Astrocyte	Usp54
+Oligodendrocyte	Cadm4
+Astrocyte	Ift122
+Microglial cell	Man2a1
+Astrocyte	Trps1
+Astrocyte	Cntfr
+Neuron	Zc2hc1a
+Neuron	Tacc3
+Astrocyte	Crym
+Astrocyte	Csrp2
+Astrocyte	Atp1a2
+Oligodendrocyte	Ppm1e
+Microglial cell	Mov10
+Microglial cell	Gbp4
+Microglial cell	Mpo
+Oligodendrocyte	Capn5
+Neuron	Diras2
+Neuron	Mturn
+Neuron	Lonrf2
+Oligodendrocyte	Clgn
+Oligodendrocyte	Plekhb1
+Microglial cell	Mthfr
+Oligodendrocyte	Imp4
+Oligodendrocyte	Cplx1
+Microglial cell	Tor3a
+Oligodendrocyte	Agap1
+Astrocyte	F3
+Neuron	Lrch2
+Oligodendrocyte	Rab15
+Oligodendrocyte	Tbc1d22b
+Oligodendrocyte	Trim56
+Astrocyte	Grm5
+Neuron	Cdc40
+Astrocyte	Nacc2
+Microglial cell	P2rx7
+Oligodendrocyte	Rap1gap
+Astrocyte	Ston2
+Neuron	Tlk2
+Neuron	Ramac
+Microglial cell	Ctbs
+Oligodendrocyte	Nhsl2
+Astrocyte	Mid1ip1
+Microglial cell	Pggt1b
+Astrocyte	Dync2h1
+Microglial cell	Rcsd1
+Microglial cell	Eml3
+Neuron	Psd
+Oligodendrocyte	Grik3
+Neuron	Gtf2e1
+Neuron	Eif4enif1
+Neuron	Slc25a27
+Astrocyte	Bbox1
+Neuron	Morc2a
+Neuron	Cenpc1
+Astrocyte	Caskin2
+Microglial cell	Dennd4b
+Oligodendrocyte	Jak2
+Oligodendrocyte	Ldlr
+Oligodendrocyte	Kif13a
+Astrocyte	Gpam
+Microglial cell	Ptpn18
+Astrocyte	Nadk
+Astrocyte	Clic6
+Microglial cell	Rab3d
+Astrocyte	Dhtkd1
+Neuron	H1f10
+Microglial cell	Sall1
+Neuron	Tuba8
+Astrocyte	Yes1
+Astrocyte	Lpp
+Astrocyte	Hmgcr
+Neuron	Meis1
+Microglial cell	S100a8
+Astrocyte	Dnajc25
+Oligodendrocyte	Ptpdc1
+Microglial cell	Spi1
+Microglial cell	Slmap
+Neuron	Micu3
+Neuron	Napb
+Microglial cell	Rab8b
+Microglial cell	Shc1
+Astrocyte	Tmem259
+Astrocyte	Lgalsl
+Oligodendrocyte	Urm1
+Microglial cell	Mtr
+Microglial cell	Slc12a7
+Astrocyte	Oxnad1
+Astrocyte	Tom1l2
+Microglial cell	Amdhd2
+Astrocyte	Sox21
+Astrocyte	Naprt
+Oligodendrocyte	Ptprd
+Astrocyte	Lclat1
+Neuron	Emc9
+Microglial cell	Cstdc4
+Neuron	Glce
+Oligodendrocyte	Rock1
+Oligodendrocyte	Rnf7
+Neuron	Spock2
+Microglial cell	Stk10
+Microglial cell	Stxbp2
+Astrocyte	Nes
+Microglial cell	Srsf6
+Astrocyte	Chst2
+Astrocyte	Immt
+Astrocyte	Kidins220
+Oligodendrocyte	Pakap
+Neuron	Nt5dc3
+Microglial cell	Tk1
+Microglial cell	Ankrd44
+Microglial cell	Lipo1
+Oligodendrocyte	Syt2
+Microglial cell	Slc9a9
+Microglial cell	Trex1
+Microglial cell	Tln1
+Astrocyte	Dpy19l3
+Microglial cell	Lrch1
+Microglial cell	Fmnl3
+Neuron	Dnajc9
+Astrocyte	Plec
+Oligodendrocyte	Hif1an
+Astrocyte	Pltp
+Astrocyte	Pld2
+Oligodendrocyte	Vldlr
+Neuron	Rbm15b
+Astrocyte	Fam171b
+Microglial cell	Twf2
+Astrocyte	Lrrc8a
+Microglial cell	Pacsin2
+Microglial cell	Scamp2
+Microglial cell	Gnpda1
+Neuron	Terf2
+Oligodendrocyte	Sgk2
+Microglial cell	Myo1e
+Neuron	Igsf8
+Microglial cell	Chil3
+Oligodendrocyte	Trim67
+Microglial cell	Dhdh
+Microglial cell	Krt33a
+Oligodendrocyte	Cpox
+Astrocyte	Prex1
+Astrocyte	Scp2
+Microglial cell	Pik3cg
+Oligodendrocyte	Sncb
+Astrocyte	Evi5
+Neuron	Lzts1
+Neuron	Afap1
+Neuron	Map9
+Neuron	Eif2ak3
+Astrocyte	Tmem229a
+Astrocyte	Pgghg
+Oligodendrocyte	Epn2
+Microglial cell	Ctsl
+Oligodendrocyte	Fnta
+Oligodendrocyte	Fkbp1a
+Microglial cell	Tbc1d22a
+Neuron	Plppr3
+Microglial cell	Otulinl
+Astrocyte	Gcsh
+Neuron	Map3k4
+Neuron	Gdap1
+Neuron	Grin2b
+Astrocyte	Arhgef26
+Neuron	Hells
+Oligodendrocyte	Nap1l5
+Neuron	Hmgb3
+Neuron	Hspb1
+Neuron	Sirt6
+Neuron	Hspg2
+Microglial cell	Nagk
+Microglial cell	Abcc3
+Oligodendrocyte	Dock3
+Neuron	Smc5
+Astrocyte	Tulp3
+Neuron	Incenp
+Microglial cell	Ripk3
+Neuron	Kcna4
+Neuron	Prrc2b
+Oligodendrocyte	Mrps18b
+Microglial cell	Mbnl1
+Oligodendrocyte	Ubap1
+Oligodendrocyte	Peli1
+Neuron	Syt5
+Oligodendrocyte	Dennd11
+Neuron	Dcp1a
+Oligodendrocyte	Mapt
+Neuron	L1cam
+Microglial cell	Stard3
+Neuron	Arfrp1
+Microglial cell	Arglu1
+Neuron	Arid2
+Astrocyte	Irs1
+Oligodendrocyte	Slc27a6
+Neuron	Sphkap
+Microglial cell	Irgm1
+Astrocyte	Slc9a3r1
+Microglial cell	Gmpr
+Oligodendrocyte	Ddx59
+Neuron	Sez6l2
+Neuron	Jpt1
+Neuron	Zmym3
+Oligodendrocyte	Eml1
+Microglial cell	Pycard
+Neuron	Setd2
+Astrocyte	Bcar3
+Microglial cell	Aga
+Neuron	Mex3d
+Microglial cell	Gla
+Neuron	Prkcg
+Neuron	Plg
+Astrocyte	Acaa2
+Microglial cell	Anxa3
+Neuron	Arid1b
+Microglial cell	Aldh3b1
+Oligodendrocyte	Secisbp2l
+Microglial cell	Ap3b1
+Microglial cell	Apaf1
+Oligodendrocyte	Sema4d
+Oligodendrocyte	Kazn
+Astrocyte	Ahcyl1
+Neuron	Camta1
+Neuron	Rbfox1
+Astrocyte	Mmut
+Microglial cell	Coro2a
+Oligodendrocyte	Macrod2
+Neuron	Rfx3
+Oligodendrocyte	Tmem163
+Oligodendrocyte	Sapcd2
+Microglial cell	Cd180
+Neuron	Chd5
+Oligodendrocyte	Kndc1
+Microglial cell	Aldh16a1
+Neuron	Eri1
+Microglial cell	Galk2
+Neuron	Strbp
+Oligodendrocyte	Nav2
+Astrocyte	Car5b
+Microglial cell	Ifi35
+Microglial cell	Plscr3
+Microglial cell	Rabep2
+Microglial cell	Casp1
+Microglial cell	Casp6
+Neuron	Cadps2
+Astrocyte	Ccdc90b
+Neuron	Tead1
+Astrocyte	Pomt1
+Oligodendrocyte	Ptov1
+Astrocyte	Etfdh
+Microglial cell	Dtx3l
+Microglial cell	Coro1a
+Oligodendrocyte	Unc80
+Astrocyte	Dmd
+Astrocyte	Gldc
+Oligodendrocyte	Opcml
+Neuron	Dach1
+Neuron	Slc32a1
+Oligodendrocyte	Snx25
+Astrocyte	Nrcam
+Microglial cell	Traf3ip3
+Neuron	Dlx1
+Microglial cell	Fam76b
+Astrocyte	Ikbip
+Oligodendrocyte	Ggct
+Oligodendrocyte	Rapgef1
+Microglial cell	Nfkb2
+Astrocyte	Gpt2
+Microglial cell	Hvcn1
+Oligodendrocyte	Gnptab
+Neuron	Tiam2
+Microglial cell	F13a1
+Microglial cell	Sash3
+Oligodendrocyte	Necab2
+Astrocyte	Gpd2
+Neuron	Cip2a
+Neuron	Csnk1e
+Oligodendrocyte	Acap3
+Neuron	Gprin1
+Neuron	Pwwp3a
+Microglial cell	Atp13a2
+Microglial cell	Prps1l1
+Microglial cell	Gns
+Microglial cell	Epx
+Neuron	Zbtb18
+Microglial cell	Abhd12
+Microglial cell	Gbp7
+Microglial cell	Slc35a3
+Oligodendrocyte	Itpr2
+Oligodendrocyte	Ado
+Microglial cell	Ggh
+Astrocyte	Taco1
+Neuron	Cntnap1
+Microglial cell	Zc3hav1
+Microglial cell	Zc3h6
+Microglial cell	Grn
+Microglial cell	H2-K1
+Microglial cell	Pts
+Oligodendrocyte	Car14
+Neuron	Brsk2
+Oligodendrocyte	Map1lc3b
+Neuron	Zmym2
+Microglial cell	Snx8
+Neuron	Stmn1
+Microglial cell	Tpm3
+Microglial cell	Colgalt1
+Microglial cell	Tlr9
+Astrocyte	Aldh5a1
+Microglial cell	Smarcd2
+Astrocyte	Wdr19
+Microglial cell	Sh3bp1
+Oligodendrocyte	Myrf
+Neuron	Tle5
+Astrocyte	Slc25a42
+Microglial cell	Arid4a
+Astrocyte	Appl2
+Neuron	Dbn1
+Microglial cell	Itgb2
+Oligodendrocyte	Frmd5
+Microglial cell	Itgb3
+Astrocyte	Nebl
+Astrocyte	Cep350
+Microglial cell	Dgkz
+Microglial cell	Pik3r6
+Astrocyte	Clec16a
+Microglial cell	Kcnab1
+Microglial cell	Ano6
+Neuron	Dpysl5
+Neuron	Suv39h2
+Neuron	Senp7
+Astrocyte	Folh1
+Microglial cell	Nt5dc1
+Astrocyte	Msi2
+Oligodendrocyte	Sulf2
+Neuron	Reln
+Astrocyte	Gstk1
+Microglial cell	Fermt3
+Astrocyte	Bckdha
+Microglial cell	Tgm2
+Astrocyte	Agl
+Astrocyte	Klhdc8b
+Astrocyte	Capzb
+Neuron	Pbrm1
+Oligodendrocyte	Dusp15
+Neuron	Rcor2
+Neuron	Pfdn1
+Astrocyte	Phkg1
+Oligodendrocyte	Abca2
+Oligodendrocyte	Adam9
+Microglial cell	Mef2c
+Neuron	Bag4
+Oligodendrocyte	Dock6
+Microglial cell	Pfkfb3
+Oligodendrocyte	Bche
+Microglial cell	Cd99l2
+Oligodendrocyte	Bpgm
+Microglial cell	Pla2g15
+Oligodendrocyte	Dennd5b
+Oligodendrocyte	Vsnl1
+Microglial cell	Tlr2
+Oligodendrocyte	Sh3d19
+Astrocyte	Abcd3
+Microglial cell	Clcn5
+Oligodendrocyte	Abtb2
+Astrocyte	Wasf3
+Microglial cell	Tradd
+Microglial cell	Ccr1
+Microglial cell	Zfyve26
+Neuron	Cdk13
+Oligodendrocyte	Ust
+Microglial cell	Rassf4
+Microglial cell	Bin1
+Microglial cell	Crybb1
+Oligodendrocyte	Ddc
+Astrocyte	Cth
+Oligodendrocyte	Begain
+Astrocyte	Grm3
+Oligodendrocyte	Eef1a2
+Astrocyte	Itpkb
+Microglial cell	Rufy1
+Oligodendrocyte	Taf9b
+Oligodendrocyte	Mbnl2
+Oligodendrocyte	Gpr17
+Oligodendrocyte	Vps13b
+Microglial cell	Pctp
+Microglial cell	Pfn1
+Neuron	Med14
+Neuron	Mapk8
+Neuron	Abracl
+Astrocyte	Cox6b1
+Microglial cell	Prkcd
+Astrocyte	Aldh7a1
+Neuron	Msl1
+Astrocyte	Kyat3
+Astrocyte	Rasa2
+Oligodendrocyte	Slc4a8
+Microglial cell	Ppt1
+Astrocyte	Elmo2
+Astrocyte	Kcnn2
+Astrocyte	Itprid2
+Microglial cell	Slc25a24
+Microglial cell	Stat2
+Oligodendrocyte	Inppl1
+Oligodendrocyte	Pank3
+Oligodendrocyte	Lrrn1
+Microglial cell	Themis2
+Microglial cell	Man1c1
+Astrocyte	Gstm1
+Astrocyte	Gstz1
+Astrocyte	Vhl
+Astrocyte	Gulp1
+Astrocyte	Crtc3
+Oligodendrocyte	Mpz
+Oligodendrocyte	Tbc1d19
+Microglial cell	Ap5z1
+Oligodendrocyte	Map1a
+Microglial cell	Mob1a
+Neuron	Mab21l1
+Oligodendrocyte	Nefl
+Astrocyte	Hsdl2
+Microglial cell	Fhod1
+Astrocyte	Acadl
+Neuron	Nck2
+Oligodendrocyte	H2ac20
+Microglial cell	Dnajc13
+Astrocyte	Vezt
+Microglial cell	Necap2
+Oligodendrocyte	Atg101
+Neuron	Celf3
+Microglial cell	Kctd12
+Microglial cell	Dmxl1
+Neuron	Nsg2
+Oligodendrocyte	Prph
+Microglial cell	Rbm47
+Oligodendrocyte	Pstpip2
+Microglial cell	Oas1a
+Microglial cell	Irak4
+Microglial cell	Stfa2l1
+Oligodendrocyte	Micall1
+Astrocyte	Slc30a10
+Microglial cell	Stat6
+Microglial cell	Stfa3
+Oligodendrocyte	Rtkn
+Oligodendrocyte	S100a1
+Oligodendrocyte	S100a13
+Microglial cell	Snx2
+Astrocyte	Ncam1
+Oligodendrocyte	Sh3gl3
+Microglial cell	Psmb9
+Astrocyte	Pbxip1
+Neuron	Champ1
+Neuron	Ccnb1
+Astrocyte	Sigmar1
+Microglial cell	Taok3
+Microglial cell	Pkn1
+Astrocyte	Pdgfrb
+Microglial cell	Ltf
+Astrocyte	Txnrd3
+Astrocyte	Pcdh10
+Oligodendrocyte	Snx11
+Neuron	St8sia3
+Microglial cell	Was
+Neuron	C3
+Neuron	Ankhd1
+Neuron	Chn1
+Microglial cell	Parp14
+Astrocyte	Ppic
+Microglial cell	Nt5e
+Neuron	Cacnb3
+Oligodendrocyte	Papss1
+Astrocyte	Acss2
+Astrocyte	Phgdh
+Astrocyte	Plxnb1
+Neuron	Tcf4
+Oligodendrocyte	Pus7l
+Astrocyte	Acadsb
+Microglial cell	Slc29a3
+Oligodendrocyte	Inpp5b
+Oligodendrocyte	Zfp276
+Astrocyte	Cul7
+Neuron	Fam185a
+Neuron	Foxk2
+Microglial cell	Clta
+Microglial cell	Naglu
+Astrocyte	Nlrx1
+Astrocyte	Sag
+Astrocyte	Ephx2
+Neuron	Dcx
+Neuron	Shank2
+Astrocyte	P4ha3
+Microglial cell	Scly
+Neuron	Mtss1
+Neuron	Dnajb6
+Oligodendrocyte	Gne
+Astrocyte	Nat8f1
+Oligodendrocyte	Efs
+Microglial cell	Ctsh
+Oligodendrocyte	Fem1b
+Astrocyte	Actn1
+Astrocyte	Fn1
+Microglial cell	Gvin1
+Neuron	Gria1
+Oligodendrocyte	Jmy
+Oligodendrocyte	Pdlim5
+Oligodendrocyte	Dnaja4
+Oligodendrocyte	Ehd3
+Oligodendrocyte	Sh3rf1
+Microglial cell	Eno3
+Microglial cell	Plek
+Astrocyte	Nudt19
+Microglial cell	Cbln4
+Oligodendrocyte	Ttl
+Oligodendrocyte	Fbxo7
+Microglial cell	Rgs19
+Neuron	Syngap1
+Astrocyte	Vcam1
+Astrocyte	Upp1
+Oligodendrocyte	Mtap
+Neuron	Camsap1
+Neuron	Kif21b
+Neuron	Madd
+Astrocyte	Cpm
+Neuron	Pak5
+Neuron	Mark1
+Astrocyte	Itih5
+Microglial cell	Ptprj
+Astrocyte	Bcl2
+Neuron	Foxj3
+Oligodendrocyte	Mobp
+Neuron	Ndufaf6
+Oligodendrocyte	Nob1
+Astrocyte	Uaca
+Microglial cell	Sord
+Astrocyte	Pdzd11
+Neuron	Smg1
+Neuron	Myt1
+Oligodendrocyte	Fam122a
+Neuron	Hirip3
+Oligodendrocyte	Camsap2
+Astrocyte	Acox1
+Astrocyte	Adk
+Astrocyte	Limd1
+Oligodendrocyte	Pcyt2
+Neuron	Usp28
+Microglial cell	Aagab
+Microglial cell	Wwp2
+Neuron	Nsrp1
+Astrocyte	Pdlim4
+Microglial cell	Rpl37
+Neuron	Tgfb1
+Oligodendrocyte	Osbpl6
+Microglial cell	Plxdc2
+Oligodendrocyte	Chd1
+Neuron	Cpne5
+Astrocyte	Dhrs1
+Oligodendrocyte	Inf2
+Neuron	Prim1
+Neuron	Lpcat4
+Neuron	Prox1
+Neuron	Cnksr2
+Astrocyte	Slc6a17
+Neuron	Ttc26
+Microglial cell	Prorsd1
+Neuron	Xxylt1
+Oligodendrocyte	Dock9
+Neuron	Rps19bp1
+Oligodendrocyte	Neu4
+Oligodendrocyte	Igsf5
+Microglial cell	Lsp1
+Astrocyte	Micall2
+Oligodendrocyte	Ythdc2
+Oligodendrocyte	Epb41l3
+Microglial cell	Tpd52
+Astrocyte	Sorcs2
+Microglial cell	Vrk2
+Neuron	Stx1a
+Microglial cell	Tbc1d13
+Oligodendrocyte	Gsdme
+Oligodendrocyte	Bcas1
+Microglial cell	Capza1
+Microglial cell	Capg
+Oligodendrocyte	Apbb1
+Astrocyte	Pxmp4
+Neuron	Islr2
+Microglial cell	Casp8
+Microglial cell	Lgals3bp
+Oligodendrocyte	Wasf1
+Microglial cell	Ctsa
+Oligodendrocyte	Il1rap
+Oligodendrocyte	Sh3bp4
+Microglial cell	Phyhd1
+Astrocyte	Ptpmt1
+Oligodendrocyte	Dpyd
+Neuron	Polr2d
+Microglial cell	Stk11ip
+Neuron	Baz2b
+Astrocyte	Nde1
+Astrocyte	Timm21
+Astrocyte	Slc12a4
+Oligodendrocyte	Dnm3
+Neuron	Wiz
+Neuron	Pcgf2
+Astrocyte	Nudt7
+Neuron	Smc4
+Astrocyte	Decr1
+Microglial cell	Rnpep
+Microglial cell	Npl
+Oligodendrocyte	Eno2
+Oligodendrocyte	Pde4b
+Oligodendrocyte	Fah
+Microglial cell	Arsg
+Microglial cell	Ctsc
+Oligodendrocyte	Fntb
+Neuron	Zfp422
+Microglial cell	Snx29
+Neuron	Ubash3b
+Microglial cell	Glb1l
+Neuron	Chaf1a
+Astrocyte	Plpp3
+Microglial cell	Cert1
+Oligodendrocyte	Zfp579
+Astrocyte	Smdt1
+Oligodendrocyte	Gtf2h4
+Microglial cell	Lcp1
+Astrocyte	Rftn2
+Neuron	Smpd3
+Microglial cell	Plekho2
+Oligodendrocyte	Tmf1
+Microglial cell	Pnpo
+Microglial cell	Golm1
+Microglial cell	Spcs3
+Microglial cell	Galt
+Microglial cell	Mvp
+Oligodendrocyte	Prepl
+Microglial cell	Ccdc88b
+Microglial cell	Gls
+Neuron	Dner
+Neuron	Mgst3
+Microglial cell	Slc25a45
+Oligodendrocyte	Dgat1
+Neuron	Lrrc8c
+Neuron	Klf12
+Oligodendrocyte	Ppfibp1
+Neuron	Mpped2
+Astrocyte	Rgs7
+Neuron	Cmss1
+Microglial cell	Trmt2a
+Microglial cell	Inpp4b
+Microglial cell	Dpp7
+Neuron	Fnbp4
+Microglial cell	Idua
+Microglial cell	Sgpl1
+Neuron	Prdm8
+Oligodendrocyte	S100a16
+Neuron	Kctd15
+Astrocyte	Mcee
+Microglial cell	Osbpl9
+Microglial cell	Nfxl1
+Neuron	Rnf214
+Microglial cell	Apobr
+Microglial cell	Uap1l1
+Neuron	Phf8
+Microglial cell	Cbln2
+Oligodendrocyte	Jam3
+Oligodendrocyte	Rab27b
+Neuron	Ccdc177
+Astrocyte	Wdr35
+Astrocyte	Lamc1
+Astrocyte	Oplah
+Microglial cell	Lcn2
+Neuron	Prkar1b
+Astrocyte	Adhfe1
+Astrocyte	Ass1
+Microglial cell	Arpc1b
+Microglial cell	Spg11
+Neuron	Nt5dc2
+Microglial cell	Tap1
+Microglial cell	Nfatc1
+Neuron	Trrap
+Astrocyte	Fbxo2
+Astrocyte	Capns1
+Oligodendrocyte	AW551984
+Astrocyte	Sec14l2
+Neuron	Zfp62
+Microglial cell	Bid
+Neuron	Slc35e1
+Oligodendrocyte	Tnr
+Astrocyte	Clu
+Oligodendrocyte	Adam22
+Neuron	Brd3
+Oligodendrocyte	Tmcc3
+Microglial cell	Mknk1
+Microglial cell	Arhgap4
+Neuron	Chd9
+Neuron	Caap1
+Astrocyte	Myl9
+Astrocyte	Etfa
+Microglial cell	Wasf2
+Oligodendrocyte	Tyw5
+Neuron	Pax6
+Microglial cell	Ddx31
+Oligodendrocyte	Rab33a
+Oligodendrocyte	Ptpro
+Astrocyte	Pals2
+Neuron	Zfp532
+Astrocyte	Pcp4l1
+Neuron	Nup35
+Microglial cell	Nhlrc3
+Microglial cell	Nat2
+Neuron	Zfp280c
+Microglial cell	Gpx1
+Astrocyte	Lrp4
+Microglial cell	Cryba4
+Neuron	Wdr47
+Microglial cell	Nfatc2
+Astrocyte	Fam168a
+Microglial cell	Nfkb1
+Neuron	Armcx4
+Microglial cell	Niban1
+Microglial cell	Rps6ka1
+Astrocyte	Chpt1
+Microglial cell	S100a9
+Microglial cell	Ids
+Microglial cell	Mgat2
+Microglial cell	Mtmr6
+Astrocyte	Itga1
+Astrocyte	Cald1
+Astrocyte	Maob
+Microglial cell	Pla2g4a
+Microglial cell	Pik3cd
+Astrocyte	Abr
+Astrocyte	Pygb
+Microglial cell	Plod1
+Neuron	Plppr4
+Astrocyte	Slc13a3
+Oligodendrocyte	Ppfibp2
+Astrocyte	Parva
+Microglial cell	Tor4a
+Microglial cell	Cep250
+Neuron	Phip
+Astrocyte	Tmem176b
+Oligodendrocyte	Epb41l1
+Oligodendrocyte	Rab4a
+Oligodendrocyte	Trim27
+Microglial cell	Rps6ka4
+Microglial cell	Ptbp3
+Neuron	Tex30
+Neuron	Rai14
+Oligodendrocyte	Cdc37l1
+Neuron	Rabif
+Neuron	Pycr1
+Oligodendrocyte	Bbs7
+Oligodendrocyte	Magi2
+Microglial cell	Dcxr
+Neuron	Ahsa2
+Oligodendrocyte	Fsd1
+Neuron	Celf6
+Astrocyte	Eci2
+Microglial cell	Vps13c
+Oligodendrocyte	Kank1
+Microglial cell	Flcn
+Oligodendrocyte	Ankrd28
+Astrocyte	Fkbp9
+Astrocyte	Acot1
+Astrocyte	Sema6d
+Microglial cell	Cndp2
+Neuron	Fam89b
+Microglial cell	Ctsz
+Astrocyte	Rcn2
+Astrocyte	Nhsl1
+Neuron	Dcaf1
+Astrocyte	Dgkb
+Astrocyte	Agrn
+Microglial cell	Plin2
+Astrocyte	Ppp1r1a
+Microglial cell	Adssl1
+Astrocyte	Rida
+Microglial cell	Arhgap30
+Microglial cell	Cast
+Neuron	Pbx1
+Astrocyte	Itm2c
+Microglial cell	Cd2ap
+Astrocyte	Smim8
+Astrocyte	Agpat5
+Neuron	Phf20l1
+Microglial cell	Gdpgp1
+Astrocyte	Myo6
+Neuron	Tmem132a
+Astrocyte	Tnks1bp1
+Microglial cell	Vps26a
+Astrocyte	Vcl
+Oligodendrocyte	Phldb1
+Neuron	Fat2
+Neuron	Dck
+Neuron	Cpne9
+Microglial cell	Cstb
+Oligodendrocyte	Smarcb1
+Oligodendrocyte	Olfm2
+Microglial cell	Ncf4
+Neuron	Lig1
+Oligodendrocyte	Tbc1d23
+Astrocyte	Aldh4a1
+Neuron	Ss18l1
+Astrocyte	Foxred1
+Neuron	Atf2
+Microglial cell	Wdfy4
+Neuron	Cacnb4
+Microglial cell	Esyt1
+Microglial cell	Capn1
+Astrocyte	Ttyh1
+Astrocyte	Psd2
+Oligodendrocyte	Tub
+Microglial cell	Ptgr1
+Neuron	Zfp280d
+Oligodendrocyte	Smyd2
+Astrocyte	Car3
+Oligodendrocyte	Dph5
+Astrocyte	Echdc2
+Neuron	Atad2b
+Neuron	Fastkd5
+Oligodendrocyte	Tdrd7
+Astrocyte	Abat
+Neuron	Cyp46a1
+Oligodendrocyte	Lmcd1
+Astrocyte	Klhl25
+Microglial cell	Ints6l
+Neuron	Dapk1
+Astrocyte	Ngef
+Microglial cell	Adgrb1
+Neuron	Phc1
+Oligodendrocyte	Dnm1
+Microglial cell	Ripk1
+Microglial cell	Anxa1
+Neuron	Ighv1-31
+Neuron	Dlg2
+Neuron	Zscan21
+Microglial cell	Arhgef6
+Microglial cell	Engase
+Oligodendrocyte	Efr3b
+Microglial cell	Chmp1b
+Oligodendrocyte	Cygb
+Neuron	Brd7
+Oligodendrocyte	Ube2j2
+Oligodendrocyte	Dnajb2
+Astrocyte	Cbr3
+Neuron	Pfdn6
+Astrocyte	Kctd5
+Astrocyte	Sfxn5
+Microglial cell	Itga6
+Astrocyte	Slc25a20
+Microglial cell	Il16
+Neuron	Usp3
+Microglial cell	Ighg2b
+Astrocyte	Ehhadh
+Microglial cell	Isoc2b
+Neuron	Gramd1a
+Neuron	Afdn
+Astrocyte	Adgrg1
+Neuron	Kcnq2
+Neuron	Epc2
+Neuron	Shank1
+Microglial cell	Cyb5r1
+Microglial cell	Lgals1
+Astrocyte	Paqr4
+Astrocyte	L3hypdh
+Astrocyte	Cap2
+Astrocyte	Retsat
+Oligodendrocyte	St8sia1
+Oligodendrocyte	Gpr158
+Microglial cell	Heatr5a
+Oligodendrocyte	Abhd5
+Oligodendrocyte	Pde4d
+Oligodendrocyte	Dhx40
+Oligodendrocyte	Kctd4
+Neuron	Pqbp1
+Microglial cell	Asph
+Neuron	Dgke
+Neuron	Castor2
+Oligodendrocyte	Hypk
+Neuron	Sfswap
+Neuron	Rbm38
+Astrocyte	Adcy8
+Astrocyte	Dhrs4
+Astrocyte	Ttc21b
+Oligodendrocyte	Gpc1
+Astrocyte	Ppp2r3a
+Neuron	Patz1
+Microglial cell	Mgat1
+Microglial cell	Hprt
+Microglial cell	Aim2
+Neuron	Nol4
+Oligodendrocyte	Mif4gd
+Astrocyte	Mink1
+Microglial cell	Stat5b
+Oligodendrocyte	Uri1
+Astrocyte	Wipi1
+Neuron	Lsm14b
+Astrocyte	Pdlim3
+Neuron	Vezf1
+Neuron	Lpgat1
+Astrocyte	Ift140
+Neuron	Dab2ip
+Microglial cell	Lipa
+Astrocyte	Gpt
+Microglial cell	Tap2
+Microglial cell	Neu1
+Neuron	Cdk2ap1
+Oligodendrocyte	Slc1a1
+Oligodendrocyte	Tbc1d14
+Astrocyte	Magt1
+Microglial cell	Fcgr2b
+Astrocyte	Btd
+Microglial cell	Parvg
+Astrocyte	Cyp2d22
+Oligodendrocyte	Ppfia3
+Astrocyte	Hacl1
+Neuron	Iqcb1
+Oligodendrocyte	Anks1b
+Microglial cell	Diaph2
+Microglial cell	Clec10a
+Oligodendrocyte	R3hdm1
+Neuron	Celf5
+Microglial cell	Cap1
+Oligodendrocyte	Ank1
+Oligodendrocyte	C1ql3
+Astrocyte	Rgs20
+Oligodendrocyte	Traf4
+Neuron	Trp53i11
+Astrocyte	Nrbp2
+Oligodendrocyte	Elovl4
+Astrocyte	P3h1
+Microglial cell	Cbr2
+Microglial cell	Bloc1s5
+Microglial cell	Camp
+Astrocyte	Trak1
+Astrocyte	Sardh
+Microglial cell	Arap3
+Microglial cell	Syk
+Oligodendrocyte	Rras2
+Neuron	Daxx
+Astrocyte	Fgd6
+Microglial cell	Tapbp
+Neuron	Uggt2
+Astrocyte	Vps13d
+Astrocyte	Jam2
+Neuron	Cep170
+Microglial cell	Crip1
+Oligodendrocyte	Bcar1
+Neuron	Zfp37
+Neuron	Lamb1
+Oligodendrocyte	Tceal3
+Astrocyte	9530068E07Rik
+Astrocyte	Hdhd5
+Neuron	Emsy
+Microglial cell	Cyrib
+Neuron	Ttc9b
+Microglial cell	Pik3c2a
+Astrocyte	Efhd1
+Microglial cell	Abcb1a
+Astrocyte	Coro2b
+Neuron	Scai
+Astrocyte	Hadha
+Microglial cell	Arhgap27
+Oligodendrocyte	Tgoln1
+Astrocyte	Pcdhgb6
+Neuron	Elmod1
+Microglial cell	Ap5b1
+Oligodendrocyte	Tpm1
+Microglial cell	D8Ertd738e
+Astrocyte	Cyp2j9
+Astrocyte	Ech1
+Oligodendrocyte	Rnf220
+Oligodendrocyte	Igsf9b
+Astrocyte	Lrch3
+Astrocyte	Arhgap5
+Oligodendrocyte	Tceal5
+Microglial cell	Pald1
+Oligodendrocyte	Scrg1
+Microglial cell	Galm
+Microglial cell	Serpinb1b
+Oligodendrocyte	Sema5a
+Oligodendrocyte	Nefh
+Neuron	Ebf3
+Neuron	Gemin7
+Oligodendrocyte	Mb21d2
+Microglial cell	Lgals9
+Oligodendrocyte	Slc2a13
+Neuron	Kalrn
+Astrocyte	Papss2
+Oligodendrocyte	Psip1
+Microglial cell	Ifi30
+Microglial cell	Nmi
+Oligodendrocyte	Rab39b
+Microglial cell	Man2b2
+Neuron	Zc3h13
+Microglial cell	Elmo1
+Microglial cell	Mapkapk2
+Microglial cell	Creg1
+Oligodendrocyte	Mapkap1
+Astrocyte	Tm7sf2
+Microglial cell	Man2b1
+Microglial cell	Tlr7
+Neuron	Cacna2d1
+Microglial cell	Ugt1a7c
+Oligodendrocyte	Ddx25
+Neuron	Ociad2
+Neuron	Arx
+Neuron	Atad5
+Oligodendrocyte	Ubr3
+Astrocyte	Trpm3
+Microglial cell	Anxa11
+Neuron	Ppfia2
+Neuron	Bod1
+Astrocyte	Utrn
+Astrocyte	Cyp4f16
+Astrocyte	Gcdh
+Oligodendrocyte	Tm7sf3
+Microglial cell	Prcp
+Oligodendrocyte	Endod1
+Microglial cell	Zfhx3
+Astrocyte	Syt11
+Neuron	Dnmt3a
+Astrocyte	Mboat2
+Oligodendrocyte	Plekhm1
+Microglial cell	Cnn2
+Microglial cell	Cotl1
+Astrocyte	Mgst1
+Microglial cell	Nek6
+Neuron	Serpinc1
+Microglial cell	Limd2
+Microglial cell	Baz1a
+Astrocyte	Abcd2
+Neuron	Arg2
+Microglial cell	Abcb1b
+Astrocyte	Cdc42ep4
+Oligodendrocyte	Aplp1
+Oligodendrocyte	Ugdh
+Microglial cell	Acsl5
+Astrocyte	Lingo1
+Astrocyte	Arhgef4
+Neuron	Syne2
+Microglial cell	Arpc5
+Oligodendrocyte	Slc44a1
+Microglial cell	Vwa5a
+Astrocyte	Slc38a3
+Oligodendrocyte	Rgs6
+Oligodendrocyte	Pvalb
+Astrocyte	Car2
+Neuron	Chd7
+Microglial cell	Serpinb6a
+Microglial cell	Hk3
+Microglial cell	Ddx58
+Microglial cell	Col4a1
+Neuron	Dzank1
+Neuron	Auts2
+Neuron	Gprasp1
+Neuron	Pias2
+Neuron	Mki67
+Astrocyte	Prkd1
+Microglial cell	Sqor
+Astrocyte	Erbin
+Astrocyte	Ppp1r3d
+Microglial cell	Rap2c
+Microglial cell	Naga
+Oligodendrocyte	Cntn4
+Astrocyte	Dtna
+Neuron	Upf2
+Astrocyte	Ctnnbip1
+Oligodendrocyte	Dohh
+Oligodendrocyte	Crcp
+Microglial cell	Gmfg
+Microglial cell	Irag2
+Microglial cell	Clic1
+Neuron	Exosc4
+Oligodendrocyte	Cers2
+Neuron	Slfn9
+Neuron	St18
+Neuron	Pdp1
+Microglial cell	Snx17
+Neuron	Hecw1
+Oligodendrocyte	Heatr3
+Microglial cell	Osbpl11
+Neuron	Haus3
+Microglial cell	Btaf1
+Microglial cell	Jak3
+Neuron	Ssh2
+Microglial cell	Alox5
+Oligodendrocyte	Snx15
+Neuron	Tyms
+Neuron	Sp9
+Astrocyte	Pgm5
+Astrocyte	Rsph9
+Microglial cell	Abcd1
+Microglial cell	Oard1
+Microglial cell	Arrb2
+Microglial cell	Lpxn
+Microglial cell	Rasal3
+Microglial cell	Ncf2
+Astrocyte	Abhd3
+Oligodendrocyte	Vat1l
+Astrocyte	Coprs
+Astrocyte	Ahcyl2
+Microglial cell	Naip2
+Astrocyte	Acyp2
+Neuron	Top2a
+Oligodendrocyte	Klhdc4
+Microglial cell	Gpsm3
+Neuron	Cep104
+Neuron	Myo9a
+Oligodendrocyte	Pcbd1
+Neuron	Serpini1
+Astrocyte	Cyp4f15
+Oligodendrocyte	Plekha1
+Microglial cell	Col4a2
+Neuron	Prmt8
+Astrocyte	Abhd4
+Oligodendrocyte	Usp24
+Astrocyte	Nudt2
+Oligodendrocyte	Eif1b
+Oligodendrocyte	Cyp2j6
+Microglial cell	Irf5
+Neuron	Nosip
+Microglial cell	Isyna1
+Oligodendrocyte	Ace
+Oligodendrocyte	Tmcc1
+Neuron	Gse1
+Microglial cell	Tcirg1
+Neuron	Abcc4
+Neuron	Prr12
+Neuron	Nsd2
+Neuron	Phc3
+Neuron	Spc25
+Neuron	Baz1b
+Astrocyte	Gpm6a
+Neuron	Zfp143
+Microglial cell	Sgsh
+Astrocyte	Mavs
+Astrocyte	Csdc2
+Astrocyte	Slc7a2
+Astrocyte	Romo1
+Neuron	Brsk1
+Microglial cell	Ccdc186
+Microglial cell	Tlr13
+Neuron	Tle3
+Astrocyte	Sh3pxd2b
+Oligodendrocyte	Gfod2
+Microglial cell	Sult1a1
+Astrocyte	Caskin1
+Microglial cell	Khk
+Homeostatic microglial cell	P2ry12
+Homeostatic microglial cell	Tmem119
+Homeostatic microglial cell	Siglech
+Macrophage	Fcgr1
+Neuron	Cacna1b
+Neuron	Maoa
+Neuron	Dlg4
+Neuron	Slc6a2
+Neuron	Dbh
+Neuron	Th
+Intermediate GABAergic neuron	Zfpm1
+Early GABAergic neuron	Mfng
+Intermediate GABAergic neuron	St18
+Intermediate GABAergic neuron	Pdzk1ip1
+Late GABAergic neuron	Otx1
+GABAergic neuron	Zfpm2
+Late GABAergic neuron	Sall3
+Late GABAergic neuron	Sox14
+GABAergic neuron	Tal1
+Late GABAergic neuron	Zfpm2
+Early GABAergic neuron	Dll1
+Lamina terminalis astrocyte	Ucma
+Neuron	Ndrg4
+Ependymal cell	S100a6
+Vascular smooth muscle cell(VSMC)	Acta2
+Histaminergic neuron	Hdc
+Vascular endothelial cell	Pecam1
+Vascular endothelial cell	Slc38a5
+Oligodendrocyte	Klk6
+Vascular leptomeningeal cell	Fxyd5
+Vascular leptomeningeal cell	Dcn
+Vascular leptomeningeal cell	Slc47a1
+Oligodendrocyte	Ctps
+Vascular smooth muscle cell(VSMC)	Rgs5
+Amacrine cell	Pax6
+Bipolar cell	Vsx2
+Neuron	Calcrl
+Schwann cell	Prg2
+Progenitor cell	Sox2
+Smooth muscle cell	Prom1
+Myelinating oligodendrocyte	Prg2
+Stem cell	Ly6a
+Radial glia like cell	Gfap
+Radial glia like cell	Lpar1
+Radial glia like cell	Lfng
+Radial glia like cell	Prom1
+Radial glia like cell	Nes
+Radial glia like cell	Notch2
+Radial glia like cell	Gli1
+Radial glia like cell	Slc1a3
+Radial glia like cell	Egfr
+Hippocampal CA1 cell	Slc17a7
+Hippocampal CA1 cell	Hpca
+Hippocampal CA1 cell	Atp2b1
+D1 Medium spiny neuron(D1 MSN)	Tac1
+D1 Medium spiny neuron(D1 MSN)	Pdyn
+D1 Medium spiny neuron(D1 MSN)	Rgs4
+D1 Medium spiny neuron(D1 MSN)	Wfs1
+D1 Medium spiny neuron(D1 MSN)	Calb1
+Neuron	Slc6a5
+Subcortically projecting neuron	Bcl11b
+Excitatory pyramidal neuron	Slc17a7
+Deeper neuron	Fezf2
+Upper neuron	Cux1
+Neural stem cell	Hopx
+Satellite glial cell	Fabp7
+Microglial cell	Cd81
+Perivascular cell	Mrc1
+T cell	Cd3g
+Perivascular cell	Pf4
+Neuronal stem cell	Mcm2
+Stem cell	Notch1
+Non-MGE(Medial ganglionic eminence)-derived interneuron	Lamp5
+Hippocampus cell	Neurod6
+Prefrontal cortex cell	Reln
+Prefrontal cortex cell	Sostdc1
+Non-MGE(Medial ganglionic eminence)-derived interneuron	Vip
+Medial ganglionic eminence (MGE)interneuron	Sst
+Hippocampus cell	Sostdc1
+Prefrontal cortex cell	Neurod6
+Prefrontal cortex cell	Bhlhe22
+Hippocampus cell	Reln
+Hippocampus cell	Bhlhe22
+Mature oligodendrocyte	Mal
+Adult astrocyte	Gjb6
+Neonatal astrocyte	Tnc
+Newly formed oligodendrocyte	Enpp6
+Hippocampal granule cell	Prox1
+Vascular cell	Vtn
+Excitatory neuron	Neurod2
+Newly formed oligodendrocyte	Tns3
+Microglial cell	Rps11
+Microglial cell	Fth1
+Microglial cell	Rpl35
+Microglial cell	Cd63
+Activated microglial cell	Rpl41
+Activated microglial cell	Rpl37
+Oligodendrocyte	Apc
+Progenitor cell	Hes5
+Progenitor cell	Mki67
+Neuron	Esr2
+Neuron	Esr1
+Neuron	Pgr
+Neuron	Gper1
+Neuron	Crh
+Neuron	Avp
+Suture stem cell	Bmpr1a
+Microglial cell	Ifitm3
+Microglial cell	Dkk2
+Microglial cell	Axl
+Microglial cell	Il1b
+Microglial cell	Tnf
+Microglial cell	Nfkbiz
+Microglial cell	Zbp1
+Immature oligodendrocyte	Pdgfra
+Excitatory neuron(Ex)	Slc17a6
+Ependymal cell	Cd24a
+Astrocyte	Gli3
+Border-associated macrophage	Lyve1
+Microglial cell	P2ry14
+Monocyte	Chil3
+Border-associated macrophage	Ms4a7
+Neuron	Mef2c
+Microglial cell	R3hdm1
+Microglial cell	Arpp21
+Antigen-presenting cell	Cd74
+Ependymal cell	Rsph4a
+Pericyte	Cald1
+Neural stem cell	Snhg11
+Border-associated macrophage	Ccr2
+Choroid plexus cell	Kl
+Neuron	Scn7a
+Choroid plexus cell	Clic6
+Pericyte	Snap25
+Pericyte	Notch3
+Neural stem cell	Snap25
+Neural stem cell	Meg3
+Choroid plexus cell	Kcnj13
+Neural stem cell	Ndrg4
+Ependymal cell	Dynlrb2
+Effector CD8 T cell	Il7r
+Effector CD8 T cell	Klrg1
+Neural stem cell	Htra1
+Neural stem cell	Hes5
+Neural stem cell	Mfge8
+Neural stem cell	Ntsr2
+Neural stem cell	Agt
+Non-myelinating stem cell	Ncam1
+Lymphatic endothelial cell	Prox1
+Lymphatic endothelial cell	Flt4
+Immature stem cell	Ngfr
+Immature stem cell	L1cam
+Lymphatic endothelial cell	Lyve1
+Endothelial cell	Cd300lg
+Non-myelinating stem cell	Ngfr
+Myelinating stem cell	Mbp
+Stem cell	Pou3f1
+Myelinating stem cell	Ncmap
+Myelinating stem cell	Mpz
+Stem cell	Sox10
+Immature stem cell	Ncam1
+Dentate gyrus granule cell	C1ql2
+Choroid plexus cell	Folr1
+Stem cell	Rbpms
+Club cell (Clara cell)	Wnt3
+Neuron	Nr5a1
+Neuron	Hcrt
+Neuron	Oxt
+Neuron	Pmch
+Neuron	Cnr1
+Neuron	Npy
+Neuron	Ppp1r17
+Neuron	Slc17a7
+Progenitor cell	Egfr
+Ependymal cell	Plac9
+Interneuron	Kit
+Pyramidal CA1 cell	Camkv
+Pyramidal CA1 cell	Gria2
+Pyramidal CA1 cell	Brd9
+Pyramidal CA1 cell	Rasgrf1
+Microglial cell	Cd74
+Natural killer cell	Fas
+Natural killer cell	Sell
+Natural killer cell	Itgae
+Natural killer cell	Klrc2
+Natural killer cell	Mki67
+Natural killer cell	Fcgr3
+Natural killer cell	Il2ra
+Natural killer cell	Cd244a
+Natural killer cell	Klrc1
+Anti-inflammatory M2 macrophage	Mrc1
+Stem cell	Krt8
+Stem cell	Krt18
+Stem cell	Cdh1
+Stem cell	Sox9
+Mature oligodendrocyte	Apc
+Lymphoid progenitor cell	Ccr9
+Myeloid progenitor cell	Spi1
+Hematopoietic stem cell	Cd34
+Hematopoietic stem cell	Kit
+Myeloid progenitor cell	Myb
+Hematopoietic stem cell	Cd27
+Hemogenic endothelial cell	Prom1
+Hemogenic endothelial cell	Procr
+Hemogenic endothelial cell	Cd44
+Glial progenitor cell	Pax6
+Glial progenitor cell	Fabp7
+Foam cell	Sgpp1
+Disease-associated microglial cell	Sgpp1
+B cell	Ly6d
+Neutrophil	Stfa2
+Macrophage	H2-Ab1
+Neutrophil	Stfa1
+Border-associated macrophage	Mrc1
+Neutrophil	S100a8
+Macrophage	Plac8
+Border-associated macrophage	Stab1
+Neutrophil	Cstdc4
+B cell	Ms4a1
+Neutrophil	S100a9
+Macrophage	Cd74
+B cell	Cd79a
+T cell	Ms4a4b
+Macrophage	H2-Eb1
+Macrophage	H2-Aa
+Border-associated macrophage	Dab2
+B cell	Mzb1
+Neutrophil	Retnlg
+Microglia-like cell	Cd9
+Microglia-like cell	Sparc
+Microglia-like cell	P2ry12
+Macrophage	Lgals3
+Border-associated macrophage	F13a1
+Macrophage	S100a6
+Microglia-like cell	Cd81
+Microglia-like cell	Hexb
+Microglia-like cell	Spp1
+T cell	Scart1
+B cell	Cd74
+T cell	Tmsb10
+T cell	Ptprcap
+Border-associated macrophage	Cbr2
+B cell	Vpreb3
+Microglia-like cell	Crybb1
+Border-associated macrophage	Pf4
+Microglia-like cell	Serpine2
+Neutrophil	Ngp
+T cell	Thy1
+B cell	Cd79b
+Myeloid cell	Adgre1
+Functional myeloid cell	Fcgr1
+Activation myeloid cell	Fcgr1
+Neuron-glial antigen 2(NG2) cell	Birc5
+Neuron-glial antigen 2(NG2) cell	Rrm2
+Astrocyte	Kcne1
+Neuron-glial antigen 2(NG2) cell	Spc24
+Neuron-glial antigen 2(NG2) cell	Pbk
+Neuron-glial antigen 2(NG2) cell	Ube2c
+Astrocyte	Hells
+Astrocyte	Top2a
+Neuron-glial antigen 2(NG2) cell	Cspg4
+Astrocyte	Kcnq1
+Astrocyte	Kcnq4
+Macrophage	Lyve1
+Glial cell	Tnc
+Glial cell	Egfr
+Adult neuronal stem cell	Tnfrsf19
+Neuron	Sepsecs
+Dopaminergic neuron	Pitx3
+Glutamatergic neuron	Tbr1
+Oligodendrocyte	Mycl
+GABAergic neuron	Lhx6
+Endothelial cell	Bcl6b
+Dopaminergic neuron	Nr4a2
+Endothelial cell	Foxp1
+Dopaminergic neuron	Lmx1b
+Endothelial cell	Foxf2
+Dopaminergic neuron	Foxa2
+Endothelial cell	Lef1
+Endothelial cell	Tie1
+Tanycyte	Gfap
+Neural progenitor cell	Nes
+Glial cell	Plp1
+Glial cell	Sox10
+Neuron progenitor cell	Dcx
+Microglial cell	Mki67
+Natural killer cell	Ncr1
+Neutrophil	Ly6g
+Microglial cell	Ccl6
+Microglial cell	Ank
+Microglial cell	Cd9
+Macrophage	Ccr2
+Monocyte	F13a1
+Neuron	Gfap
+Endothelial cell	Vcan
+Microglial cell	Cxcr1
+Neuron	Kat2a
+Neuron	Ascl1
+Neuron	Lratd2
+Neuron	Rspo1
+Primary motor cortex cell	Rorb
+Primary motor cortex cell	Rspo1
+Primary motor cortex cell	Fezf2
+Neuron	Myh8
+Oligodendrocyte progenitor cell	Dcn
+Microglia cell	Cx3cr1
+Excitatory neuron	Sv2c
+Inhibitory neuron	Pvalb
+Interneuron	Chat
+D2 Medium spiny neuron(D2 MSN)	Drd2
+Medium spiny neuron(MSN)	Ppp1r1b
+D1 Medium spiny neuron(D1 MSN)	Drd1
+Interneuron	Resp18
+Neuron	Mc4r
+Neuron	Pdyn
+Neuron	Nr2f2
+Neuron	Otp
+Neuron	Lhx1
+Neuron	Nts
+Neuron	Trh
+Neuron	Pou2f2
+Neuron	Foxb1
+Neuron	Onecut2
+B cell	Iglc3
+CD8+ T cell	Stat4
+CD8+ T cell	Cd8a
+Pyramidal glutamatergic neuron	Camk2a
+Pyramidal glutamatergic neuron	Wfs1
+Pyramidal glutamatergic neuron	Satb2
+Dopaminergic neuron	Calb1
+Dopaminergic neuron	Foxa1
+T helper 17(Th17) cell	Hk2
+T helper 17(Th17) cell	Rorc
+T helper 17(Th17) cell	Cish
+T helper 17(Th17) cell	Rora
+T helper 17(Th17) cell	Tmem176a
+T helper 17(Th17) cell	Irf4
+T helper 17(Th17) cell	Rbpj
+T helper 17(Th17) cell	Il17f
+T helper 17(Th17) cell	Fosl2
+T helper 17(Th17) cell	Ccr6
+Osteoclast	Spp1
+Excitatory neuron	Slc17a6
+Cholinergic Neuron	Slc5a7
+Ependymocyte	Cfap52
+Ependymocyte	Vim
+Tanycyte	Vim
+Radial glial cell	Slc1a3
+Radial glial cell	Notch2
+CD10+ B cell	Mmp12
+Macrophage	Itgax
+Monocyte	Lyz2
+Engrafted macrophage	Clec12a
+Engrafted macrophage	Mrc1
+Monocyte	Apoe
+Monocyte	Itgax
+Engrafted macrophage	Ms4a7
+Engrafted macrophage	Apoe
+Engrafted macrophage	Itgal
+Engrafted macrophage	Ccr2
+Monocyte	Plac8
+Schwann cell	Ttr
+Neuron	Meis2
+Meningeal cell	Slc4a10
+Plasma cell	Cd79a
+Granulocyte	S100a8
+Natural killer cell	Klrk1
+Leukocyte	Ptprc
+Astrocyte	Sox10
+Upper layer 2 cell	Cntn5
+Oligodendrocyte	Lhfpl3
+Oligodendrocyte	St18
+Leptomeningeal cell	Bnc2
+B cell	Trpc6
+Upper layer 2 cell	Mdga1
+Vascular cell	Bnc2
+Upper layer 2 cell	Cdh13
+Vascular cell	Slc6a13
+Leptomeningeal cell	Slc6a13
+Upper layer 2 cell	Cux2
+Upper layer 2 cell	Chrm2
+Upper layer 3 cell	Ccbe1
+Oligodendrocyte precursor cell	Lhfpl3
+Upper layer 3 cell	Mdga1
+Vascular cell	Slc47a1
+Upper layer 4 cell	Cux2
+Upper layer 2 cell	Kcnh5
+Upper layer 2 cell	Astn2
+Upper layer 3 cell	Kcnh5
+Upper layer 3 cell	Cntn5
+Upper layer 2 cell	Grm1
+Astrocyte	Grin2c
+Leptomeningeal cell	Slc47a1
+Upper layer 3 cell	Chrm2
+Upper layer 3 cell	Astn2
+Upper layer 2 cell	Trpc6
+Upper layer 3 cell	Cdh13
+Upper layer 2 cell	Ccbe1
+Upper layer 3 cell	Grm1
+Upper layer 3 cell	Trpc6
+Upper layer 3 cell	Cux2
+Pan-oligodendroglial cell	Sox10
+Bipotent progenitor cell	Myf5
+Oligodendrocyte	F3
+Excitatory neuron	Sv2b
+Oligodendrocyte progenitor cell	Ednrb
+Interneuron	Slc32a1
+Newly formed oligodendrocyte	9630013A20Rik
+Neuron	Phox2b
+Astrocyte	Il17a
+Oligodendrocyte	Cspg5
+Myeloid cell	Hexb
+Progenitor cell	Meg3
+Myeloid cell	C1qa
+Progenitor cell	Stmn3
+Myeloid cell	Trem2
+Progenitor cell	Syt1
+B cell	Ptprc
+Neuron	Pax2
+Neuron	Rora
+Neuron	Ptf1a
+Neuron	Foxp2
+Neuron	Id3
+Neuron	Sox14
+Neuron	Atoh1
+Astrocyte	Olfr50
+Astrocyte	Agxt
+Rostromedial tegmental nucleu (RMTg)	Tph2
+Interpeduncular nucleu (IPN)	Efna2
+Interpeduncular nucleu (IPN)	Sox11
+Dopamine neuron	Slc18a2
+Interpeduncular nucleu (IPN)	Cyp26b1
+Dopamine neuron	Ddc
+Dopamine neuron	Slc6a3
+Interpeduncular nucleu (IPN)	Epha8
+Dendritic cell	Ccr7
+Natural killer cell	Klra4
+Microglial cell	Sall3
+Macrophage	Pf4
+Dendritic cell	H2-DMb2
+Monocyte	Ly6i
+Natural killer cell	Klra8
+Neuron	Gpr37l1
+Dendritic cell	Kmo
+Ependymal cell	Enpp2
+Macrophage	Cd163
+T cell	Trac
+Ependymal cell	Ecrg4
+Monocyte	Sirpb1c
+T cell	Trbc2
+Monocyte	Apoc2
+Ependymal cell	Ttr
+Neuron	Ptprz1
+Pericyte	Ndufa4l2
+Pericyte	Higd1b
+Pericyte	Cd248
+Pericyte	Des
+Pericyte	Cspg4
+Pericyte	Anpep
